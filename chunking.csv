@@ -1,0 +1,1963 @@
+id,start,end,text,file
+0,0.0,5.6000000000000005," In today's video, we will learn how audio, video and media elements are used in HTML.","10 _Video, Audio & Media in HTML .mp3.json"
+1,5.6000000000000005,10.56," In our very first video, we saw that we can embed videos in HTML.","10 _Video, Audio & Media in HTML .mp3.json"
+2,10.56,13.32," Today I will tell you how the video is auto-played,","10 _Video, Audio & Media in HTML .mp3.json"
+3,13.32,15.44," how to keep a muted video,","10 _Video, Audio & Media in HTML .mp3.json"
+4,15.44,19.88, and how you can enable and disable the video controls.,"10 _Video, Audio & Media in HTML .mp3.json"
+5,19.88,22.52," Along with that, we will also see very closely about audio,","10 _Video, Audio & Media in HTML .mp3.json"
+6,22.52,25.52, how media can be shown in an overall page.,"10 _Video, Audio & Media in HTML .mp3.json"
+7,25.52,28.52, So do like this video and stay in this video,"10 _Video, Audio & Media in HTML .mp3.json"
+8,28.52,32.68, because the examples I have used for video tags are very amazing.,"10 _Video, Audio & Media in HTML .mp3.json"
+9,32.68,33.96, Let's go to the video screen.,"10 _Video, Audio & Media in HTML .mp3.json"
+10,33.96,35.2, Let's roll the intro.,"10 _Video, Audio & Media in HTML .mp3.json"
+11,35.2,44.2, Intro,"10 _Video, Audio & Media in HTML .mp3.json"
+12,44.2,47.120000000000005," Friends, this time I have made a folder named video10.","10 _Video, Audio & Media in HTML .mp3.json"
+13,47.120000000000005,51.760000000000005, I will not waste your time by opening the open with code by right-clicking and shifting.,"10 _Video, Audio & Media in HTML .mp3.json"
+14,51.760000000000005,53.92," In fact, I will make it in index.html.","10 _Video, Audio & Media in HTML .mp3.json"
+15,53.92,56.879999999999995, And the topic of today's video is video.,"10 _Video, Audio & Media in HTML .mp3.json"
+16,56.88,62.480000000000004," How to play a video, how to put a video in an HTML file,","10 _Video, Audio & Media in HTML .mp3.json"
+17,62.480000000000004,66.04," how to put audio, how to put media.","10 _Video, Audio & Media in HTML .mp3.json"
+18,66.04,68.56, So adding a video is very straightforward.,"10 _Video, Audio & Media in HTML .mp3.json"
+19,68.56,71.96000000000001," I will copy it here, which is our video tag.","10 _Video, Audio & Media in HTML .mp3.json"
+20,71.96000000000001,75.56, It has an src attribute and it has some other attributes,"10 _Video, Audio & Media in HTML .mp3.json"
+21,75.56,77.12, about which I will discuss with you.,"10 _Video, Audio & Media in HTML .mp3.json"
+22,77.12,80.48," But first of all, I want to tell you here that video src is equal to","10 _Video, Audio & Media in HTML .mp3.json"
+23,80.48,84.48," you will write here, so if you have video.mp4, it will play.","10 _Video, Audio & Media in HTML .mp3.json"
+24,84.48,85.92, I have video.mp4.,"10 _Video, Audio & Media in HTML .mp3.json"
+25,85.96000000000001,88.64," So let's see here, I have put it here with control.","10 _Video, Audio & Media in HTML .mp3.json"
+26,88.64,90.84, And I will click here and preview it.,"10 _Video, Audio & Media in HTML .mp3.json"
+27,90.84,93.44, And you can see here that this video has come.,"10 _Video, Audio & Media in HTML .mp3.json"
+28,93.44,95.76, Now it is a very big video.,"10 _Video, Audio & Media in HTML .mp3.json"
+29,95.76,96.6, So what can I do?,"10 _Video, Audio & Media in HTML .mp3.json"
+30,96.6,98.24000000000001, I can give its width.,"10 _Video, Audio & Media in HTML .mp3.json"
+31,98.24000000000001,101.84, So I can say here width is equal to 555 pixels.,"10 _Video, Audio & Media in HTML .mp3.json"
+32,101.84,105.68," And as soon as I do 555 pixels, in fact, I don't need to write px.","10 _Video, Audio & Media in HTML .mp3.json"
+33,105.68,106.8, I will only do 555.,"10 _Video, Audio & Media in HTML .mp3.json"
+34,106.8,109.32000000000001, Like we don't need to write px in the image.,"10 _Video, Audio & Media in HTML .mp3.json"
+35,109.32000000000001,111.68, We don't need to write px here either.,"10 _Video, Audio & Media in HTML .mp3.json"
+36,111.68,114.36," So as soon as I did width is equal to 555,","10 _Video, Audio & Media in HTML .mp3.json"
+37,114.36,117.48," in fact, I do one thing, I do height is equal to 555","10 _Video, Audio & Media in HTML .mp3.json"
+38,117.48,118.92, so that it gets smaller.,"10 _Video, Audio & Media in HTML .mp3.json"
+39,118.92,120.12," In fact, I make it smaller.","10 _Video, Audio & Media in HTML .mp3.json"
+40,120.12,121.68, I make it 255.,"10 _Video, Audio & Media in HTML .mp3.json"
+41,121.68,122.92, And you see it came here.,"10 _Video, Audio & Media in HTML .mp3.json"
+42,122.92,125.2," Okay, now I play it because I have taken control.","10 _Video, Audio & Media in HTML .mp3.json"
+43,125.2,126.24, I can play it.,"10 _Video, Audio & Media in HTML .mp3.json"
+44,126.24,128.32," Look here, there is a better road than America.","10 _Video, Audio & Media in HTML .mp3.json"
+45,128.32,129.56, What name did you tell?,"10 _Video, Audio & Media in HTML .mp3.json"
+46,129.56,130.4, Gopindra Jogi.,"10 _Video, Audio & Media in HTML .mp3.json"
+47,130.4,131.24, Where have you been in the US?,"10 _Video, Audio & Media in HTML .mp3.json"
+48,131.24,132.4, I have been to many places in the US.,"10 _Video, Audio & Media in HTML .mp3.json"
+49,132.4,132.96, Name?,"10 _Video, Audio & Media in HTML .mp3.json"
+50,132.96,133.76, Gopindra Jogi.,"10 _Video, Audio & Media in HTML .mp3.json"
+51,133.76,135.72, Hahaha.,"10 _Video, Audio & Media in HTML .mp3.json"
+52,135.72,138.28," The thing is, you can play the video like this.","10 _Video, Audio & Media in HTML .mp3.json"
+53,138.28,140.32, Now there are some attributes of the video tag here.,"10 _Video, Audio & Media in HTML .mp3.json"
+54,140.32,142.0, It is very simple to use the video tag.,"10 _Video, Audio & Media in HTML .mp3.json"
+55,142.0,143.36, You should have a video.,"10 _Video, Audio & Media in HTML .mp3.json"
+56,143.36,144.92000000000002, You have given the path of the video.,"10 _Video, Audio & Media in HTML .mp3.json"
+57,144.92000000000002,146.12," After that, you have given the controls.","10 _Video, Audio & Media in HTML .mp3.json"
+58,146.12,147.76000000000002, So these controls will come to you.,"10 _Video, Audio & Media in HTML .mp3.json"
+59,147.76000000000002,148.96, You can download it.,"10 _Video, Audio & Media in HTML .mp3.json"
+60,148.96,149.84, You can do full screen.,"10 _Video, Audio & Media in HTML .mp3.json"
+61,149.84,151.12, You can mute.,"10 _Video, Audio & Media in HTML .mp3.json"
+62,151.12,152.68, You can do picture in picture.,"10 _Video, Audio & Media in HTML .mp3.json"
+63,152.68,154.8, All this is automatically provided by your browser.,"10 _Video, Audio & Media in HTML .mp3.json"
+64,154.8,156.32000000000002, But let me tell you about some attributes.,"10 _Video, Audio & Media in HTML .mp3.json"
+65,156.32000000000002,157.64000000000001, The first attribute is SRC.,"10 _Video, Audio & Media in HTML .mp3.json"
+66,157.64000000000001,160.24, So you know that put the video here.,"10 _Video, Audio & Media in HTML .mp3.json"
+67,160.24,161.88000000000002, The name of the video file is SRC.,"10 _Video, Audio & Media in HTML .mp3.json"
+68,161.88000000000002,164.84, This video file can also come from the external URL.,"10 _Video, Audio & Media in HTML .mp3.json"
+69,164.84,165.44000000000003, You understand?,"10 _Video, Audio & Media in HTML .mp3.json"
+70,165.44000000000003,168.92000000000002," That is, if I have uploaded a video on Amazon S3 or somewhere else,","10 _Video, Audio & Media in HTML .mp3.json"
+71,168.92000000000002,170.52, then I can also put the URL there.,"10 _Video, Audio & Media in HTML .mp3.json"
+72,170.52,172.8," I mean, it is not necessary that the file is in your computer.","10 _Video, Audio & Media in HTML .mp3.json"
+73,172.8,174.24, It can also be on your server.,"10 _Video, Audio & Media in HTML .mp3.json"
+74,174.24,175.92000000000002, It can also come from third party.,"10 _Video, Audio & Media in HTML .mp3.json"
+75,175.92000000000002,177.24, Now what does the controls do?,"10 _Video, Audio & Media in HTML .mp3.json"
+76,177.24,179.60000000000002," Adds video controls like play, pause, and volume.","10 _Video, Audio & Media in HTML .mp3.json"
+77,179.60000000000002,182.36, Which we saw here in the Bhopendra Jogi video.,"10 _Video, Audio & Media in HTML .mp3.json"
+78,182.36,185.48000000000002, That you are getting the controls here.,"10 _Video, Audio & Media in HTML .mp3.json"
+79,185.48000000000002,187.24, Now what is this thing?,"10 _Video, Audio & Media in HTML .mp3.json"
+80,187.24,188.72, The browser automatically checks,"10 _Video, Audio & Media in HTML .mp3.json"
+81,188.72,191.84," what control ads will be in your video, what will not be.","10 _Video, Audio & Media in HTML .mp3.json"
+82,191.84,193.04000000000002, Then see what will autoplay do?,"10 _Video, Audio & Media in HTML .mp3.json"
+83,193.04000000000002,195.24, It will automatically play as soon as the page loads.,"10 _Video, Audio & Media in HTML .mp3.json"
+84,195.24,195.8, Okay?,"10 _Video, Audio & Media in HTML .mp3.json"
+85,195.8,197.12," So if I put autoplay here,","10 _Video, Audio & Media in HTML .mp3.json"
+86,197.12,198.4, let's say I put autoplay here.,"10 _Video, Audio & Media in HTML .mp3.json"
+87,198.4,199.88000000000002, Okay?,"10 _Video, Audio & Media in HTML .mp3.json"
+88,199.92,202.32, So see.,"10 _Video, Audio & Media in HTML .mp3.json"
+89,202.32,205.72, So you can see here that it has been autoplayed.,"10 _Video, Audio & Media in HTML .mp3.json"
+90,205.72,206.28, Okay?,"10 _Video, Audio & Media in HTML .mp3.json"
+91,206.28,207.88, So I will remove autoplay from here.,"10 _Video, Audio & Media in HTML .mp3.json"
+92,207.88,210.68, And our next attribute is loop.,"10 _Video, Audio & Media in HTML .mp3.json"
+93,210.68,214.68," That is, once our video is played,","10 _Video, Audio & Media in HTML .mp3.json"
+94,214.68,216.07999999999998, it will keep looping.,"10 _Video, Audio & Media in HTML .mp3.json"
+95,216.07999999999998,217.56, Like I show you.,"10 _Video, Audio & Media in HTML .mp3.json"
+96,220.48,221.4, So it started again.,"10 _Video, Audio & Media in HTML .mp3.json"
+97,221.4,224.48," Once I finished it, it started again.","10 _Video, Audio & Media in HTML .mp3.json"
+98,224.48,224.8, Okay?,"10 _Video, Audio & Media in HTML .mp3.json"
+99,224.8,227.4, So this loop works like this.,"10 _Video, Audio & Media in HTML .mp3.json"
+100,227.4,228.8, The next attribute is muted.,"10 _Video, Audio & Media in HTML .mp3.json"
+101,228.8,230.20000000000002, Muted mutes the video.,"10 _Video, Audio & Media in HTML .mp3.json"
+102,230.20000000000002,232.0," So if I write here muted,","10 _Video, Audio & Media in HTML .mp3.json"
+103,232.0,233.68, sometimes we want the video to be muted.,"10 _Video, Audio & Media in HTML .mp3.json"
+104,233.68,237.12," In fact, when I add videos here on codewithhari.com","10 _Video, Audio & Media in HTML .mp3.json"
+105,237.12,238.52," and I demonstrate something,","10 _Video, Audio & Media in HTML .mp3.json"
+106,238.52,240.32000000000002," like downloading VS Code or something,","10 _Video, Audio & Media in HTML .mp3.json"
+107,240.32000000000002,242.0, then I use the muted attribute.,"10 _Video, Audio & Media in HTML .mp3.json"
+108,242.0,244.20000000000002," Because I don't want that when I record a video,","10 _Video, Audio & Media in HTML .mp3.json"
+109,244.20000000000002,246.20000000000002," if there is any background noise, you can hear it.","10 _Video, Audio & Media in HTML .mp3.json"
+110,246.20000000000002,248.64000000000001," For example, I want to show you that this is the element.","10 _Video, Audio & Media in HTML .mp3.json"
+111,248.64000000000001,250.16000000000003, So I will scroll and make a video.,"10 _Video, Audio & Media in HTML .mp3.json"
+112,250.16000000000003,251.56, I will highlight it like this.,"10 _Video, Audio & Media in HTML .mp3.json"
+113,251.56,252.60000000000002, So I don't need audio in it.,"10 _Video, Audio & Media in HTML .mp3.json"
+114,252.60000000000002,254.20000000000002, So I mute it.,"10 _Video, Audio & Media in HTML .mp3.json"
+115,254.20000000000002,257.8, So you can use the muted attribute on your website.,"10 _Video, Audio & Media in HTML .mp3.json"
+116,257.8,258.44, Then the poster.,"10 _Video, Audio & Media in HTML .mp3.json"
+117,258.44,259.68, The poster is very important.,"10 _Video, Audio & Media in HTML .mp3.json"
+118,259.68,261.6, So I have an image here.,"10 _Video, Audio & Media in HTML .mp3.json"
+119,261.6,262.8, Download.jpg.,"10 _Video, Audio & Media in HTML .mp3.json"
+120,262.8,263.40000000000003, Okay?,"10 _Video, Audio & Media in HTML .mp3.json"
+121,263.40000000000003,266.12, If I write here poster is equal to,"10 _Video, Audio & Media in HTML .mp3.json"
+122,266.12,268.04," and I write download.jpg,","10 _Video, Audio & Media in HTML .mp3.json"
+123,268.04,269.96000000000004, then you will see something like this.,"10 _Video, Audio & Media in HTML .mp3.json"
+124,269.96000000000004,270.2, Okay?,"10 _Video, Audio & Media in HTML .mp3.json"
+125,270.2,271.2, This is how the poster looks.,"10 _Video, Audio & Media in HTML .mp3.json"
+126,271.2,272.48, Then I will play it.,"10 _Video, Audio & Media in HTML .mp3.json"
+127,272.48,273.56, So the video will play.,"10 _Video, Audio & Media in HTML .mp3.json"
+128,273.56,274.6," So in a way, thumbnail.","10 _Video, Audio & Media in HTML .mp3.json"
+129,274.6,274.84000000000003, Okay?,"10 _Video, Audio & Media in HTML .mp3.json"
+130,274.84000000000003,276.40000000000003," You saw the thumbnail of the YouTube video, right?","10 _Video, Audio & Media in HTML .mp3.json"
+131,276.40000000000003,276.96000000000004, It's exactly the same.,"10 _Video, Audio & Media in HTML .mp3.json"
+132,276.96000000000004,278.40000000000003, This is the poster attribute.,"10 _Video, Audio & Media in HTML .mp3.json"
+133,278.40000000000003,280.88, So you can use all these attributes.,"10 _Video, Audio & Media in HTML .mp3.json"
+134,280.88,281.6, Width and height.,"10 _Video, Audio & Media in HTML .mp3.json"
+135,281.6,284.36, You know that it specifies the dimension of the video.,"10 _Video, Audio & Media in HTML .mp3.json"
+136,284.36,286.2, Like I added both width and height here.,"10 _Video, Audio & Media in HTML .mp3.json"
+137,286.2,287.16, You saw.,"10 _Video, Audio & Media in HTML .mp3.json"
+138,287.16,290.44, So I hope you understood this thing.,"10 _Video, Audio & Media in HTML .mp3.json"
+139,290.44,293.88000000000005," Now, the thing I want to tell you after this is audio.","10 _Video, Audio & Media in HTML .mp3.json"
+140,293.88000000000005,296.04, So this is for all the attributes of your video.,"10 _Video, Audio & Media in HTML .mp3.json"
+141,296.04,297.08000000000004, It's very straightforward.,"10 _Video, Audio & Media in HTML .mp3.json"
+142,297.08000000000004,299.48, I want you to make a good website.,"10 _Video, Audio & Media in HTML .mp3.json"
+143,299.48,302.04, Which I am going to give you at the end of this video.,"10 _Video, Audio & Media in HTML .mp3.json"
+144,302.04,302.64000000000004, In quick quiz.,"10 _Video, Audio & Media in HTML .mp3.json"
+145,302.64000000000004,304.16, So listen to the quick quiz.,"10 _Video, Audio & Media in HTML .mp3.json"
+146,304.16,305.56," In fact, I will put the heading here.","10 _Video, Audio & Media in HTML .mp3.json"
+147,305.56,306.52000000000004, Quick quiz.,"10 _Video, Audio & Media in HTML .mp3.json"
+148,306.52000000000004,307.36, Okay?,"10 _Video, Audio & Media in HTML .mp3.json"
+149,307.36,309.64000000000004, So that I don't forget.,"10 _Video, Audio & Media in HTML .mp3.json"
+150,309.64000000000004,310.72, I will give you this now.,"10 _Video, Audio & Media in HTML .mp3.json"
+151,310.72,312.20000000000005, And this is going to be a very interesting quiz.,"10 _Video, Audio & Media in HTML .mp3.json"
+152,312.20000000000005,313.48, And everyone must solve it.,"10 _Video, Audio & Media in HTML .mp3.json"
+153,313.48,316.20000000000005, But before that.,"10 _Video, Audio & Media in HTML .mp3.json"
+154,316.24,317.32, As soon as you write audio.,"10 _Video, Audio & Media in HTML .mp3.json"
+155,317.32,318.28, Here comes SRC.,"10 _Video, Audio & Media in HTML .mp3.json"
+156,318.28,321.03999999999996, And I have to put it in sachin.mp3.,"10 _Video, Audio & Media in HTML .mp3.json"
+157,321.03999999999996,323.15999999999997, So as soon as I put it in sachin.mp3.,"10 _Video, Audio & Media in HTML .mp3.json"
+158,323.15999999999997,323.92, Now see here.,"10 _Video, Audio & Media in HTML .mp3.json"
+159,323.92,325.4, I will reload it.,"10 _Video, Audio & Media in HTML .mp3.json"
+160,325.4,327.15999999999997, And there is no audio here.,"10 _Video, Audio & Media in HTML .mp3.json"
+161,327.15999999999997,327.88, Which is strange.,"10 _Video, Audio & Media in HTML .mp3.json"
+162,327.88,329.68, Let's see what the problem is here.,"10 _Video, Audio & Media in HTML .mp3.json"
+163,329.68,331.2, I put SRC is equal to.,"10 _Video, Audio & Media in HTML .mp3.json"
+164,331.2,333.36, I have to write controls here too.,"10 _Video, Audio & Media in HTML .mp3.json"
+165,333.36,334.44, So if I don't write controls.,"10 _Video, Audio & Media in HTML .mp3.json"
+166,334.44,335.44, Then I won't see the audio.,"10 _Video, Audio & Media in HTML .mp3.json"
+167,335.44,336.48," See, now the audio has come.","10 _Video, Audio & Media in HTML .mp3.json"
+168,336.48,337.52, I can see the controls here.,"10 _Video, Audio & Media in HTML .mp3.json"
+169,337.52,339.08, I can also set its volume.,"10 _Video, Audio & Media in HTML .mp3.json"
+170,339.08,340.59999999999997, I play this audio.,"10 _Video, Audio & Media in HTML .mp3.json"
+171,340.59999999999997,342.4, What is Sachin in Sachin?,"10 _Video, Audio & Media in HTML .mp3.json"
+172,342.4,343.59999999999997, Is it a stupid Sachin?,"10 _Video, Audio & Media in HTML .mp3.json"
+173,343.59999999999997,344.03999999999996, Okay.,"10 _Video, Audio & Media in HTML .mp3.json"
+174,344.03999999999996,345.03999999999996, So this is our audio.,"10 _Video, Audio & Media in HTML .mp3.json"
+175,345.04,346.04, If I mute it and run it.,"10 _Video, Audio & Media in HTML .mp3.json"
+176,346.04,346.64000000000004, Then it won't work.,"10 _Video, Audio & Media in HTML .mp3.json"
+177,346.64000000000004,347.64000000000004, And I can also increase it further.,"10 _Video, Audio & Media in HTML .mp3.json"
+178,347.64000000000004,349.04, Is it a stupid Sachin?,"10 _Video, Audio & Media in HTML .mp3.json"
+179,349.04,349.48, Okay.,"10 _Video, Audio & Media in HTML .mp3.json"
+180,349.48,350.28000000000003, You guys have seen.,"10 _Video, Audio & Media in HTML .mp3.json"
+181,350.28000000000003,352.04, So this is audio named sachin.mp3.,"10 _Video, Audio & Media in HTML .mp3.json"
+182,352.04,353.04, Now what we will do.,"10 _Video, Audio & Media in HTML .mp3.json"
+183,353.04,354.04, That.,"10 _Video, Audio & Media in HTML .mp3.json"
+184,354.04,356.04, We will see some attributes of this audio.,"10 _Video, Audio & Media in HTML .mp3.json"
+185,356.04,357.04, SRC you know.,"10 _Video, Audio & Media in HTML .mp3.json"
+186,357.04,359.04, Source of the video file.,"10 _Video, Audio & Media in HTML .mp3.json"
+187,359.04,359.64000000000004, Okay.,"10 _Video, Audio & Media in HTML .mp3.json"
+188,359.64000000000004,361.44, Then after this you know the controls.,"10 _Video, Audio & Media in HTML .mp3.json"
+189,361.44,362.44," Play, pause and volume.","10 _Video, Audio & Media in HTML .mp3.json"
+190,362.44,363.44, Which we just saw.,"10 _Video, Audio & Media in HTML .mp3.json"
+191,363.44,364.64000000000004, What will autoplay do?,"10 _Video, Audio & Media in HTML .mp3.json"
+192,364.64000000000004,365.92, It will play it automatically.,"10 _Video, Audio & Media in HTML .mp3.json"
+193,365.92,367.44, If I have here.,"10 _Video, Audio & Media in HTML .mp3.json"
+194,367.44,368.44, Autoplay.,"10 _Video, Audio & Media in HTML .mp3.json"
+195,368.44,369.64000000000004, What is Sachin in Sachin?,"10 _Video, Audio & Media in HTML .mp3.json"
+196,369.64000000000004,370.64000000000004, It will play automatically.,"10 _Video, Audio & Media in HTML .mp3.json"
+197,370.64000000000004,371.64000000000004, Is it a stupid Sachin?,"10 _Video, Audio & Media in HTML .mp3.json"
+198,371.64000000000004,373.44, So what does it do by autoplaying?,"10 _Video, Audio & Media in HTML .mp3.json"
+199,373.44,375.44, So our audio is automatically played.,"10 _Video, Audio & Media in HTML .mp3.json"
+200,375.44,376.44, After this.,"10 _Video, Audio & Media in HTML .mp3.json"
+201,376.44,377.44, The next attribute is.,"10 _Video, Audio & Media in HTML .mp3.json"
+202,377.44,378.44, That is loop.,"10 _Video, Audio & Media in HTML .mp3.json"
+203,378.44,379.44, What will loop do?,"10 _Video, Audio & Media in HTML .mp3.json"
+204,379.44,380.44, It will repeat.,"10 _Video, Audio & Media in HTML .mp3.json"
+205,380.44,382.44, If I want to loop it.,"10 _Video, Audio & Media in HTML .mp3.json"
+206,382.44,383.44, So I have autoplayed.,"10 _Video, Audio & Media in HTML .mp3.json"
+207,383.44,384.44, And I will loop it.,"10 _Video, Audio & Media in HTML .mp3.json"
+208,384.44,385.44, What is Sachin in Sachin?,"10 _Video, Audio & Media in HTML .mp3.json"
+209,385.44,387.44, Is it a stupid Sachin?,"10 _Video, Audio & Media in HTML .mp3.json"
+210,387.44,388.44, Once.,"10 _Video, Audio & Media in HTML .mp3.json"
+211,388.44,389.44, What is Sachin in Sachin?,"10 _Video, Audio & Media in HTML .mp3.json"
+212,389.44,390.44, Second time.,"10 _Video, Audio & Media in HTML .mp3.json"
+213,390.44,391.44, Is it a stupid Sachin?,"10 _Video, Audio & Media in HTML .mp3.json"
+214,391.44,392.44, So you saw it was repeated.,"10 _Video, Audio & Media in HTML .mp3.json"
+215,392.44,393.44, Means it was played once.,"10 _Video, Audio & Media in HTML .mp3.json"
+216,393.44,394.44, Then it was played again.,"10 _Video, Audio & Media in HTML .mp3.json"
+217,394.44,396.44, Because I had looped the audio.,"10 _Video, Audio & Media in HTML .mp3.json"
+218,396.44,397.44, Okay.,"10 _Video, Audio & Media in HTML .mp3.json"
+219,397.44,398.44, So you guys have seen this thing.,"10 _Video, Audio & Media in HTML .mp3.json"
+220,398.44,399.44, Sachin.mp3.,"10 _Video, Audio & Media in HTML .mp3.json"
+221,399.44,400.44, I looped it.,"10 _Video, Audio & Media in HTML .mp3.json"
+222,400.44,401.44, Means it was played once.,"10 _Video, Audio & Media in HTML .mp3.json"
+223,401.44,402.44, Then it was played.,"10 _Video, Audio & Media in HTML .mp3.json"
+224,402.44,403.44, What is Sachin?,"10 _Video, Audio & Media in HTML .mp3.json"
+225,403.44,404.44, Sachin.,"10 _Video, Audio & Media in HTML .mp3.json"
+226,404.44,405.44, Okay.,"10 _Video, Audio & Media in HTML .mp3.json"
+227,405.44,406.44, It was being said again and again.,"10 _Video, Audio & Media in HTML .mp3.json"
+228,406.44,407.44, Because this MP3.,"10 _Video, Audio & Media in HTML .mp3.json"
+229,407.44,408.44, It will be played again and again.,"10 _Video, Audio & Media in HTML .mp3.json"
+230,408.44,410.44, So there are many use cases.,"10 _Video, Audio & Media in HTML .mp3.json"
+231,410.44,411.44, When you want.,"10 _Video, Audio & Media in HTML .mp3.json"
+232,411.44,412.44, This MP3.,"10 _Video, Audio & Media in HTML .mp3.json"
+233,412.44,413.44, This is repeat.,"10 _Video, Audio & Media in HTML .mp3.json"
+234,413.44,414.44, Okay.,"10 _Video, Audio & Media in HTML .mp3.json"
+235,414.44,415.44, So if you want.,"10 _Video, Audio & Media in HTML .mp3.json"
+236,415.44,416.44, That your MP3 is repeat.,"10 _Video, Audio & Media in HTML .mp3.json"
+237,416.44,417.44, Then you can use it.,"10 _Video, Audio & Media in HTML .mp3.json"
+238,417.44,418.44, Now.,"10 _Video, Audio & Media in HTML .mp3.json"
+239,418.44,419.44, After this.,"10 _Video, Audio & Media in HTML .mp3.json"
+240,419.44,420.44, What will mutate do?,"10 _Video, Audio & Media in HTML .mp3.json"
+241,420.44,421.44, It will mute the audio.,"10 _Video, Audio & Media in HTML .mp3.json"
+242,421.44,422.44, And definitely.,"10 _Video, Audio & Media in HTML .mp3.json"
+243,422.44,423.44, You don't want.,"10 _Video, Audio & Media in HTML .mp3.json"
+244,423.44,424.44, That by default.,"10 _Video, Audio & Media in HTML .mp3.json"
+245,424.44,425.44, Your audio is mute.,"10 _Video, Audio & Media in HTML .mp3.json"
+246,425.44,426.44, Most of the cases.,"10 _Video, Audio & Media in HTML .mp3.json"
+247,426.44,427.44, But.,"10 _Video, Audio & Media in HTML .mp3.json"
+248,427.44,428.44, Sometimes we will want.,"10 _Video, Audio & Media in HTML .mp3.json"
+249,428.44,429.44, That.,"10 _Video, Audio & Media in HTML .mp3.json"
+250,429.44,430.44, The audio is muted.,"10 _Video, Audio & Media in HTML .mp3.json"
+251,430.44,431.44, And we can say here.,"10 _Video, Audio & Media in HTML .mp3.json"
+252,431.44,432.44, To the user.,"10 _Video, Audio & Media in HTML .mp3.json"
+253,432.44,433.44, That brother.,"10 _Video, Audio & Media in HTML .mp3.json"
+254,433.44,434.44, Who wants to listen.,"10 _Video, Audio & Media in HTML .mp3.json"
+255,434.44,435.44, Unmute.,"10 _Video, Audio & Media in HTML .mp3.json"
+256,435.44,436.44, Sachin.,"10 _Video, Audio & Media in HTML .mp3.json"
+257,436.44,437.44, What is it?,"10 _Video, Audio & Media in HTML .mp3.json"
+258,437.44,438.44, When do we do this?,"10 _Video, Audio & Media in HTML .mp3.json"
+259,438.44,439.44, When there are multiple audios.,"10 _Video, Audio & Media in HTML .mp3.json"
+260,439.44,440.44, You want to show 5-6 audios together.,"10 _Video, Audio & Media in HTML .mp3.json"
+261,440.44,441.44, You can mute them.,"10 _Video, Audio & Media in HTML .mp3.json"
+262,441.44,442.44, The user can play and unmute.,"10 _Video, Audio & Media in HTML .mp3.json"
+263,442.44,443.44, And see.,"10 _Video, Audio & Media in HTML .mp3.json"
+264,443.44,444.44, Okay.,"10 _Video, Audio & Media in HTML .mp3.json"
+265,444.44,445.44, So.,"10 _Video, Audio & Media in HTML .mp3.json"
+266,445.44,446.44, You have control in your hand.,"10 _Video, Audio & Media in HTML .mp3.json"
+267,446.44,447.44, If you want.,"10 _Video, Audio & Media in HTML .mp3.json"
+268,447.44,448.44, You can use this thing.,"10 _Video, Audio & Media in HTML .mp3.json"
+269,448.44,449.44, Okay.,"10 _Video, Audio & Media in HTML .mp3.json"
+270,449.44,450.44, In total.,"10 _Video, Audio & Media in HTML .mp3.json"
+271,450.44,451.44, This is the thing.,"10 _Video, Audio & Media in HTML .mp3.json"
+272,451.44,452.44, So.,"10 _Video, Audio & Media in HTML .mp3.json"
+273,452.44,453.44, I hope.,"10 _Video, Audio & Media in HTML .mp3.json"
+274,453.44,454.44, You understood this thing.,"10 _Video, Audio & Media in HTML .mp3.json"
+275,454.44,455.44, You guys must have enjoyed.,"10 _Video, Audio & Media in HTML .mp3.json"
+276,455.44,456.44, You guys.,"10 _Video, Audio & Media in HTML .mp3.json"
+277,456.44,457.44, Now preload.,"10 _Video, Audio & Media in HTML .mp3.json"
+278,457.44,458.44, The most confusing attribute.,"10 _Video, Audio & Media in HTML .mp3.json"
+279,458.44,459.44, That's why I have explained it.,"10 _Video, Audio & Media in HTML .mp3.json"
+280,459.44,460.44, On codewithaddy.com.,"10 _Video, Audio & Media in HTML .mp3.json"
+281,460.44,461.44, These values can be.,"10 _Video, Audio & Media in HTML .mp3.json"
+282,461.44,462.44, The first value can be none.,"10 _Video, Audio & Media in HTML .mp3.json"
+283,462.44,463.44, This is the default value.,"10 _Video, Audio & Media in HTML .mp3.json"
+284,463.44,464.44, It indicates.,"10 _Video, Audio & Media in HTML .mp3.json"
+285,464.44,465.44, That the browser should not.,"10 _Video, Audio & Media in HTML .mp3.json"
+286,465.44,466.44, Preload the audio at all.,"10 _Video, Audio & Media in HTML .mp3.json"
+287,466.44,467.44, Okay.,"10 _Video, Audio & Media in HTML .mp3.json"
+288,467.44,468.44, Preload means.,"10 _Video, Audio & Media in HTML .mp3.json"
+289,468.44,469.44, If you want.,"10 _Video, Audio & Media in HTML .mp3.json"
+290,469.44,470.44, If the browser fetches the data.,"10 _Video, Audio & Media in HTML .mp3.json"
+291,470.44,471.44, Then you will use the preload attribute.,"10 _Video, Audio & Media in HTML .mp3.json"
+292,471.44,472.44, Otherwise.,"10 _Video, Audio & Media in HTML .mp3.json"
+293,472.44,473.44, You will not use the preload attribute.,"10 _Video, Audio & Media in HTML .mp3.json"
+294,473.44,474.44, Okay.,"10 _Video, Audio & Media in HTML .mp3.json"
+295,474.44,475.44, Preload is equal to none.,"10 _Video, Audio & Media in HTML .mp3.json"
+296,475.44,476.44, It is the default value.,"10 _Video, Audio & Media in HTML .mp3.json"
+297,476.44,477.44, Preload is equal to metadata.,"10 _Video, Audio & Media in HTML .mp3.json"
+298,477.44,478.44, Means.,"10 _Video, Audio & Media in HTML .mp3.json"
+299,478.44,479.44, That the browser.,"10 _Video, Audio & Media in HTML .mp3.json"
+300,479.44,480.44, Only metadata.,"10 _Video, Audio & Media in HTML .mp3.json"
+301,480.44,481.44, That is.,"10 _Video, Audio & Media in HTML .mp3.json"
+302,481.44,482.44, The information about that audio file.,"10 _Video, Audio & Media in HTML .mp3.json"
+303,482.44,483.44, It will preload it.,"10 _Video, Audio & Media in HTML .mp3.json"
+304,483.44,484.44, That is.,"10 _Video, Audio & Media in HTML .mp3.json"
+305,484.44,485.44, It will load it from the beginning.,"10 _Video, Audio & Media in HTML .mp3.json"
+306,485.44,486.44, And what will happen by doing auto.,"10 _Video, Audio & Media in HTML .mp3.json"
+307,486.44,487.44, That the browser.,"10 _Video, Audio & Media in HTML .mp3.json"
+308,487.44,488.44, Will preload.,"10 _Video, Audio & Media in HTML .mp3.json"
+309,488.44,489.44, And.,"10 _Video, Audio & Media in HTML .mp3.json"
+310,489.44,490.44, The browser will preload.,"10 _Video, Audio & Media in HTML .mp3.json"
+311,490.44,491.44, The entire audio.,"10 _Video, Audio & Media in HTML .mp3.json"
+312,491.44,492.44, Okay.,"10 _Video, Audio & Media in HTML .mp3.json"
+313,492.44,493.44, So preload is equal to auto.,"10 _Video, Audio & Media in HTML .mp3.json"
+314,493.44,494.44, If I do.,"10 _Video, Audio & Media in HTML .mp3.json"
+315,494.44,495.44, Then it will download.,"10 _Video, Audio & Media in HTML .mp3.json"
+316,495.44,496.44, And automatically.,"10 _Video, Audio & Media in HTML .mp3.json"
+317,496.44,497.44, Will be loaded.,"10 _Video, Audio & Media in HTML .mp3.json"
+318,497.44,498.44, So that whenever the user plays it.,"10 _Video, Audio & Media in HTML .mp3.json"
+319,498.44,499.44, Then the audio is saved.,"10 _Video, Audio & Media in HTML .mp3.json"
+320,499.44,500.44, Okay.,"10 _Video, Audio & Media in HTML .mp3.json"
+321,500.44,501.44, So.,"10 _Video, Audio & Media in HTML .mp3.json"
+322,501.44,502.44, This is the work of the preload attribute.,"10 _Video, Audio & Media in HTML .mp3.json"
+323,502.44,503.44, And in interviews.,"10 _Video, Audio & Media in HTML .mp3.json"
+324,503.44,504.44, This preload attribute is asked a lot.,"10 _Video, Audio & Media in HTML .mp3.json"
+325,504.44,505.44, So you should know.,"10 _Video, Audio & Media in HTML .mp3.json"
+326,505.44,506.44, What is the preload attribute?,"10 _Video, Audio & Media in HTML .mp3.json"
+327,506.44,507.44, Before moving forward.,"10 _Video, Audio & Media in HTML .mp3.json"
+328,507.44,508.44, I want you to share this playlist.,"10 _Video, Audio & Media in HTML .mp3.json"
+329,508.44,509.44, With your friends.,"10 _Video, Audio & Media in HTML .mp3.json"
+330,509.44,510.44, Because I am seeing.,"10 _Video, Audio & Media in HTML .mp3.json"
+331,510.44,511.44, That the interest is declining a lot.,"10 _Video, Audio & Media in HTML .mp3.json"
+332,511.44,512.44, As we are moving forward in the videos.,"10 _Video, Audio & Media in HTML .mp3.json"
+333,512.44,513.44, My request to you is.,"10 _Video, Audio & Media in HTML .mp3.json"
+334,513.44,514.44, That you like this video.,"10 _Video, Audio & Media in HTML .mp3.json"
+335,514.44,515.44, And along with that.,"10 _Video, Audio & Media in HTML .mp3.json"
+336,515.44,516.44, When you are.,"10 _Video, Audio & Media in HTML .mp3.json"
+337,516.44,517.44, In the comments.,"10 _Video, Audio & Media in HTML .mp3.json"
+338,517.44,518.44, You can also star it.,"10 _Video, Audio & Media in HTML .mp3.json"
+339,518.44,519.44, Okay.,"10 _Video, Audio & Media in HTML .mp3.json"
+340,519.44,520.44, Your star.,"10 _Video, Audio & Media in HTML .mp3.json"
+341,520.44,521.44, Your likes.,"10 _Video, Audio & Media in HTML .mp3.json"
+342,521.44,522.44, All this will help me a lot.,"10 _Video, Audio & Media in HTML .mp3.json"
+343,522.44,523.44, To bring such free courses.,"10 _Video, Audio & Media in HTML .mp3.json"
+344,523.44,524.44, So this was.,"10 _Video, Audio & Media in HTML .mp3.json"
+345,524.44,525.44, About audio and video tags.,"10 _Video, Audio & Media in HTML .mp3.json"
+346,525.44,526.44, Okay.,"10 _Video, Audio & Media in HTML .mp3.json"
+347,526.44,527.44, I have told you all the attributes.,"10 _Video, Audio & Media in HTML .mp3.json"
+348,527.44,528.44, And you definitely.,"10 _Video, Audio & Media in HTML .mp3.json"
+349,528.44,529.44, Use it.,"10 _Video, Audio & Media in HTML .mp3.json"
+350,529.44,530.44, All the images.,"10 _Video, Audio & Media in HTML .mp3.json"
+351,530.44,531.44, I will give you.,"10 _Video, Audio & Media in HTML .mp3.json"
+352,531.44,532.44, So that you can try it out.,"10 _Video, Audio & Media in HTML .mp3.json"
+353,532.44,533.44, Now a lot of people were asking.,"10 _Video, Audio & Media in HTML .mp3.json"
+354,533.44,534.44, Can we use replit?,"10 _Video, Audio & Media in HTML .mp3.json"
+355,534.44,535.44, See in this course.,"10 _Video, Audio & Media in HTML .mp3.json"
+356,535.44,536.44, I have not used replit.,"10 _Video, Audio & Media in HTML .mp3.json"
+357,536.44,537.44, But replit.com.,"10 _Video, Audio & Media in HTML .mp3.json"
+358,537.44,538.44, Is an amazing website.,"10 _Video, Audio & Media in HTML .mp3.json"
+359,538.44,539.44, If you are interested.,"10 _Video, Audio & Media in HTML .mp3.json"
+360,539.44,540.44, Then you can use it.,"10 _Video, Audio & Media in HTML .mp3.json"
+361,540.44,541.44, And you can also.,"10 _Video, Audio & Media in HTML .mp3.json"
+362,541.44,542.44, Use it.,"10 _Video, Audio & Media in HTML .mp3.json"
+363,542.44,543.44, And you can also.,"10 _Video, Audio & Media in HTML .mp3.json"
+364,543.44,544.44, Use it.,"10 _Video, Audio & Media in HTML .mp3.json"
+365,544.44,545.44, And you can also.,"10 _Video, Audio & Media in HTML .mp3.json"
+366,545.44,546.44, Use it.,"10 _Video, Audio & Media in HTML .mp3.json"
+367,546.44,547.44, So replit.com.,"10 _Video, Audio & Media in HTML .mp3.json"
+368,547.44,548.44, Is an amazing website.,"10 _Video, Audio & Media in HTML .mp3.json"
+369,548.44,549.44, If you want.,"10 _Video, Audio & Media in HTML .mp3.json"
+370,549.44,550.44, You can use it in your phone.,"10 _Video, Audio & Media in HTML .mp3.json"
+371,550.44,551.44, If you want to run.,"10 _Video, Audio & Media in HTML .mp3.json"
+372,551.44,552.44, HTML.,"10 _Video, Audio & Media in HTML .mp3.json"
+373,552.44,553.44, There is also a replit app.,"10 _Video, Audio & Media in HTML .mp3.json"
+374,553.44,554.44, For iOS.,"10 _Video, Audio & Media in HTML .mp3.json"
+375,554.44,555.44, There is also for Android.,"10 _Video, Audio & Media in HTML .mp3.json"
+376,555.44,556.44, So you can try it out.,"10 _Video, Audio & Media in HTML .mp3.json"
+377,556.44,557.44, A lot of people are asking.,"10 _Video, Audio & Media in HTML .mp3.json"
+378,557.44,558.44, How to do recording in the phone.,"10 _Video, Audio & Media in HTML .mp3.json"
+379,558.44,559.44, Replit.,"10 _Video, Audio & Media in HTML .mp3.json"
+380,559.44,560.44, But what I want now.,"10 _Video, Audio & Media in HTML .mp3.json"
+381,560.44,561.44, VS code.,"10 _Video, Audio & Media in HTML .mp3.json"
+382,561.44,562.44, Which most of the people.,"10 _Video, Audio & Media in HTML .mp3.json"
+383,562.44,563.44, Want to use.,"10 _Video, Audio & Media in HTML .mp3.json"
+384,563.44,564.44, Prefer.,"10 _Video, Audio & Media in HTML .mp3.json"
+385,564.44,565.44, So I thought.,"10 _Video, Audio & Media in HTML .mp3.json"
+386,565.44,566.44, Why not make videos in VS code.,"10 _Video, Audio & Media in HTML .mp3.json"
+387,566.44,567.44, But I personally.,"10 _Video, Audio & Media in HTML .mp3.json"
+388,567.44,568.44, Use replit a lot.,"10 _Video, Audio & Media in HTML .mp3.json"
+389,568.44,569.44, Infact videos also come.,"10 _Video, Audio & Media in HTML .mp3.json"
+390,569.44,570.44, In replit.,"10 _Video, Audio & Media in HTML .mp3.json"
+391,570.44,571.44, Next topic.,"10 _Video, Audio & Media in HTML .mp3.json"
+392,571.44,572.44, Is SVG.,"10 _Video, Audio & Media in HTML .mp3.json"
+393,572.44,573.44, Related to media.,"10 _Video, Audio & Media in HTML .mp3.json"
+394,573.44,574.44, What is SVG?,"10 _Video, Audio & Media in HTML .mp3.json"
+395,574.44,575.44, SVG is.,"10 _Video, Audio & Media in HTML .mp3.json"
+396,575.44,576.44, A format.,"10 _Video, Audio & Media in HTML .mp3.json"
+397,576.44,577.44, With which you.,"10 _Video, Audio & Media in HTML .mp3.json"
+398,577.44,578.44, Can create an image.,"10 _Video, Audio & Media in HTML .mp3.json"
+399,578.44,579.44, With high graphics.,"10 _Video, Audio & Media in HTML .mp3.json"
+400,579.44,580.44, Vector images.,"10 _Video, Audio & Media in HTML .mp3.json"
+401,580.44,581.44, So if you copy.,"10 _Video, Audio & Media in HTML .mp3.json"
+402,581.44,582.44, You can make a circle.,"10 _Video, Audio & Media in HTML .mp3.json"
+403,582.44,583.44, In it.,"10 _Video, Audio & Media in HTML .mp3.json"
+404,583.44,584.44, So SVG is used.,"10 _Video, Audio & Media in HTML .mp3.json"
+405,584.44,585.44, In the same way.,"10 _Video, Audio & Media in HTML .mp3.json"
+406,585.44,586.44, As.,"10 _Video, Audio & Media in HTML .mp3.json"
+407,586.44,587.44, It is used.,"10 _Video, Audio & Media in HTML .mp3.json"
+408,587.44,588.44, In our IMG tag.,"10 _Video, Audio & Media in HTML .mp3.json"
+409,588.44,589.44, So see.,"10 _Video, Audio & Media in HTML .mp3.json"
+410,589.44,590.44, If I put SVG here.,"10 _Video, Audio & Media in HTML .mp3.json"
+411,590.44,591.44, So this SVG will come here.,"10 _Video, Audio & Media in HTML .mp3.json"
+412,591.44,592.44, So see.,"10 _Video, Audio & Media in HTML .mp3.json"
+413,592.44,593.44, This circle and SVG.,"10 _Video, Audio & Media in HTML .mp3.json"
+414,593.44,594.44, Came here.,"10 _Video, Audio & Media in HTML .mp3.json"
+415,594.44,595.44, Video.,"10 _Video, Audio & Media in HTML .mp3.json"
+416,595.44,596.44, Audio.,"10 _Video, Audio & Media in HTML .mp3.json"
+417,596.44,597.44, SVG.,"10 _Video, Audio & Media in HTML .mp3.json"
+418,597.44,598.44, These are inline elements.,"10 _Video, Audio & Media in HTML .mp3.json"
+419,598.44,599.44, That's why.,"10 _Video, Audio & Media in HTML .mp3.json"
+420,599.44,600.44, We are getting to see in one line.,"10 _Video, Audio & Media in HTML .mp3.json"
+421,600.44,601.44, Okay.,"10 _Video, Audio & Media in HTML .mp3.json"
+422,601.44,602.44, You have seen here.,"10 _Video, Audio & Media in HTML .mp3.json"
+423,602.44,603.44, So.,"10 _Video, Audio & Media in HTML .mp3.json"
+424,603.44,604.44, What is here.,"10 _Video, Audio & Media in HTML .mp3.json"
+425,604.44,605.44, You can save.,"10 _Video, Audio & Media in HTML .mp3.json"
+426,605.44,606.44, SVG file separately.,"10 _Video, Audio & Media in HTML .mp3.json"
+427,606.44,607.44, You can save.,"10 _Video, Audio & Media in HTML .mp3.json"
+428,607.44,608.44, SVG file separately.,"10 _Video, Audio & Media in HTML .mp3.json"
+429,608.44,609.44, Like if I write here.,"10 _Video, Audio & Media in HTML .mp3.json"
+430,609.44,610.44, That.,"10 _Video, Audio & Media in HTML .mp3.json"
+431,610.44,611.44, IMG.SVG.,"10 _Video, Audio & Media in HTML .mp3.json"
+432,611.44,612.44, And save the content of SVG.,"10 _Video, Audio & Media in HTML .mp3.json"
+433,612.44,613.44, So if I.,"10 _Video, Audio & Media in HTML .mp3.json"
+434,613.44,614.44, Write it as IMG.,"10 _Video, Audio & Media in HTML .mp3.json"
+435,614.44,615.44, And write it as.,"10 _Video, Audio & Media in HTML .mp3.json"
+436,615.44,616.44, IMG.SVG.,"10 _Video, Audio & Media in HTML .mp3.json"
+437,616.44,617.44, So you guys.,"10 _Video, Audio & Media in HTML .mp3.json"
+438,617.44,618.44, See here.,"10 _Video, Audio & Media in HTML .mp3.json"
+439,618.44,619.44, That I did not get to see.,"10 _Video, Audio & Media in HTML .mp3.json"
+440,619.44,620.44, If I write alt here.,"10 _Video, Audio & Media in HTML .mp3.json"
+441,620.44,621.44, And write.,"10 _Video, Audio & Media in HTML .mp3.json"
+442,621.44,622.44, My.SVG.,"10 _Video, Audio & Media in HTML .mp3.json"
+443,622.44,623.44, Image.,"10 _Video, Audio & Media in HTML .mp3.json"
+444,623.44,624.44, So you see here.,"10 _Video, Audio & Media in HTML .mp3.json"
+445,624.44,625.44, That my.SVG.,"10 _Video, Audio & Media in HTML .mp3.json"
+446,625.44,626.44, Image came like this.,"10 _Video, Audio & Media in HTML .mp3.json"
+447,626.44,627.44, But SVG.,"10 _Video, Audio & Media in HTML .mp3.json"
+448,627.44,628.44, Is not visible.,"10 _Video, Audio & Media in HTML .mp3.json"
+449,628.44,629.44, So you see.,"10 _Video, Audio & Media in HTML .mp3.json"
+450,629.44,630.44, That my.SVG.,"10 _Video, Audio & Media in HTML .mp3.json"
+451,630.44,631.44, Image is not visible.,"10 _Video, Audio & Media in HTML .mp3.json"
+452,631.44,632.44, So you see.,"10 _Video, Audio & Media in HTML .mp3.json"
+453,632.44,633.44, That my.SVG.,"10 _Video, Audio & Media in HTML .mp3.json"
+454,633.44,634.44, Image came like this.,"10 _Video, Audio & Media in HTML .mp3.json"
+455,634.44,635.44, But I did not get to see SVG.,"10 _Video, Audio & Media in HTML .mp3.json"
+456,635.44,636.44, Why did this happen?,"10 _Video, Audio & Media in HTML .mp3.json"
+457,636.44,637.44, This happened because.,"10 _Video, Audio & Media in HTML .mp3.json"
+458,637.44,638.44, Because the SVG.,"10 _Video, Audio & Media in HTML .mp3.json"
+459,638.44,639.44, SVG file.,"10 _Video, Audio & Media in HTML .mp3.json"
+460,639.44,640.44, In browser.,"10 _Video, Audio & Media in HTML .mp3.json"
+461,640.44,641.44, I write.,"10 _Video, Audio & Media in HTML .mp3.json"
+462,641.44,642.44, And.,"10 _Video, Audio & Media in HTML .mp3.json"
+463,642.44,643.44, SVG file.,"10 _Video, Audio & Media in HTML .mp3.json"
+464,643.44,644.44, Whenever you want in the browser.,"10 _Video, Audio & Media in HTML .mp3.json"
+465,644.44,645.44, To see you.,"10 _Video, Audio & Media in HTML .mp3.json"
+466,645.44,646.44, So you.,"10 _Video, Audio & Media in HTML .mp3.json"
+467,646.44,647.44, Put a declaration on top.,"10 _Video, Audio & Media in HTML .mp3.json"
+468,647.44,648.44, I show you.,"10 _Video, Audio & Media in HTML .mp3.json"
+469,648.44,649.44, So I wrote here.,"10 _Video, Audio & Media in HTML .mp3.json"
+470,649.44,650.44, SVG.,"10 _Video, Audio & Media in HTML .mp3.json"
+471,650.44,651.44, File not showing.,"10 _Video, Audio & Media in HTML .mp3.json"
+472,651.44,652.44, So.,"10 _Video, Audio & Media in HTML .mp3.json"
+473,652.44,653.44, Here.,"10 _Video, Audio & Media in HTML .mp3.json"
+474,653.44,654.44, There is an answer to the stack overflow.,"10 _Video, Audio & Media in HTML .mp3.json"
+475,654.44,655.44, Which will tell you.,"10 _Video, Audio & Media in HTML .mp3.json"
+476,655.44,656.44, So you have to write this.,"10 _Video, Audio & Media in HTML .mp3.json"
+477,656.44,657.44, I show you.,"10 _Video, Audio & Media in HTML .mp3.json"
+478,657.44,658.44, XML.,"10 _Video, Audio & Media in HTML .mp3.json"
+479,658.44,659.44, Something like this.,"10 _Video, Audio & Media in HTML .mp3.json"
+480,659.44,660.44, See.,"10 _Video, Audio & Media in HTML .mp3.json"
+481,660.44,661.44, You have to add this.,"10 _Video, Audio & Media in HTML .mp3.json"
+482,661.44,662.44, Name space declaration.,"10 _Video, Audio & Media in HTML .mp3.json"
+483,662.44,663.44, So this SVG.,"10 _Video, Audio & Media in HTML .mp3.json"
+484,663.44,664.44, You have to add this.,"10 _Video, Audio & Media in HTML .mp3.json"
+485,664.44,665.44, And.,"10 _Video, Audio & Media in HTML .mp3.json"
+486,665.44,666.44, Now you see here.,"10 _Video, Audio & Media in HTML .mp3.json"
+487,666.44,667.44, SVG is visible.,"10 _Video, Audio & Media in HTML .mp3.json"
+488,667.44,668.44, So this thing is very important.,"10 _Video, Audio & Media in HTML .mp3.json"
+489,668.44,669.44, And many people.,"10 _Video, Audio & Media in HTML .mp3.json"
+490,669.44,670.44, In the future.,"10 _Video, Audio & Media in HTML .mp3.json"
+491,670.44,671.44, Whenever you make websites.,"10 _Video, Audio & Media in HTML .mp3.json"
+492,671.44,672.44, Your own.,"10 _Video, Audio & Media in HTML .mp3.json"
+493,672.44,673.44, So.,"10 _Video, Audio & Media in HTML .mp3.json"
+494,673.44,674.44, Will definitely get stuck in this problem.,"10 _Video, Audio & Media in HTML .mp3.json"
+495,674.44,675.44, I keep getting stuck.,"10 _Video, Audio & Media in HTML .mp3.json"
+496,675.44,676.44, Okay.,"10 _Video, Audio & Media in HTML .mp3.json"
+497,676.44,677.44, So I am telling you.,"10 _Video, Audio & Media in HTML .mp3.json"
+498,677.44,678.44, That the problem in which you will get stuck.,"10 _Video, Audio & Media in HTML .mp3.json"
+499,678.44,679.44, I told you before.,"10 _Video, Audio & Media in HTML .mp3.json"
+500,679.44,680.44, You have not got the problem.,"10 _Video, Audio & Media in HTML .mp3.json"
+501,680.44,681.44, I told the problem.,"10 _Video, Audio & Media in HTML .mp3.json"
+502,681.44,682.44, That is coming.,"10 _Video, Audio & Media in HTML .mp3.json"
+503,682.44,683.44, And also told the solution.,"10 _Video, Audio & Media in HTML .mp3.json"
+504,683.44,684.44, Next topic is iframes.,"10 _Video, Audio & Media in HTML .mp3.json"
+505,684.44,685.44, Iframes is also.,"10 _Video, Audio & Media in HTML .mp3.json"
+506,685.44,686.44, Very simple thing.,"10 _Video, Audio & Media in HTML .mp3.json"
+507,686.44,687.44, That.,"10 _Video, Audio & Media in HTML .mp3.json"
+508,687.44,688.44, You can embed another website.,"10 _Video, Audio & Media in HTML .mp3.json"
+509,688.44,689.44, From iframes.,"10 _Video, Audio & Media in HTML .mp3.json"
+510,689.44,690.44, To your website.,"10 _Video, Audio & Media in HTML .mp3.json"
+511,690.44,691.44, Okay.,"10 _Video, Audio & Media in HTML .mp3.json"
+512,691.44,692.44, Like if I want.,"10 _Video, Audio & Media in HTML .mp3.json"
+513,692.44,693.44, That I embed this web page.,"10 _Video, Audio & Media in HTML .mp3.json"
+514,693.44,694.44, So I can do something like this.,"10 _Video, Audio & Media in HTML .mp3.json"
+515,694.44,695.44, By using iframes.,"10 _Video, Audio & Media in HTML .mp3.json"
+516,695.44,696.44, So see.,"10 _Video, Audio & Media in HTML .mp3.json"
+517,696.44,697.44, I wrote iframe this.,"10 _Video, Audio & Media in HTML .mp3.json"
+518,697.44,698.44, And I will copy this URL.,"10 _Video, Audio & Media in HTML .mp3.json"
+519,698.44,699.44, And I will paste here.,"10 _Video, Audio & Media in HTML .mp3.json"
+520,699.44,700.44, And you see here.,"10 _Video, Audio & Media in HTML .mp3.json"
+521,700.44,701.44, That this website.,"10 _Video, Audio & Media in HTML .mp3.json"
+522,701.44,702.44, Is fully embedded.,"10 _Video, Audio & Media in HTML .mp3.json"
+523,702.44,703.44, Here.,"10 _Video, Audio & Media in HTML .mp3.json"
+524,703.44,704.44, In this much iframe.,"10 _Video, Audio & Media in HTML .mp3.json"
+525,704.44,705.44, Okay.,"10 _Video, Audio & Media in HTML .mp3.json"
+526,705.44,706.44, You definitely want.,"10 _Video, Audio & Media in HTML .mp3.json"
+527,706.44,707.44, That you embed in this big iframe.,"10 _Video, Audio & Media in HTML .mp3.json"
+528,707.44,708.44, But if you want.,"10 _Video, Audio & Media in HTML .mp3.json"
+529,708.44,709.44, That it is embedded.,"10 _Video, Audio & Media in HTML .mp3.json"
+530,709.44,710.44, So you can embed it like this.,"10 _Video, Audio & Media in HTML .mp3.json"
+531,710.44,711.44, I do one thing.,"10 _Video, Audio & Media in HTML .mp3.json"
+532,711.44,712.44, I increase its height a little.,"10 _Video, Audio & Media in HTML .mp3.json"
+533,712.44,713.44, So width is equal to width.,"10 _Video, Audio & Media in HTML .mp3.json"
+534,713.44,714.44, It is written.,"10 _Video, Audio & Media in HTML .mp3.json"
+535,714.44,715.44, Width is equal to.,"10 _Video, Audio & Media in HTML .mp3.json"
+536,715.44,716.44, I give.,"10 _Video, Audio & Media in HTML .mp3.json"
+537,716.44,717.44, Let us say.,"10 _Video, Audio & Media in HTML .mp3.json"
+538,717.44,718.44, Width is equal to.,"10 _Video, Audio & Media in HTML .mp3.json"
+539,718.44,719.44, Width is equal to.,"10 _Video, Audio & Media in HTML .mp3.json"
+540,719.44,720.44, Let us say.,"10 _Video, Audio & Media in HTML .mp3.json"
+541,720.44,721.44, 122.,"10 _Video, Audio & Media in HTML .mp3.json"
+542,721.44,722.44, Height is equal to.,"10 _Video, Audio & Media in HTML .mp3.json"
+543,722.44,723.44, 444.,"10 _Video, Audio & Media in HTML .mp3.json"
+544,723.44,724.44, Okay.,"10 _Video, Audio & Media in HTML .mp3.json"
+545,724.44,725.44, Assume.,"10 _Video, Audio & Media in HTML .mp3.json"
+546,725.44,726.44, So see.,"10 _Video, Audio & Media in HTML .mp3.json"
+547,726.44,727.44, It came like this.,"10 _Video, Audio & Media in HTML .mp3.json"
+548,727.44,728.44, Okay.,"10 _Video, Audio & Media in HTML .mp3.json"
+549,728.44,729.44, Now definitely.,"10 _Video, Audio & Media in HTML .mp3.json"
+550,729.44,730.44, It was coming in this width.,"10 _Video, Audio & Media in HTML .mp3.json"
+551,730.44,731.44, So it came in this line.,"10 _Video, Audio & Media in HTML .mp3.json"
+552,731.44,732.44, But if I increase the width a little.,"10 _Video, Audio & Media in HTML .mp3.json"
+553,732.44,733.44, Let us say.,"10 _Video, Audio & Media in HTML .mp3.json"
+554,733.44,734.44, I increase the width.,"10 _Video, Audio & Media in HTML .mp3.json"
+555,734.44,735.44, 322.,"10 _Video, Audio & Media in HTML .mp3.json"
+556,735.44,736.44, Okay.,"10 _Video, Audio & Media in HTML .mp3.json"
+557,736.44,737.44, So see.,"10 _Video, Audio & Media in HTML .mp3.json"
+558,737.44,738.44, It is fully embedded here.,"10 _Video, Audio & Media in HTML .mp3.json"
+559,738.44,739.44, My website.,"10 _Video, Audio & Media in HTML .mp3.json"
+560,739.44,740.44, You see.,"10 _Video, Audio & Media in HTML .mp3.json"
+561,740.44,741.44, So you can embed a website.,"10 _Video, Audio & Media in HTML .mp3.json"
+562,741.44,742.44, One more use case.,"10 _Video, Audio & Media in HTML .mp3.json"
+563,742.44,743.44, Of iframe is.,"10 _Video, Audio & Media in HTML .mp3.json"
+564,743.44,744.44, YouTube video.,"10 _Video, Audio & Media in HTML .mp3.json"
+565,744.44,745.44, If you want.,"10 _Video, Audio & Media in HTML .mp3.json"
+566,745.44,746.44, You share YouTube video.,"10 _Video, Audio & Media in HTML .mp3.json"
+567,746.44,747.44, And click on embed here.,"10 _Video, Audio & Media in HTML .mp3.json"
+568,747.44,748.44, So it will give you.,"10 _Video, Audio & Media in HTML .mp3.json"
+569,748.44,749.44, Iframe code.,"10 _Video, Audio & Media in HTML .mp3.json"
+570,749.44,750.44, And you.,"10 _Video, Audio & Media in HTML .mp3.json"
+571,750.44,751.44, You can start it here.,"10 _Video, Audio & Media in HTML .mp3.json"
+572,751.44,752.44, In any way.,"10 _Video, Audio & Media in HTML .mp3.json"
+573,752.44,753.44, If you want.,"10 _Video, Audio & Media in HTML .mp3.json"
+574,753.44,754.44, Start at a particular time.,"10 _Video, Audio & Media in HTML .mp3.json"
+575,754.44,755.44, You can do that here too.,"10 _Video, Audio & Media in HTML .mp3.json"
+576,755.44,756.44, The point.,"10 _Video, Audio & Media in HTML .mp3.json"
+577,756.44,757.44, At which point.,"10 _Video, Audio & Media in HTML .mp3.json"
+578,757.44,758.44, You will share it.,"10 _Video, Audio & Media in HTML .mp3.json"
+579,758.44,759.44, That time comes here.,"10 _Video, Audio & Media in HTML .mp3.json"
+580,759.44,760.44, I will show you.,"10 _Video, Audio & Media in HTML .mp3.json"
+581,760.44,761.44, Wait.,"10 _Video, Audio & Media in HTML .mp3.json"
+582,761.44,762.44, As if.,"10 _Video, Audio & Media in HTML .mp3.json"
+583,762.44,763.44, I want to start from here.,"10 _Video, Audio & Media in HTML .mp3.json"
+584,763.44,764.44, Okay.,"10 _Video, Audio & Media in HTML .mp3.json"
+585,764.44,765.44, Assume.,"10 _Video, Audio & Media in HTML .mp3.json"
+586,765.44,766.44, Start the video from here.,"10 _Video, Audio & Media in HTML .mp3.json"
+587,766.44,767.44, So what I will do.,"10 _Video, Audio & Media in HTML .mp3.json"
+588,767.44,768.44, I will click on share.,"10 _Video, Audio & Media in HTML .mp3.json"
+589,768.44,769.44, After clicking on share.,"10 _Video, Audio & Media in HTML .mp3.json"
+590,769.44,770.44, I will click on embed.,"10 _Video, Audio & Media in HTML .mp3.json"
+591,770.44,771.44, I will do start at 1219.,"10 _Video, Audio & Media in HTML .mp3.json"
+592,771.44,772.44, And I will copy it.,"10 _Video, Audio & Media in HTML .mp3.json"
+593,772.44,773.44, See in the copy button.,"10 _Video, Audio & Media in HTML .mp3.json"
+594,773.44,774.44, And I will put it here.,"10 _Video, Audio & Media in HTML .mp3.json"
+595,774.44,775.44, In my code.,"10 _Video, Audio & Media in HTML .mp3.json"
+596,775.44,776.44, So I will comment.,"10 _Video, Audio & Media in HTML .mp3.json"
+597,776.44,777.44, This iframe.,"10 _Video, Audio & Media in HTML .mp3.json"
+598,777.44,778.44, And I will put it in the iframe below.,"10 _Video, Audio & Media in HTML .mp3.json"
+599,778.44,779.44, Okay.,"10 _Video, Audio & Media in HTML .mp3.json"
+600,779.44,780.44, I will do word wrap.,"10 _Video, Audio & Media in HTML .mp3.json"
+601,780.44,781.44, So that.,"10 _Video, Audio & Media in HTML .mp3.json"
+602,781.44,782.44, You can see the code properly.,"10 _Video, Audio & Media in HTML .mp3.json"
+603,782.44,783.44, So now what I will do.,"10 _Video, Audio & Media in HTML .mp3.json"
+604,783.44,784.44, After pasting this.,"10 _Video, Audio & Media in HTML .mp3.json"
+605,784.44,785.44, I.,"10 _Video, Audio & Media in HTML .mp3.json"
+606,785.44,786.44, I will show you the document.,"10 _Video, Audio & Media in HTML .mp3.json"
+607,786.44,787.44, See this video.,"10 _Video, Audio & Media in HTML .mp3.json"
+608,787.44,788.44, Embedded here.,"10 _Video, Audio & Media in HTML .mp3.json"
+609,788.44,789.44, Okay.,"10 _Video, Audio & Media in HTML .mp3.json"
+610,789.44,790.44, So I hope.,"10 _Video, Audio & Media in HTML .mp3.json"
+611,790.44,791.44, You must have understood this thing.,"10 _Video, Audio & Media in HTML .mp3.json"
+612,791.44,792.44, And.,"10 _Video, Audio & Media in HTML .mp3.json"
+613,792.44,793.44, Media.,"10 _Video, Audio & Media in HTML .mp3.json"
+614,793.44,794.44, In HTML.,"10 _Video, Audio & Media in HTML .mp3.json"
+615,794.44,795.44, That's all.,"10 _Video, Audio & Media in HTML .mp3.json"
+616,795.44,796.44, Pretty much.,"10 _Video, Audio & Media in HTML .mp3.json"
+617,796.44,797.44, Okay.,"10 _Video, Audio & Media in HTML .mp3.json"
+618,797.44,798.44, Miscellaneous.,"10 _Video, Audio & Media in HTML .mp3.json"
+619,798.44,799.44, In every topic.,"10 _Video, Audio & Media in HTML .mp3.json"
+620,799.44,800.44, You will see a lot of things.,"10 _Video, Audio & Media in HTML .mp3.json"
+621,800.44,801.44, But pretty much.,"10 _Video, Audio & Media in HTML .mp3.json"
+622,801.44,802.44, That's all about media.,"10 _Video, Audio & Media in HTML .mp3.json"
+623,802.44,803.44, Audio.,"10 _Video, Audio & Media in HTML .mp3.json"
+624,803.44,804.44, Video.,"10 _Video, Audio & Media in HTML .mp3.json"
+625,804.44,805.44, Media.,"10 _Video, Audio & Media in HTML .mp3.json"
+626,805.44,806.44, That's all.,"10 _Video, Audio & Media in HTML .mp3.json"
+627,806.44,807.44, So what you will use.,"10 _Video, Audio & Media in HTML .mp3.json"
+628,807.44,808.44, 95% of the times.,"10 _Video, Audio & Media in HTML .mp3.json"
+629,808.44,809.44, Okay.,"10 _Video, Audio & Media in HTML .mp3.json"
+630,809.44,810.44, Now I give you a quick quiz.,"10 _Video, Audio & Media in HTML .mp3.json"
+631,810.44,811.44, And your quick quiz is.,"10 _Video, Audio & Media in HTML .mp3.json"
+632,811.44,812.44, Create a website.,"10 _Video, Audio & Media in HTML .mp3.json"
+633,812.44,813.44, Which shows.,"10 _Video, Audio & Media in HTML .mp3.json"
+634,813.44,814.44, Videos of different categories.,"10 _Video, Audio & Media in HTML .mp3.json"
+635,814.44,815.44, Okay.,"10 _Video, Audio & Media in HTML .mp3.json"
+636,815.44,816.44, And audios of different categories.,"10 _Video, Audio & Media in HTML .mp3.json"
+637,816.44,817.44, You can use.,"10 _Video, Audio & Media in HTML .mp3.json"
+638,817.44,818.44, YouTube videos.,"10 _Video, Audio & Media in HTML .mp3.json"
+639,818.44,819.44, In an iframe.,"10 _Video, Audio & Media in HTML .mp3.json"
+640,819.44,820.44, Using YouTube's embedding feature.,"10 _Video, Audio & Media in HTML .mp3.json"
+641,820.44,821.44, Okay.,"10 _Video, Audio & Media in HTML .mp3.json"
+642,821.44,822.44, So what you have to do.,"10 _Video, Audio & Media in HTML .mp3.json"
+643,822.44,823.44, You people.,"10 _Video, Audio & Media in HTML .mp3.json"
+644,823.44,824.44, Have to make a website.,"10 _Video, Audio & Media in HTML .mp3.json"
+645,824.44,825.44, In which you will get a lot of content.,"10 _Video, Audio & Media in HTML .mp3.json"
+646,825.44,826.44, Now you use video audio tags.,"10 _Video, Audio & Media in HTML .mp3.json"
+647,826.44,827.44, And YouTube.,"10 _Video, Audio & Media in HTML .mp3.json"
+648,827.44,828.44, This share feature.,"10 _Video, Audio & Media in HTML .mp3.json"
+649,828.44,829.44, You can use.,"10 _Video, Audio & Media in HTML .mp3.json"
+650,829.44,830.44, And YouTube.,"10 _Video, Audio & Media in HTML .mp3.json"
+651,830.44,831.44, You can use.,"10 _Video, Audio & Media in HTML .mp3.json"
+652,831.44,832.44, And YouTube.,"10 _Video, Audio & Media in HTML .mp3.json"
+653,832.44,833.44, You can use.,"10 _Video, Audio & Media in HTML .mp3.json"
+654,833.44,834.44, And YouTube.,"10 _Video, Audio & Media in HTML .mp3.json"
+655,834.44,835.44, You can use.,"10 _Video, Audio & Media in HTML .mp3.json"
+656,835.44,836.44, You can use this share feature.,"10 _Video, Audio & Media in HTML .mp3.json"
+657,836.44,837.44, The way I did.,"10 _Video, Audio & Media in HTML .mp3.json"
+658,837.44,838.44, YouTube video embedding.,"10 _Video, Audio & Media in HTML .mp3.json"
+659,838.44,839.44, You can do the same here.,"10 _Video, Audio & Media in HTML .mp3.json"
+660,839.44,840.44, And you can make a very good website.,"10 _Video, Audio & Media in HTML .mp3.json"
+661,840.44,841.44, And show me.,"10 _Video, Audio & Media in HTML .mp3.json"
+662,841.44,842.44, You people.,"10 _Video, Audio & Media in HTML .mp3.json"
+663,842.44,843.44, If you want.,"10 _Video, Audio & Media in HTML .mp3.json"
+664,843.44,844.44, You can give me a GitHub comment.,"10 _Video, Audio & Media in HTML .mp3.json"
+665,844.44,845.44, And with that.,"10 _Video, Audio & Media in HTML .mp3.json"
+666,845.44,846.44, If you want.,"10 _Video, Audio & Media in HTML .mp3.json"
+667,846.44,847.44, You can tell me the code.,"10 _Video, Audio & Media in HTML .mp3.json"
+668,847.44,848.44, You can explain.,"10 _Video, Audio & Media in HTML .mp3.json"
+669,848.44,849.44, But do attempt this quiz.,"10 _Video, Audio & Media in HTML .mp3.json"
+670,849.44,850.44, And in the comment section.,"10 _Video, Audio & Media in HTML .mp3.json"
+671,850.44,851.44, Do write Sigma Batch OP.,"10 _Video, Audio & Media in HTML .mp3.json"
+672,851.44,852.44, Access this playlist.,"10 _Video, Audio & Media in HTML .mp3.json"
+673,852.44,853.44, Like the video.,"10 _Video, Audio & Media in HTML .mp3.json"
+674,853.44,854.44, Do write Sigma Batch OP.,"10 _Video, Audio & Media in HTML .mp3.json"
+675,854.44,855.44, That's all for this video.,"10 _Video, Audio & Media in HTML .mp3.json"
+676,855.44,856.44, Thank you so much guys.,"10 _Video, Audio & Media in HTML .mp3.json"
+677,856.44,857.44, For watching this video.,"10 _Video, Audio & Media in HTML .mp3.json"
+678,857.44,858.44, And I will see you.,"10 _Video, Audio & Media in HTML .mp3.json"
+679,858.44,859.44, Next time.,"10 _Video, Audio & Media in HTML .mp3.json"
+0,0.0,2.6," In the last video, you guys gave a lot of love.",2 _Your First HTML Website .mp3.json
+1,2.6,5.0, It's my pleasure to keep this course free.,2 _Your First HTML Website .mp3.json
+2,5.0,6.640000000000001, A like is needed for this free course.,2 _Your First HTML Website .mp3.json
+3,6.640000000000001,8.36," You know, when I started web development,",2 _Your First HTML Website .mp3.json
+4,8.36,10.76, there was no comprehensive course of this quality.,2 _Your First HTML Website .mp3.json
+5,10.76,13.44," Forget free or paid, there was no such course.",2 _Your First HTML Website .mp3.json
+6,13.44,17.64, So I can understand how important it is for some people to be free of this course.,2 _Your First HTML Website .mp3.json
+7,17.64,20.0," And trust me, I live up to the expectations.",2 _Your First HTML Website .mp3.json
+8,20.0,21.64," With that said, like this video",2 _Your First HTML Website .mp3.json
+9,21.64,24.400000000000002," because in this video, we are going to make our first website.",2 _Your First HTML Website .mp3.json
+10,24.400000000000002,28.88," And in this video, I am going to order iPhone 15 Pro Max.",2 _Your First HTML Website .mp3.json
+11,28.88,31.88, Why? How? What will happen? We will see that in the next video.,2 _Your First HTML Website .mp3.json
+12,31.88,35.28," For many of you, this will be the first website of your life.",2 _Your First HTML Website .mp3.json
+13,35.28,36.6, So it's going to be fun.,2 _Your First HTML Website .mp3.json
+14,36.6,37.96," You guys are excited, right?",2 _Your First HTML Website .mp3.json
+15,37.96,39.36," Write in the comment, I am excited.",2 _Your First HTML Website .mp3.json
+16,39.36,41.12," And whoever writes I am excited in the comment,",2 _Your First HTML Website .mp3.json
+17,41.12,43.48, I will give heart to all those comments.,2 _Your First HTML Website .mp3.json
+18,43.48,47.879999999999995," In this video, we will learn to link an HTML website with CSS and JavaScript.",2 _Your First HTML Website .mp3.json
+19,47.879999999999995,50.08," Along with that, in this video, I am going to give you guys",2 _Your First HTML Website .mp3.json
+20,50.08,53.2," notes, cheat sheets and many more resources.",2 _Your First HTML Website .mp3.json
+21,53.2,56.84, I will tell you guys some techniques that I have learned in years.,2 _Your First HTML Website .mp3.json
+22,56.84,60.88, And it will literally make your web development speed 10x.,2 _Your First HTML Website .mp3.json
+23,60.88,64.48," In this video, we will also see how to make our VS Code awesome.",2 _Your First HTML Website .mp3.json
+24,64.48,67.52000000000001, So that your VS Code screen will look killer.,2 _Your First HTML Website .mp3.json
+25,67.52000000000001,72.0," In this video, I will also tell you guys how to earn money from web development.",2 _Your First HTML Website .mp3.json
+26,72.0,73.92, So let's start with full energy.,2 _Your First HTML Website .mp3.json
+27,73.92,75.16, Let's roll the intro.,2 _Your First HTML Website .mp3.json
+28,75.16,87.2," Alright guys, so we have come to our computer screen.",2 _Your First HTML Website .mp3.json
+29,87.2,89.44," Before moving forward in the video, I would like to tell you all that",2 _Your First HTML Website .mp3.json
+30,89.44,90.8, do access this playlist.,2 _Your First HTML Website .mp3.json
+31,90.8,93.36," Secondly, we are very close to 5 million subscribers.",2 _Your First HTML Website .mp3.json
+32,93.36,96.19999999999999," So if you guys have not hit the subscribe, then do it.",2 _Your First HTML Website .mp3.json
+33,96.19999999999999,101.67999999999999," In today's video, we are going to make our first website, as I told you.",2 _Your First HTML Website .mp3.json
+34,101.88000000000001,106.0, The first thing we will do is to customize our VS Code.,2 _Your First HTML Website .mp3.json
+35,106.0,110.92, So this is the folder in which we started our web development series.,2 _Your First HTML Website .mp3.json
+36,110.92,114.16000000000001, Now I have to give you the source code of this web development series.,2 _Your First HTML Website .mp3.json
+37,114.16000000000001,116.04, So I will configure the git here.,2 _Your First HTML Website .mp3.json
+38,116.04,118.88000000000001, Now it is not at all necessary for you to know about git.,2 _Your First HTML Website .mp3.json
+39,118.88000000000001,122.4, But I will fire the GitHub desktop here.,2 _Your First HTML Website .mp3.json
+40,122.4,127.08000000000001, And what I will do here is that I will add a new repository.,2 _Your First HTML Website .mp3.json
+41,127.08000000000001,128.8, I will click on add here.,2 _Your First HTML Website .mp3.json
+42,128.8,130.96, I will click on create new repository.,2 _Your First HTML Website .mp3.json
+43,131.0,134.52, I will name it as Sigma web dev course.,2 _Your First HTML Website .mp3.json
+44,134.52,136.48000000000002, And this is our folder.,2 _Your First HTML Website .mp3.json
+45,136.48000000000002,138.24, So I will select this folder.,2 _Your First HTML Website .mp3.json
+46,138.24,140.64000000000001, I will initialize this repository with readme.,2 _Your First HTML Website .mp3.json
+47,140.64000000000001,143.20000000000002, And I will write source code for Sigma web development course here.,2 _Your First HTML Website .mp3.json
+48,143.20000000000002,144.72, I will click on create repository.,2 _Your First HTML Website .mp3.json
+49,144.72,146.84," By doing this, a repository will be created here,",2 _Your First HTML Website .mp3.json
+50,146.84,148.96, whose name is Sigma web dev course.,2 _Your First HTML Website .mp3.json
+51,148.96,153.4, I will put all the things that were relevant from the first video here.,2 _Your First HTML Website .mp3.json
+52,153.4,155.92000000000002, So these two files were relevant from the first video.,2 _Your First HTML Website .mp3.json
+53,155.92000000000002,157.64000000000001, So I will name it as video 1.,2 _Your First HTML Website .mp3.json
+54,157.64000000000001,159.08," Right click, new folder.",2 _Your First HTML Website .mp3.json
+55,159.08,160.92000000000002, I will make a video 1 here.,2 _Your First HTML Website .mp3.json
+56,160.92,163.6, And I will move these two files to video 1 folder.,2 _Your First HTML Website .mp3.json
+57,163.6,165.55999999999997, I am not pushing all these videos on git.,2 _Your First HTML Website .mp3.json
+58,165.55999999999997,166.51999999999998, These are sample videos.,2 _Your First HTML Website .mp3.json
+59,166.51999999999998,168.07999999999998, You can use your sample videos.,2 _Your First HTML Website .mp3.json
+60,168.07999999999998,171.23999999999998," So now whatever the source code will be, I will update it here.",2 _Your First HTML Website .mp3.json
+61,171.23999999999998,173.27999999999997, And I will keep pushing it on git here.,2 _Your First HTML Website .mp3.json
+62,173.27999999999997,175.39999999999998, Now how do we push it on git here?,2 _Your First HTML Website .mp3.json
+63,175.39999999999998,177.16, You don't need to learn this.,2 _Your First HTML Website .mp3.json
+64,177.16,178.56, But this procedure is very simple.,2 _Your First HTML Website .mp3.json
+65,178.56,179.48, Why do we use git?,2 _Your First HTML Website .mp3.json
+66,179.48,183.51999999999998, I would like to tell you that git is used by web developers.,2 _Your First HTML Website .mp3.json
+67,183.51999999999998,185.64, And then general coders use it.,2 _Your First HTML Website .mp3.json
+68,185.64,189.92, When they have to collaborate their code with other people.,2 _Your First HTML Website .mp3.json
+69,189.92,192.48, So what will happen is that you will work with many programmers.,2 _Your First HTML Website .mp3.json
+70,192.48,196.51999999999998, And those programmers will collaborate with your source code.,2 _Your First HTML Website .mp3.json
+71,196.51999999999998,198.79999999999998," And to do this kind of collaboration,",2 _Your First HTML Website .mp3.json
+72,198.79999999999998,200.2, they will also push some code.,2 _Your First HTML Website .mp3.json
+73,200.2,201.79999999999998, You will also push some code.,2 _Your First HTML Website .mp3.json
+74,201.79999999999998,203.72, Maybe one person is editing a file.,2 _Your First HTML Website .mp3.json
+75,203.72,205.11999999999998, One person is editing another file.,2 _Your First HTML Website .mp3.json
+76,205.11999999999998,207.07999999999998, So here github comes into use.,2 _Your First HTML Website .mp3.json
+77,207.07999999999998,208.67999999999998, And what is github desktop?,2 _Your First HTML Website .mp3.json
+78,208.67999999999998,212.72, Github desktop is a utility to use git.,2 _Your First HTML Website .mp3.json
+79,212.72,215.67999999999998, The difference between git and github is that git is open source.,2 _Your First HTML Website .mp3.json
+80,215.67999999999998,217.92, But github is a Microsoft-owned company.,2 _Your First HTML Website .mp3.json
+81,217.92,223.28, Which helps you to host repositories on your web interface using git.,2 _Your First HTML Website .mp3.json
+82,223.28,225.88, I will tell you more about git in the coming videos.,2 _Your First HTML Website .mp3.json
+83,225.88,229.6, But I am pushing this repository on my codewithhari github account.,2 _Your First HTML Website .mp3.json
+84,229.6,232.56, So you will get the repository link in the description.,2 _Your First HTML Website .mp3.json
+85,232.56,234.48," So as I give you links,",2 _Your First HTML Website .mp3.json
+86,234.48,236.6," if you follow them, you will get all the code.",2 _Your First HTML Website .mp3.json
+87,236.6,238.04, And I will talk about it later.,2 _Your First HTML Website .mp3.json
+88,238.04,240.51999999999998," I am making this video, the course, an impact.",2 _Your First HTML Website .mp3.json
+89,240.51999999999998,243.88, In such a way that absolute beginners can follow it.,2 _Your First HTML Website .mp3.json
+90,243.88,245.79999999999998," So as soon as I click on the published repository,",2 _Your First HTML Website .mp3.json
+91,245.8,249.48000000000002," this code, this folder will sync with my github account.",2 _Your First HTML Website .mp3.json
+92,249.48000000000002,251.64000000000001," So all the code that I am going to upload here,",2 _Your First HTML Website .mp3.json
+93,251.64000000000001,254.32000000000002, it will go to my github account and will keep syncing.,2 _Your First HTML Website .mp3.json
+94,254.32000000000002,256.28000000000003," The changes that will be here, will be there.",2 _Your First HTML Website .mp3.json
+95,256.28000000000003,259.16," If someone has made changes there, I can pull it here.",2 _Your First HTML Website .mp3.json
+96,259.16,262.08000000000004," I can pull it by clicking here, by doing fetch origin.",2 _Your First HTML Website .mp3.json
+97,262.08000000000004,263.32, I will teach you all this.,2 _Your First HTML Website .mp3.json
+98,263.32,264.76, We will dedicate a whole video to git.,2 _Your First HTML Website .mp3.json
+99,264.76,266.08000000000004, You don't worry at all.,2 _Your First HTML Website .mp3.json
+100,266.08000000000004,268.24, I did this thing so that I can give you code.,2 _Your First HTML Website .mp3.json
+101,268.24,270.24, Now I will make a folder called video2 here.,2 _Your First HTML Website .mp3.json
+102,270.24,272.32, And I will go inside this video2 folder.,2 _Your First HTML Website .mp3.json
+103,272.32,275.44, I will press shift right click and open with vs code.,2 _Your First HTML Website .mp3.json
+104,275.48,276.64, So here is open with code.,2 _Your First HTML Website .mp3.json
+105,276.64,280.71999999999997, You will get this option if you have installed it as I said.,2 _Your First HTML Website .mp3.json
+106,280.71999999999997,283.71999999999997," If you have made some changes and you have not checked,",2 _Your First HTML Website .mp3.json
+107,283.71999999999997,285.12," that checkbox is what I showed you,",2 _Your First HTML Website .mp3.json
+108,285.12,286.28, then you may have a problem.,2 _Your First HTML Website .mp3.json
+109,286.28,288.96," So we will do this no, we will dismiss the notification.",2 _Your First HTML Website .mp3.json
+110,288.96,291.48," Now whatever file I make here,",2 _Your First HTML Website .mp3.json
+111,291.48,293.84," like I will make index.html here,",2 _Your First HTML Website .mp3.json
+112,293.84,295.76, that file will be made here too.,2 _Your First HTML Website .mp3.json
+113,295.76,297.04, So everyone knows about this now.,2 _Your First HTML Website .mp3.json
+114,297.04,298.68, And I know there are a lot of intermediate people here,2 _Your First HTML Website .mp3.json
+115,298.68,301.56, who are saying that we already know all these things.,2 _Your First HTML Website .mp3.json
+116,301.56,303.4, But I am making this course in such a way,2 _Your First HTML Website .mp3.json
+117,303.4,305.28, that all beginners can follow along.,2 _Your First HTML Website .mp3.json
+118,305.28,306.64, So I will make three files here.,2 _Your First HTML Website .mp3.json
+119,306.64,308.55999999999995, One I made here index.html.,2 _Your First HTML Website .mp3.json
+120,308.55999999999995,311.52, The second file I am going to make is style.css.,2 _Your First HTML Website .mp3.json
+121,311.52,315.03999999999996, And the third file I am going to make is script.js.,2 _Your First HTML Website .mp3.json
+122,315.03999999999996,316.91999999999996, And the name of these files can be anything.,2 _Your First HTML Website .mp3.json
+123,316.91999999999996,320.08, But I just want to keep these files self-explanatory.,2 _Your First HTML Website .mp3.json
+124,320.08,321.03999999999996," So that by looking at their name,",2 _Your First HTML Website .mp3.json
+125,321.03999999999996,322.23999999999995, we can know what they are doing.,2 _Your First HTML Website .mp3.json
+126,322.23999999999995,324.0, Index.html is an HTML file.,2 _Your First HTML Website .mp3.json
+127,324.0,326.0, Script.js is a JavaScript file.,2 _Your First HTML Website .mp3.json
+128,326.0,328.44, Style.css is a style sheet.,2 _Your First HTML Website .mp3.json
+129,328.44,330.0, So I made these three files here.,2 _Your First HTML Website .mp3.json
+130,330.0,332.64, I will go to index.html and put an exclamation mark.,2 _Your First HTML Website .mp3.json
+131,332.64,335.2," And as soon as I put an exclamation mark,",2 _Your First HTML Website .mp3.json
+132,335.2,337.59999999999997, you see this code has come here.,2 _Your First HTML Website .mp3.json
+133,337.59999999999997,339.36, I will click on view word wrap,2 _Your First HTML Website .mp3.json
+134,339.36,340.84, so that you can see this code.,2 _Your First HTML Website .mp3.json
+135,340.84,343.28, The horizontal scroll bar moves away from the word wrap.,2 _Your First HTML Website .mp3.json
+136,343.28,344.8, I checked the word wrap here.,2 _Your First HTML Website .mp3.json
+137,344.8,349.2, So now you see here that we will understand this code.,2 _Your First HTML Website .mp3.json
+138,349.2,352.76," But for now, you understand that this code is HTML code.",2 _Your First HTML Website .mp3.json
+139,352.76,355.91999999999996, We use it to make a website.,2 _Your First HTML Website .mp3.json
+140,355.91999999999996,358.8, Now come to the extensions tab of VS Code.,2 _Your First HTML Website .mp3.json
+141,358.8,363.48, Extensions are used to enhance the functionality of VS Code.,2 _Your First HTML Website .mp3.json
+142,363.48,368.20000000000005, We use extensions to make VS Code better.,2 _Your First HTML Website .mp3.json
+143,368.20000000000005,373.36, The extensions of VS Code help us write code.,2 _Your First HTML Website .mp3.json
+144,373.36,375.24, So which extension will we use?,2 _Your First HTML Website .mp3.json
+145,375.24,378.28000000000003," First of all, I will put some extensions",2 _Your First HTML Website .mp3.json
+146,378.28000000000003,380.52000000000004, that will kill our VS Code.,2 _Your First HTML Website .mp3.json
+147,380.52000000000004,382.44," If your friends see it, they will say,",2 _Your First HTML Website .mp3.json
+148,382.44,383.92," brother, what are you doing?",2 _Your First HTML Website .mp3.json
+149,383.92,388.44, So what I will do here quickly is VS Code Icons.,2 _Your First HTML Website .mp3.json
+150,388.44,390.28000000000003, There is an extension called VS Code Icons,2 _Your First HTML Website .mp3.json
+151,390.28000000000003,392.28000000000003, which I will install as soon as I do.,2 _Your First HTML Website .mp3.json
+152,392.28,395.55999999999995," You will get to know that whatever file is there,",2 _Your First HTML Website .mp3.json
+153,395.55999999999995,396.96," like you are seeing here, its icon has come.",2 _Your First HTML Website .mp3.json
+154,396.96,397.88, Earlier this icon was not coming.,2 _Your First HTML Website .mp3.json
+155,397.88,399.35999999999996," If you look at the video behind,",2 _Your First HTML Website .mp3.json
+156,399.35999999999996,402.52, you can see all these icons here.,2 _Your First HTML Website .mp3.json
+157,402.52,404.76, Thanks for installing VS Code Icons.,2 _Your First HTML Website .mp3.json
+158,404.76,406.84, I will activate it here.,2 _Your First HTML Website .mp3.json
+159,406.84,410.2, And here you can see that our icons are looking good.,2 _Your First HTML Website .mp3.json
+160,410.2,411.88," In the coming time, if we make a folder,",2 _Your First HTML Website .mp3.json
+161,411.88,412.91999999999996," like if I made a folder,",2 _Your First HTML Website .mp3.json
+162,412.91999999999996,413.91999999999996, then this kind of icon will come.,2 _Your First HTML Website .mp3.json
+163,413.91999999999996,415.35999999999996, So these icons look good.,2 _Your First HTML Website .mp3.json
+164,415.35999999999996,417.2, We will come back to the extensions tab.,2 _Your First HTML Website .mp3.json
+165,417.2,419.11999999999995, And here are a lot of good themes,2 _Your First HTML Website .mp3.json
+166,419.11999999999995,420.67999999999995, that you can use.,2 _Your First HTML Website .mp3.json
+167,420.68,423.08," There are some themes, Jellyfish theme,",2 _Your First HTML Website .mp3.json
+168,423.08,424.28000000000003," there is one GitHub theme,",2 _Your First HTML Website .mp3.json
+169,424.28000000000003,425.56, there are a lot of themes.,2 _Your First HTML Website .mp3.json
+170,425.56,427.0, You can use these themes.,2 _Your First HTML Website .mp3.json
+171,427.0,429.72, But I can only put one theme at a time.,2 _Your First HTML Website .mp3.json
+172,429.72,431.2, This is the default VS Code theme,2 _Your First HTML Website .mp3.json
+173,431.2,434.6, which shows you VS Code in this way.,2 _Your First HTML Website .mp3.json
+174,434.6,436.96000000000004," Now if I change my theme,",2 _Your First HTML Website .mp3.json
+175,436.96000000000004,439.56, then my VS Code will look different.,2 _Your First HTML Website .mp3.json
+176,439.56,442.0, I will show you which one I will prefer,2 _Your First HTML Website .mp3.json
+177,442.0,443.24, when it comes to theme.,2 _Your First HTML Website .mp3.json
+178,443.24,445.64," First of all, I will show you GitHub theme here",2 _Your First HTML Website .mp3.json
+179,445.64,447.2, that how it looks.,2 _Your First HTML Website .mp3.json
+180,447.2,448.72, So GitHub theme is officially,2 _Your First HTML Website .mp3.json
+181,448.72,451.16, a theme provided by GitHub.,2 _Your First HTML Website .mp3.json
+182,451.16,452.68," Now see GitHub dark,",2 _Your First HTML Website .mp3.json
+183,452.68,454.40000000000003," GitHub light,",2 _Your First HTML Website .mp3.json
+184,454.40000000000003,455.84000000000003," GitHub dimmed,",2 _Your First HTML Website .mp3.json
+185,455.84000000000003,456.88000000000005, GitHub colorblind.,2 _Your First HTML Website .mp3.json
+186,456.88000000000005,458.36, I like this one a little better,2 _Your First HTML Website .mp3.json
+187,458.36,460.20000000000005," because the colors in it,",2 _Your First HTML Website .mp3.json
+188,460.20000000000005,462.20000000000005," that, sorry, I don't like this one.",2 _Your First HTML Website .mp3.json
+189,462.20000000000005,464.64000000000004, I will choose GitHub dark here,2 _Your First HTML Website .mp3.json
+190,464.64000000000004,466.84000000000003, because the colors here are different.,2 _Your First HTML Website .mp3.json
+191,466.84000000000003,470.56, Another theme that is liked is Jellyfish.,2 _Your First HTML Website .mp3.json
+192,470.56,472.04, And here Jellyfish theme,2 _Your First HTML Website .mp3.json
+193,472.04,473.48, is liked by many people.,2 _Your First HTML Website .mp3.json
+194,473.48,474.64000000000004," If I install it,",2 _Your First HTML Website .mp3.json
+195,474.64000000000004,476.24, then your VS Code will look like this.,2 _Your First HTML Website .mp3.json
+196,476.24,477.56, You can see Jellyfish.,2 _Your First HTML Website .mp3.json
+197,477.6,478.84, It will look like this.,2 _Your First HTML Website .mp3.json
+198,478.84,480.04," After this, there is a material theme",2 _Your First HTML Website .mp3.json
+199,480.04,481.4, which is also very popular.,2 _Your First HTML Website .mp3.json
+200,481.4,484.28000000000003," And if I use material theme here,",2 _Your First HTML Website .mp3.json
+201,484.28000000000003,485.2," material theme,",2 _Your First HTML Website .mp3.json
+202,485.2,486.52," and material theme icons,",2 _Your First HTML Website .mp3.json
+203,486.52,488.32, we had to install this material theme.,2 _Your First HTML Website .mp3.json
+204,488.32,490.2," If you have installed material theme icons,",2 _Your First HTML Website .mp3.json
+205,490.2,492.24, then you can change your icons,2 _Your First HTML Website .mp3.json
+206,492.24,493.6, to control which extension.,2 _Your First HTML Website .mp3.json
+207,493.6,495.08, And here we have installed,2 _Your First HTML Website .mp3.json
+208,495.08,496.76, many extensions.,2 _Your First HTML Website .mp3.json
+209,496.76,499.12, I will also tell you how to delete extensions.,2 _Your First HTML Website .mp3.json
+210,499.12,500.84000000000003, Here I am showing VS Code material theme icons,2 _Your First HTML Website .mp3.json
+211,500.84000000000003,501.8, in this way.,2 _Your First HTML Website .mp3.json
+212,501.8,502.96," And if you want,",2 _Your First HTML Website .mp3.json
+213,502.96,504.64, you can use VS Code icons.,2 _Your First HTML Website .mp3.json
+214,504.64,507.08, If I want the material theme icons,2 _Your First HTML Website .mp3.json
+215,507.08,508.52," to be removed,",2 _Your First HTML Website .mp3.json
+216,508.52,510.96, then I will simply remove it.,2 _Your First HTML Website .mp3.json
+217,510.96,514.0, And all my extensions are visible here.,2 _Your First HTML Website .mp3.json
+218,514.0,515.92, Like material theme icon.,2 _Your First HTML Website .mp3.json
+219,515.92,519.4399999999999," And I want to use these,",2 _Your First HTML Website .mp3.json
+220,519.4399999999999,520.24, then I will select it.,2 _Your First HTML Website .mp3.json
+221,520.24,522.0799999999999," And if I want, I can also uninstall it.",2 _Your First HTML Website .mp3.json
+222,522.0799999999999,523.64," And sometimes when we uninstall anything,",2 _Your First HTML Website .mp3.json
+223,523.64,524.6, then reload is required.,2 _Your First HTML Website .mp3.json
+224,524.6,526.76, So I will have to click on reload required.,2 _Your First HTML Website .mp3.json
+225,526.76,528.36," And when I click on reload required,",2 _Your First HTML Website .mp3.json
+226,528.36,529.92, then my VS Code will be reloaded.,2 _Your First HTML Website .mp3.json
+227,529.92,530.76, So you can customize your VS Code,2 _Your First HTML Website .mp3.json
+228,530.76,532.3199999999999, according to your needs.,2 _Your First HTML Website .mp3.json
+229,532.3199999999999,535.0799999999999, I will select VS Code icons,2 _Your First HTML Website .mp3.json
+230,535.0799999999999,537.04, here so that,2 _Your First HTML Website .mp3.json
+231,537.04,538.16, my icons look like this.,2 _Your First HTML Website .mp3.json
+232,538.16,539.04, I like this a little.,2 _Your First HTML Website .mp3.json
+233,539.04,540.68, I also like Jellyfish theme a lot.,2 _Your First HTML Website .mp3.json
+234,540.68,541.92," After this, there is another extension",2 _Your First HTML Website .mp3.json
+235,541.92,543.12, whose name is Prettier.,2 _Your First HTML Website .mp3.json
+236,543.12,544.88, I will not install it either.,2 _Your First HTML Website .mp3.json
+237,544.88,547.1999999999999, But I just want to tell you.,2 _Your First HTML Website .mp3.json
+238,547.1999999999999,549.04," There is another extension, ES7.",2 _Your First HTML Website .mp3.json
+239,549.04,549.88," When we react,",2 _Your First HTML Website .mp3.json
+240,549.88,550.76, then you will know.,2 _Your First HTML Website .mp3.json
+241,550.76,552.52," And yes, we will react in this course.",2 _Your First HTML Website .mp3.json
+242,552.52,553.4399999999999, For all those asking.,2 _Your First HTML Website .mp3.json
+243,553.4399999999999,553.8399999999999, Okay.,2 _Your First HTML Website .mp3.json
+244,553.8399999999999,554.8399999999999," Sorry for the spoilers,",2 _Your First HTML Website .mp3.json
+245,554.8399999999999,556.24, but we are going to react in this course.,2 _Your First HTML Website .mp3.json
+246,556.24,558.76," So here is ES7 plus React Redux,",2 _Your First HTML Website .mp3.json
+247,558.76,559.92, React Native Snippets.,2 _Your First HTML Website .mp3.json
+248,559.92,561.12, This extension gives you,2 _Your First HTML Website .mp3.json
+249,561.12,562.24, React snippets.,2 _Your First HTML Website .mp3.json
+250,562.24,564.52, We will use it when we react.,2 _Your First HTML Website .mp3.json
+251,564.52,566.4, We will not install it for now.,2 _Your First HTML Website .mp3.json
+252,566.48,568.6, But now the most important,2 _Your First HTML Website .mp3.json
+253,568.6,571.6, extension is called Live Preview.,2 _Your First HTML Website .mp3.json
+254,571.6,573.0799999999999, We will install this extension,2 _Your First HTML Website .mp3.json
+255,573.0799999999999,573.88, called Live Preview.,2 _Your First HTML Website .mp3.json
+256,573.88,575.4, Because this is a very useful extension.,2 _Your First HTML Website .mp3.json
+257,575.4,577.0, All the extensions I told you,2 _Your First HTML Website .mp3.json
+258,577.0,579.0799999999999, mostly help you,2 _Your First HTML Website .mp3.json
+259,579.0799999999999,581.76, to change the look and feel of VS Code.,2 _Your First HTML Website .mp3.json
+260,581.76,583.92," But the extension I am telling you today,",2 _Your First HTML Website .mp3.json
+261,583.92,584.56," Live Preview,",2 _Your First HTML Website .mp3.json
+262,584.56,586.52, you will actually use it.,2 _Your First HTML Website .mp3.json
+263,586.52,588.88," Let's come to our HTML, CSS, JavaScript files.",2 _Your First HTML Website .mp3.json
+264,588.88,590.4," So here are our HTML, CSS,",2 _Your First HTML Website .mp3.json
+265,590.4,591.72, and JavaScript files.,2 _Your First HTML Website .mp3.json
+266,591.72,593.0799999999999, This is an HTML file.,2 _Your First HTML Website .mp3.json
+267,593.0799999999999,594.24, This is some code,2 _Your First HTML Website .mp3.json
+268,594.24,596.44, which tells the website,2 _Your First HTML Website .mp3.json
+269,596.44,598.48, how to look.,2 _Your First HTML Website .mp3.json
+270,598.48,599.12, Okay.,2 _Your First HTML Website .mp3.json
+271,599.12,600.0, So here I am saying,2 _Your First HTML Website .mp3.json
+272,600.0,601.36, that the title should have a document.,2 _Your First HTML Website .mp3.json
+273,601.36,602.5600000000001, I will write here,2 _Your First HTML Website .mp3.json
+274,602.5600000000001,604.5600000000001, Harry's first website.,2 _Your First HTML Website .mp3.json
+275,606.08,607.8, Harry's course's first website.,2 _Your First HTML Website .mp3.json
+276,607.8,609.76, The course's first website.,2 _Your First HTML Website .mp3.json
+277,609.76,611.44, Harry's first website will be a lie.,2 _Your First HTML Website .mp3.json
+278,611.44,612.16, Your first website.,2 _Your First HTML Website .mp3.json
+279,612.16,613.44, You have to write your name in this.,2 _Your First HTML Website .mp3.json
+280,613.44,613.84, Okay.,2 _Your First HTML Website .mp3.json
+281,613.84,614.6800000000001, Whatever your name is.,2 _Your First HTML Website .mp3.json
+282,614.6800000000001,615.8, Key first website.,2 _Your First HTML Website .mp3.json
+283,615.8,617.52," And if I write inside the body,",2 _Your First HTML Website .mp3.json
+284,617.52,620.36," Hey, this is my first website.",2 _Your First HTML Website .mp3.json
+285,620.36,621.44, And everyone write congratulations,2 _Your First HTML Website .mp3.json
+286,621.44,622.36, in the comment below.,2 _Your First HTML Website .mp3.json
+287,622.36,623.64," Those who have this first website,",2 _Your First HTML Website .mp3.json
+288,623.64,624.1999999999999, write everything.,2 _Your First HTML Website .mp3.json
+289,624.1999999999999,624.96, Congratulations.,2 _Your First HTML Website .mp3.json
+290,624.96,626.92, Congratulations for my first website.,2 _Your First HTML Website .mp3.json
+291,626.92,627.3199999999999, Okay.,2 _Your First HTML Website .mp3.json
+292,627.3199999999999,628.72, And congratulate each other.,2 _Your First HTML Website .mp3.json
+293,628.72,630.6, Make a good atmosphere in the comment section.,2 _Your First HTML Website .mp3.json
+294,630.6,632.4399999999999, I also come in the comment section.,2 _Your First HTML Website .mp3.json
+295,632.4399999999999,633.04, Okay.,2 _Your First HTML Website .mp3.json
+296,633.04,634.1999999999999, And I give you all my heart.,2 _Your First HTML Website .mp3.json
+297,634.1999999999999,635.4399999999999," Hey, this is my first website.",2 _Your First HTML Website .mp3.json
+298,635.4399999999999,635.8, Okay.,2 _Your First HTML Website .mp3.json
+299,635.8,636.92," Now,",2 _Your First HTML Website .mp3.json
+300,636.92,638.1999999999999, how should I see this?,2 _Your First HTML Website .mp3.json
+301,638.1999999999999,639.72, The biggest question of people.,2 _Your First HTML Website .mp3.json
+302,639.72,641.04, So there are two ways to see.,2 _Your First HTML Website .mp3.json
+303,641.04,642.56," The extension we have installed,",2 _Your First HTML Website .mp3.json
+304,642.56,643.68, Live Server.,2 _Your First HTML Website .mp3.json
+305,643.68,644.8," Live Preview, sorry.",2 _Your First HTML Website .mp3.json
+306,644.8,646.36," Earlier, Live Server also worked very well.",2 _Your First HTML Website .mp3.json
+307,646.36,648.36, But Microsoft released Live Preview.,2 _Your First HTML Website .mp3.json
+308,648.36,651.0, So I will recommend this latest extension.,2 _Your First HTML Website .mp3.json
+309,651.0,652.12, Live Server also works.,2 _Your First HTML Website .mp3.json
+310,652.12,653.88, But I am not going to run Live Server.,2 _Your First HTML Website .mp3.json
+311,653.88,655.24, I am going to use Live Preview.,2 _Your First HTML Website .mp3.json
+312,655.24,656.68," After installing Live Preview,",2 _Your First HTML Website .mp3.json
+313,656.68,658.08, you see this icon here.,2 _Your First HTML Website .mp3.json
+314,658.08,658.64, You are looking up.,2 _Your First HTML Website .mp3.json
+315,658.64,659.52," If you click this,",2 _Your First HTML Website .mp3.json
+316,659.52,661.32, your website will look like this.,2 _Your First HTML Website .mp3.json
+317,661.32,662.24," Now you say that,",2 _Your First HTML Website .mp3.json
+318,662.24,664.4, I want to see this website here.,2 _Your First HTML Website .mp3.json
+319,664.4,665.12, In the browser.,2 _Your First HTML Website .mp3.json
+320,665.12,667.32, Because my website will be seen in the browser.,2 _Your First HTML Website .mp3.json
+321,667.32,670.0," So if you want to see this in the browser,",2 _Your First HTML Website .mp3.json
+322,670.0,671.12, click here.,2 _Your First HTML Website .mp3.json
+323,671.12,671.96, Open in browser.,2 _Your First HTML Website .mp3.json
+324,671.96,672.96, It will open in the browser.,2 _Your First HTML Website .mp3.json
+325,672.96,674.4, And should I tell you something interesting?,2 _Your First HTML Website .mp3.json
+326,674.4,675.52, Listen to the interesting thing.,2 _Your First HTML Website .mp3.json
+327,675.52,676.88, You can close it from here.,2 _Your First HTML Website .mp3.json
+328,676.88,677.8, And you can write here.,2 _Your First HTML Website .mp3.json
+329,677.8,681.32, Harry's course is good.,2 _Your First HTML Website .mp3.json
+330,681.32,682.6, Assume you have written.,2 _Your First HTML Website .mp3.json
+331,682.6,684.08, I am praising my course.,2 _Your First HTML Website .mp3.json
+332,684.08,684.88," But yes,",2 _Your First HTML Website .mp3.json
+333,684.88,685.4000000000001, what is it?,2 _Your First HTML Website .mp3.json
+334,685.4000000000001,686.7600000000001, Harry's course is good.,2 _Your First HTML Website .mp3.json
+335,686.7600000000001,688.32," Okay, I wrote it here.",2 _Your First HTML Website .mp3.json
+336,688.32,690.0400000000001, And you noticed one thing here.,2 _Your First HTML Website .mp3.json
+337,690.0400000000001,693.2, I did not reload this website.,2 _Your First HTML Website .mp3.json
+338,693.2,694.24," But even after that,",2 _Your First HTML Website .mp3.json
+339,694.24,696.5600000000001, it updated this content here.,2 _Your First HTML Website .mp3.json
+340,696.5600000000001,699.44, Which I wrote in this VS Code.,2 _Your First HTML Website .mp3.json
+341,699.44,701.6," That is, whatever I write here,",2 _Your First HTML Website .mp3.json
+342,701.6,704.84, will be updated here without reloading.,2 _Your First HTML Website .mp3.json
+343,704.84,706.5200000000001, Will it happen or not?,2 _Your First HTML Website .mp3.json
+344,706.5200000000001,707.1600000000001, Clap.,2 _Your First HTML Website .mp3.json
+345,707.1600000000001,709.6800000000001, What should be the clap for us?,2 _Your First HTML Website .mp3.json
+346,709.6800000000001,710.8800000000001," Okay, it will happen.",2 _Your First HTML Website .mp3.json
+347,710.88,712.08," And here,",2 _Your First HTML Website .mp3.json
+348,712.08,714.76," Hey, this is my first website.",2 _Your First HTML Website .mp3.json
+349,714.76,716.36, Harry's course is good.,2 _Your First HTML Website .mp3.json
+350,716.36,717.96, Now I will write here.,2 _Your First HTML Website .mp3.json
+351,717.96,719.92, Sigma Harry's course is good.,2 _Your First HTML Website .mp3.json
+352,719.92,721.72, Sigma Harry's course is good.,2 _Your First HTML Website .mp3.json
+353,721.72,723.52, Sigma Harry's course is good.,2 _Your First HTML Website .mp3.json
+354,723.52,724.32, Okay.,2 _Your First HTML Website .mp3.json
+355,724.32,726.16, So here you saw,2 _Your First HTML Website .mp3.json
+356,726.16,729.08, how this extension will help us.,2 _Your First HTML Website .mp3.json
+357,729.08,730.04," Even if you reload it,",2 _Your First HTML Website .mp3.json
+358,730.04,731.08, it will not make any difference.,2 _Your First HTML Website .mp3.json
+359,731.08,732.84, Because it is being reloaded live.,2 _Your First HTML Website .mp3.json
+360,732.84,733.68, So there are two things.,2 _Your First HTML Website .mp3.json
+361,733.68,735.24, Sometimes we want that,2 _Your First HTML Website .mp3.json
+362,735.24,736.76, our page,2 _Your First HTML Website .mp3.json
+363,736.76,738.12, will be previewed here and there.,2 _Your First HTML Website .mp3.json
+364,738.12,739.08, I close it.,2 _Your First HTML Website .mp3.json
+365,739.12,741.08, So that you can see the code wide.,2 _Your First HTML Website .mp3.json
+366,741.08,742.0, Sometimes we want that,2 _Your First HTML Website .mp3.json
+367,742.0,744.0400000000001, we can see our code here and there.,2 _Your First HTML Website .mp3.json
+368,744.0400000000001,745.6800000000001, Because we want to see,2 _Your First HTML Website .mp3.json
+369,745.6800000000001,746.76, its live preview.,2 _Your First HTML Website .mp3.json
+370,746.76,747.96, So let's say I'm writing anything.,2 _Your First HTML Website .mp3.json
+371,747.96,749.44, Harry's course is good.,2 _Your First HTML Website .mp3.json
+372,749.44,752.2, And this is the Sigma course.,2 _Your First HTML Website .mp3.json
+373,752.2,753.76, And let's say I write something else here.,2 _Your First HTML Website .mp3.json
+374,753.76,755.24, I can write a lot of things here.,2 _Your First HTML Website .mp3.json
+375,755.24,756.76, So I will write here and I will keep watching here.,2 _Your First HTML Website .mp3.json
+376,756.76,758.12, And I can also make it small or big.,2 _Your First HTML Website .mp3.json
+377,758.12,759.0, Something like this.,2 _Your First HTML Website .mp3.json
+378,759.0,761.44, So I will see the live update here.,2 _Your First HTML Website .mp3.json
+379,761.44,762.44," My old videos,",2 _Your First HTML Website .mp3.json
+380,762.44,763.44," if you have ever seen,",2 _Your First HTML Website .mp3.json
+381,763.44,765.24, then I used this extension.,2 _Your First HTML Website .mp3.json
+382,765.24,766.36, Live server.,2 _Your First HTML Website .mp3.json
+383,766.36,768.2, Either this extension was not destroyed,2 _Your First HTML Website .mp3.json
+384,768.2,768.96, or I did not know.,2 _Your First HTML Website .mp3.json
+385,768.96,769.8000000000001," Whatever it is, it is.",2 _Your First HTML Website .mp3.json
+386,769.8000000000001,770.2800000000001, Okay.,2 _Your First HTML Website .mp3.json
+387,770.2800000000001,771.2800000000001," Now if something new comes,",2 _Your First HTML Website .mp3.json
+388,771.2800000000001,772.6, then it takes time to find out.,2 _Your First HTML Website .mp3.json
+389,772.6,774.8000000000001, But this is something that you should use.,2 _Your First HTML Website .mp3.json
+390,774.8000000000001,777.4000000000001, Because I use AEC in my daily life.,2 _Your First HTML Website .mp3.json
+391,777.4000000000001,778.96, I do web development.,2 _Your First HTML Website .mp3.json
+392,778.96,779.48, Okay.,2 _Your First HTML Website .mp3.json
+393,779.48,780.24, Many people ask,2 _Your First HTML Website .mp3.json
+394,780.24,781.44, that do you also do web development,2 _Your First HTML Website .mp3.json
+395,781.44,782.44, or just teach?,2 _Your First HTML Website .mp3.json
+396,782.44,783.44," Oh man, I do it.",2 _Your First HTML Website .mp3.json
+397,783.44,784.44, I make websites.,2 _Your First HTML Website .mp3.json
+398,784.44,786.12, I don't just make videos.,2 _Your First HTML Website .mp3.json
+399,786.12,788.0400000000001, I also work by making websites.,2 _Your First HTML Website .mp3.json
+400,788.0400000000001,789.96," And yes, I earn a lot of money",2 _Your First HTML Website .mp3.json
+401,789.96,790.84, by making websites.,2 _Your First HTML Website .mp3.json
+402,790.84,792.36," Now all this code that I am writing,",2 _Your First HTML Website .mp3.json
+403,792.36,793.84, you will get all this on GitHub.,2 _Your First HTML Website .mp3.json
+404,793.84,795.2800000000001, So you will go to the description of the video,2 _Your First HTML Website .mp3.json
+405,795.2800000000001,795.96," anytime,",2 _Your First HTML Website .mp3.json
+406,795.96,796.72," in any video,",2 _Your First HTML Website .mp3.json
+407,796.76,797.76," in any course,",2 _Your First HTML Website .mp3.json
+408,797.76,798.76," in any video,",2 _Your First HTML Website .mp3.json
+409,798.76,799.76, you will go to the description.,2 _Your First HTML Website .mp3.json
+410,799.76,800.76, So you will get the code,2 _Your First HTML Website .mp3.json
+411,800.76,801.76, of that corresponding video.,2 _Your First HTML Website .mp3.json
+412,801.76,802.76, You don't have to worry about that.,2 _Your First HTML Website .mp3.json
+413,802.76,804.24, Now I will close this.,2 _Your First HTML Website .mp3.json
+414,804.24,806.24, Because my preview is visible here.,2 _Your First HTML Website .mp3.json
+415,806.24,808.24," Now assume HTML, CSS, JavaScript,",2 _Your First HTML Website .mp3.json
+416,808.24,809.24, which we talked about.,2 _Your First HTML Website .mp3.json
+417,809.24,811.24, About which we talked so much,2 _Your First HTML Website .mp3.json
+418,811.24,812.24, in the last video.,2 _Your First HTML Website .mp3.json
+419,812.24,813.24, Now I will tell you,2 _Your First HTML Website .mp3.json
+420,813.24,814.24, how to link all these three.,2 _Your First HTML Website .mp3.json
+421,814.24,815.24," Now you will say,",2 _Your First HTML Website .mp3.json
+422,815.24,816.24," yes, okay, you made index.html.",2 _Your First HTML Website .mp3.json
+423,816.24,817.24," Very good,",2 _Your First HTML Website .mp3.json
+424,817.24,818.24, the title is also visible here.,2 _Your First HTML Website .mp3.json
+425,818.24,819.24," See here,",2 _Your First HTML Website .mp3.json
+426,819.24,822.24, the first website of the Harry's course.,2 _Your First HTML Website .mp3.json
+427,822.24,823.24, Suppose I change its name,2 _Your First HTML Website .mp3.json
+428,823.24,824.24, to Sigma Web Development Course.,2 _Your First HTML Website .mp3.json
+429,824.24,825.24, So this will change.,2 _Your First HTML Website .mp3.json
+430,825.76,832.76, Sigma Web Development Course.,2 _Your First HTML Website .mp3.json
+431,832.76,833.76, Here it is written,2 _Your First HTML Website .mp3.json
+432,833.76,834.76, Sigma Web Development Course.,2 _Your First HTML Website .mp3.json
+433,834.76,835.76, And you can see here,2 _Your First HTML Website .mp3.json
+434,835.76,836.76, that it has been updated.,2 _Your First HTML Website .mp3.json
+435,836.76,837.76, So it will be updated.,2 _Your First HTML Website .mp3.json
+436,837.76,838.76, Live update will be done.,2 _Your First HTML Website .mp3.json
+437,838.76,839.76, Now I want,2 _Your First HTML Website .mp3.json
+438,839.76,840.76, that my background,2 _Your First HTML Website .mp3.json
+439,840.76,841.76, becomes red.,2 _Your First HTML Website .mp3.json
+440,841.76,842.76, Okay.,2 _Your First HTML Website .mp3.json
+441,842.76,843.76, This kind of work,2 _Your First HTML Website .mp3.json
+442,843.76,844.76, is done with CSS.,2 _Your First HTML Website .mp3.json
+443,844.76,845.76," So I can write here,",2 _Your First HTML Website .mp3.json
+444,845.76,848.76, body and background color red.,2 _Your First HTML Website .mp3.json
+445,848.76,849.76, Okay.,2 _Your First HTML Website .mp3.json
+446,849.76,850.76, This is the syntax of CSS.,2 _Your First HTML Website .mp3.json
+447,850.76,851.76, I will teach CSS,2 _Your First HTML Website .mp3.json
+448,851.76,852.76, and I will teach it,2 _Your First HTML Website .mp3.json
+449,852.76,853.76, in such a way,2 _Your First HTML Website .mp3.json
+450,853.76,854.76, that you will not be able,2 _Your First HTML Website .mp3.json
+451,854.76,855.76, to understand what is written here.,2 _Your First HTML Website .mp3.json
+452,855.76,856.76, Now understand that this is CSS,2 _Your First HTML Website .mp3.json
+453,856.76,858.76, which makes the body color red.,2 _Your First HTML Website .mp3.json
+454,858.76,860.76, And here you see,2 _Your First HTML Website .mp3.json
+455,860.76,861.76, that the color of the body,2 _Your First HTML Website .mp3.json
+456,861.76,862.76, will be red or not.,2 _Your First HTML Website .mp3.json
+457,862.76,863.76, Tell me in the comment section.,2 _Your First HTML Website .mp3.json
+458,863.76,864.76, Now I will tell the beginners,2 _Your First HTML Website .mp3.json
+459,864.76,865.76, that it will not be red.,2 _Your First HTML Website .mp3.json
+460,865.76,866.76, Why not?,2 _Your First HTML Website .mp3.json
+461,866.76,867.76, Beginners will think,2 _Your First HTML Website .mp3.json
+462,867.76,868.76, that it will be red.,2 _Your First HTML Website .mp3.json
+463,868.76,869.76, But it will not be.,2 _Your First HTML Website .mp3.json
+464,869.76,870.76, There is not such a good world.,2 _Your First HTML Website .mp3.json
+465,870.76,871.76, This HTML file is running now.,2 _Your First HTML Website .mp3.json
+466,871.76,873.76, It does not know about this CSS file.,2 _Your First HTML Website .mp3.json
+467,873.76,874.76, Now what is going on in my house?,2 _Your First HTML Website .mp3.json
+468,874.76,875.76, What does my neighbor know?,2 _Your First HTML Website .mp3.json
+469,875.76,877.76, Now suppose I made lentils here,2 _Your First HTML Website .mp3.json
+470,877.76,878.76," and I expect,",2 _Your First HTML Website .mp3.json
+471,878.76,879.76, suppose my neighbor,2 _Your First HTML Website .mp3.json
+472,879.76,880.76, has made rice,2 _Your First HTML Website .mp3.json
+473,880.76,881.76, and suppose I expect,2 _Your First HTML Website .mp3.json
+474,881.76,883.76, that I eat it together.,2 _Your First HTML Website .mp3.json
+475,883.76,884.76, You can eat it sometimes.,2 _Your First HTML Website .mp3.json
+476,884.76,885.76, But you understand,2 _Your First HTML Website .mp3.json
+477,885.76,886.76, what I am saying.,2 _Your First HTML Website .mp3.json
+478,886.76,887.76, So we have to link.,2 _Your First HTML Website .mp3.json
+479,887.76,888.76, You have to link.,2 _Your First HTML Website .mp3.json
+480,888.76,889.76, You have to go,2 _Your First HTML Website .mp3.json
+481,889.76,890.76, and tell your neighbor,2 _Your First HTML Website .mp3.json
+482,890.76,891.76, that we will eat together.,2 _Your First HTML Website .mp3.json
+483,891.76,892.76," I am making lentils,",2 _Your First HTML Website .mp3.json
+484,892.76,893.76, you are making rice.,2 _Your First HTML Website .mp3.json
+485,893.76,894.76, There will be a handshake here.,2 _Your First HTML Website .mp3.json
+486,894.76,896.76, So how will that handshake happen?,2 _Your First HTML Website .mp3.json
+487,896.76,897.76," In HTML,",2 _Your First HTML Website .mp3.json
+488,897.76,898.76, you will tell,2 _Your First HTML Website .mp3.json
+489,898.76,899.76, where is your CSS file.,2 _Your First HTML Website .mp3.json
+490,899.76,900.76, So there is a link tag.,2 _Your First HTML Website .mp3.json
+491,900.76,901.76, And the reason,2 _Your First HTML Website .mp3.json
+492,901.76,902.76, not to use notepad,2 _Your First HTML Website .mp3.json
+493,902.76,903.76, will also be known here.,2 _Your First HTML Website .mp3.json
+494,903.76,905.76," As soon as I write link here,",2 _Your First HTML Website .mp3.json
+495,905.76,906.76, see here link colon CSS.,2 _Your First HTML Website .mp3.json
+496,906.76,908.76," As soon as I select this,",2 _Your First HTML Website .mp3.json
+497,908.76,909.76," see here,",2 _Your First HTML Website .mp3.json
+498,909.76,910.76, it did half of my work.,2 _Your First HTML Website .mp3.json
+499,910.76,911.76, Wrote rel is equal to,2 _Your First HTML Website .mp3.json
+500,911.76,912.76, style sheet.,2 _Your First HTML Website .mp3.json
+501,912.76,913.76, I would have to type this,2 _Your First HTML Website .mp3.json
+502,913.76,914.76, manually in notepad.,2 _Your First HTML Website .mp3.json
+503,914.76,915.76, This is the syntax of HTML.,2 _Your First HTML Website .mp3.json
+504,915.76,916.76, I would have to write this.,2 _Your First HTML Website .mp3.json
+505,916.76,918.76, But here automatically,2 _Your First HTML Website .mp3.json
+506,918.76,919.76, it has come.,2 _Your First HTML Website .mp3.json
+507,919.76,921.76, Now style.css is my luck.,2 _Your First HTML Website .mp3.json
+508,921.76,922.76, Its name is also style.css.,2 _Your First HTML Website .mp3.json
+509,922.76,923.76, It is the file's name.,2 _Your First HTML Website .mp3.json
+510,923.76,924.76, And here also style.css is given.,2 _Your First HTML Website .mp3.json
+511,924.76,926.76," If its name was harry.css,",2 _Your First HTML Website .mp3.json
+512,926.76,927.76, then I would have written harry.css here.,2 _Your First HTML Website .mp3.json
+513,927.76,928.76, And guess what?,2 _Your First HTML Website .mp3.json
+514,928.76,930.76, Now my background is red here.,2 _Your First HTML Website .mp3.json
+515,930.76,931.76, Now if I want,2 _Your First HTML Website .mp3.json
+516,931.76,932.76," the color of my text to be white,",2 _Your First HTML Website .mp3.json
+517,932.76,934.76, then I can make the color text white here.,2 _Your First HTML Website .mp3.json
+518,934.76,936.76, I can write here color white.,2 _Your First HTML Website .mp3.json
+519,936.76,938.76, Now nothing will work here.,2 _Your First HTML Website .mp3.json
+520,938.76,939.76, I wrote color white.,2 _Your First HTML Website .mp3.json
+521,939.76,940.76, So see this is white.,2 _Your First HTML Website .mp3.json
+522,940.76,942.76, The valid CSS syntax will work.,2 _Your First HTML Website .mp3.json
+523,942.76,943.76, And we will talk about this later,2 _Your First HTML Website .mp3.json
+524,943.76,944.76, in this course.,2 _Your First HTML Website .mp3.json
+525,944.76,947.76, So this is our CSS.,2 _Your First HTML Website .mp3.json
+526,947.76,949.76, Now how will this JavaScript work?,2 _Your First HTML Website .mp3.json
+527,949.76,951.76, If I write alert here,2 _Your First HTML Website .mp3.json
+528,951.76,952.76, and I write here,2 _Your First HTML Website .mp3.json
+529,952.76,957.76, welcome to sigma web development course.,2 _Your First HTML Website .mp3.json
+530,957.76,958.76, Assume I wrote here,2 _Your First HTML Website .mp3.json
+531,958.76,960.76, welcome to sigma web development course.,2 _Your First HTML Website .mp3.json
+532,960.76,961.76, So what will happen?,2 _Your First HTML Website .mp3.json
+533,961.76,962.76, Will the alert come here?,2 _Your First HTML Website .mp3.json
+534,962.76,963.76, Why didn't the alert come?,2 _Your First HTML Website .mp3.json
+535,963.76,964.76, I will tell you that,2 _Your First HTML Website .mp3.json
+536,964.76,966.76, this syntax is absolutely correct.,2 _Your First HTML Website .mp3.json
+537,966.76,967.76, There is no problem in syntax.,2 _Your First HTML Website .mp3.json
+538,967.76,969.76, And I will also read JavaScript very well.,2 _Your First HTML Website .mp3.json
+539,969.76,971.76, So don't worry about what I wrote.,2 _Your First HTML Website .mp3.json
+540,971.76,973.76, This is JavaScript code.,2 _Your First HTML Website .mp3.json
+541,973.76,974.76, Which will flash a very simple,2 _Your First HTML Website .mp3.json
+542,974.76,975.76, welcome to sigma web development code,2 _Your First HTML Website .mp3.json
+543,975.76,977.76, on the screen.,2 _Your First HTML Website .mp3.json
+544,977.76,979.76, Why didn't it flash?,2 _Your First HTML Website .mp3.json
+545,979.76,981.76, Is my computer broken?,2 _Your First HTML Website .mp3.json
+546,981.76,983.76," No, my computer is absolutely fine.",2 _Your First HTML Website .mp3.json
+547,983.76,984.76, I want to tell you,2 _Your First HTML Website .mp3.json
+548,984.76,986.76, that I have to include the script.,2 _Your First HTML Website .mp3.json
+549,986.76,987.76, And let's include the script,2 _Your First HTML Website .mp3.json
+550,987.76,988.76, just before the body.,2 _Your First HTML Website .mp3.json
+551,988.76,989.76, Okay.,2 _Your First HTML Website .mp3.json
+552,989.76,991.76," Now as soon as I include the script here,",2 _Your First HTML Website .mp3.json
+553,991.76,994.76, I will write script.js in src.,2 _Your First HTML Website .mp3.json
+554,994.76,995.76, How did I write this?,2 _Your First HTML Website .mp3.json
+555,995.76,996.76," First of all, I wrote script here.",2 _Your First HTML Website .mp3.json
+556,996.76,997.76, Okay.,2 _Your First HTML Website .mp3.json
+557,997.76,999.76," First of all, I wrote script here.",2 _Your First HTML Website .mp3.json
+558,999.76,1001.76, Emmet abbreviation.,2 _Your First HTML Website .mp3.json
+559,1001.76,1002.76, What is Emmet?,2 _Your First HTML Website .mp3.json
+560,1002.76,1003.76, Emmet is a plugin,2 _Your First HTML Website .mp3.json
+561,1003.76,1005.76, which is built-in in VS code.,2 _Your First HTML Website .mp3.json
+562,1005.76,1006.76," As you select it,",2 _Your First HTML Website .mp3.json
+563,1006.76,1008.76, your auto-complete will be done.,2 _Your First HTML Website .mp3.json
+564,1008.76,1009.76, Now if I am writing a script here,2 _Your First HTML Website .mp3.json
+565,1009.76,1011.76," and I am selecting colon src here,",2 _Your First HTML Website .mp3.json
+566,1011.76,1012.76, then it means,2 _Your First HTML Website .mp3.json
+567,1012.76,1014.76, that I want to give a source file.,2 _Your First HTML Website .mp3.json
+568,1014.76,1016.76, You can type it manually if you want.,2 _Your First HTML Website .mp3.json
+569,1016.76,1018.76, But the suggestions you are getting here,2 _Your First HTML Website .mp3.json
+570,1018.76,1020.76, make your writing skills,2 _Your First HTML Website .mp3.json
+571,1020.76,1021.76, faster.,2 _Your First HTML Website .mp3.json
+572,1021.76,1023.76, They make you a great developer,2 _Your First HTML Website .mp3.json
+573,1023.76,1026.76, and increase your skills.,2 _Your First HTML Website .mp3.json
+574,1026.76,1028.76, So that you can avoid any trouble,2 _Your First HTML Website .mp3.json
+575,1028.76,1029.76," and as a developer,",2 _Your First HTML Website .mp3.json
+576,1029.76,1032.76, you can be self-sufficient as soon as possible.,2 _Your First HTML Website .mp3.json
+577,1032.76,1035.76, src is equal to script.js.,2 _Your First HTML Website .mp3.json
+578,1035.76,1036.76, You can see here.,2 _Your First HTML Website .mp3.json
+579,1036.76,1037.76, I have included it.,2 _Your First HTML Website .mp3.json
+580,1037.76,1038.76, Now I will come here.,2 _Your First HTML Website .mp3.json
+581,1038.76,1039.76," So you see,",2 _Your First HTML Website .mp3.json
+582,1039.76,1041.76, welcome to Sigma Web Development Course.,2 _Your First HTML Website .mp3.json
+583,1041.76,1042.76, Everyone write in the comment,2 _Your First HTML Website .mp3.json
+584,1042.76,1043.76, that I have become self-sufficient.,2 _Your First HTML Website .mp3.json
+585,1043.76,1044.76, Write.,2 _Your First HTML Website .mp3.json
+586,1044.76,1045.76, Because I know,2 _Your First HTML Website .mp3.json
+587,1045.76,1046.76, that you have become self-sufficient,2 _Your First HTML Website .mp3.json
+588,1046.76,1047.76, by seeing this box.,2 _Your First HTML Website .mp3.json
+589,1047.76,1048.76, JavaScript also worked.,2 _Your First HTML Website .mp3.json
+590,1048.76,1049.76, CSS also worked.,2 _Your First HTML Website .mp3.json
+591,1049.76,1050.76, JavaScript also worked.,2 _Your First HTML Website .mp3.json
+592,1050.76,1051.76, Now you have become self-sufficient.,2 _Your First HTML Website .mp3.json
+593,1051.76,1052.76, I will reload it.,2 _Your First HTML Website .mp3.json
+594,1052.76,1053.76, It will come again.,2 _Your First HTML Website .mp3.json
+595,1053.76,1054.76, I will click on OK.,2 _Your First HTML Website .mp3.json
+596,1054.76,1055.76, It will stop.,2 _Your First HTML Website .mp3.json
+597,1055.76,1056.76, I will click on OK.,2 _Your First HTML Website .mp3.json
+598,1056.76,1057.76, I will see an alert here.,2 _Your First HTML Website .mp3.json
+599,1057.76,1059.76, This is called an alert in JavaScript.,2 _Your First HTML Website .mp3.json
+600,1059.76,1061.76, I will tell you what is JavaScript.,2 _Your First HTML Website .mp3.json
+601,1061.76,1063.76, Don't say that you didn't tell the alert.,2 _Your First HTML Website .mp3.json
+602,1063.76,1064.76, Don't start weirdly.,2 _Your First HTML Website .mp3.json
+603,1064.76,1065.76," I will finish HTML,",2 _Your First HTML Website .mp3.json
+604,1065.76,1066.76," then CSS, then JavaScript.",2 _Your First HTML Website .mp3.json
+605,1066.76,1068.76, So don't worry at all.,2 _Your First HTML Website .mp3.json
+606,1068.76,1069.76," And along with this,",2 _Your First HTML Website .mp3.json
+607,1069.76,1070.76, the best practices,2 _Your First HTML Website .mp3.json
+608,1070.76,1072.76," that I am telling you,",2 _Your First HTML Website .mp3.json
+609,1072.76,1073.76, keep them in mind.,2 _Your First HTML Website .mp3.json
+610,1073.76,1075.76," Because what I am telling you,",2 _Your First HTML Website .mp3.json
+611,1075.76,1076.76, it is coming from my experience.,2 _Your First HTML Website .mp3.json
+612,1076.76,1078.76, It is coming from a long time experience.,2 _Your First HTML Website .mp3.json
+613,1078.76,1079.76, And it will definitely help you.,2 _Your First HTML Website .mp3.json
+614,1079.76,1080.76," Like I said,",2 _Your First HTML Website .mp3.json
+615,1080.76,1082.76, you can use the live server if you want.,2 _Your First HTML Website .mp3.json
+616,1082.76,1083.76, Nothing wrong in that.,2 _Your First HTML Website .mp3.json
+617,1083.76,1085.76, Use the live preview from Microsoft.,2 _Your First HTML Website .mp3.json
+618,1085.76,1086.76, Awesome.,2 _Your First HTML Website .mp3.json
+619,1086.76,1087.76, Now I want you all,2 _Your First HTML Website .mp3.json
+620,1087.76,1089.76, to write Sigma batch OP in the comment.,2 _Your First HTML Website .mp3.json
+621,1089.76,1091.76," If everyone is enjoying the course,",2 _Your First HTML Website .mp3.json
+622,1091.76,1092.76, then put Sigma batch OP in the comment.,2 _Your First HTML Website .mp3.json
+623,1092.76,1094.76, It will be fun to see.,2 _Your First HTML Website .mp3.json
+624,1094.76,1095.76," Yes, this is a batch.",2 _Your First HTML Website .mp3.json
+625,1095.76,1096.76, What happened if it is a free course?,2 _Your First HTML Website .mp3.json
+626,1096.76,1097.76, It is a batch.,2 _Your First HTML Website .mp3.json
+627,1097.76,1098.76, So write Sigma course OP,2 _Your First HTML Website .mp3.json
+628,1098.76,1099.76, with an asterisk.,2 _Your First HTML Website .mp3.json
+629,1099.76,1100.76, It will be fun.,2 _Your First HTML Website .mp3.json
+630,1100.76,1101.76, Now many people had a comment,2 _Your First HTML Website .mp3.json
+631,1101.76,1102.76, in the last video,2 _Your First HTML Website .mp3.json
+632,1102.76,1103.76, that how to do this,2 _Your First HTML Website .mp3.json
+633,1103.76,1104.76, with the mouse wheel.,2 _Your First HTML Website .mp3.json
+634,1104.76,1106.76, So you have to go to settings.,2 _Your First HTML Website .mp3.json
+635,1106.76,1107.76, You have to write mouse wheel here.,2 _Your First HTML Website .mp3.json
+636,1107.76,1109.76, And here you have to check,2 _Your First HTML Website .mp3.json
+637,1109.76,1110.76, the editor mouse wheel zoom.,2 _Your First HTML Website .mp3.json
+638,1110.76,1111.76, Then you press CTRL,2 _Your First HTML Website .mp3.json
+639,1111.76,1112.76," and then with the mouse wheel,",2 _Your First HTML Website .mp3.json
+640,1112.76,1113.76, I have pressed CTRL here.,2 _Your First HTML Website .mp3.json
+641,1113.76,1115.76," As soon as I do this with the mouse wheel,",2 _Your First HTML Website .mp3.json
+642,1115.76,1117.76, I will be able to zoom in.,2 _Your First HTML Website .mp3.json
+643,1117.76,1119.76," And if I do the command palette by right-clicking here,",2 _Your First HTML Website .mp3.json
+644,1119.76,1122.76, then I can also toggle the screencast mode here.,2 _Your First HTML Website .mp3.json
+645,1122.76,1123.76," Whatever I will write here,",2 _Your First HTML Website .mp3.json
+646,1123.76,1124.76, you will get to see that.,2 _Your First HTML Website .mp3.json
+647,1124.76,1126.76, I did not toggle the screencast mode in this video,2 _Your First HTML Website .mp3.json
+648,1126.76,1128.76, because you already know,2 _Your First HTML Website .mp3.json
+649,1128.76,1129.76, what type I am doing.,2 _Your First HTML Website .mp3.json
+650,1129.76,1131.76, So I can also toggle the screencast mode like this.,2 _Your First HTML Website .mp3.json
+651,1131.76,1132.76," That is, I can turn it on",2 _Your First HTML Website .mp3.json
+652,1132.76,1133.76, so that you can see all the things,2 _Your First HTML Website .mp3.json
+653,1133.76,1135.76, that I am doing below.,2 _Your First HTML Website .mp3.json
+654,1135.76,1136.76," In the last video,",2 _Your First HTML Website .mp3.json
+655,1136.76,1139.76, we talked about how websites work.,2 _Your First HTML Website .mp3.json
+656,1139.76,1141.76," And what we talked about,",2 _Your First HTML Website .mp3.json
+657,1141.76,1142.76, you understood very well.,2 _Your First HTML Website .mp3.json
+658,1142.76,1145.76, Now I will take the example of iPhone 15 Pro Max,2 _Your First HTML Website .mp3.json
+659,1145.76,1147.76, and I will show you by ordering,2 _Your First HTML Website .mp3.json
+660,1147.76,1150.76, how the client-server interaction will be,2 _Your First HTML Website .mp3.json
+661,1150.76,1153.76, whenever a user orders an iPhone.,2 _Your First HTML Website .mp3.json
+662,1153.76,1155.76," Okay, so you will find it interesting.",2 _Your First HTML Website .mp3.json
+663,1155.76,1156.76, I will show you here.,2 _Your First HTML Website .mp3.json
+664,1156.76,1159.76," So guys, how does the website work here?",2 _Your First HTML Website .mp3.json
+665,1159.76,1161.76, I have come to explain on apple.com.,2 _Your First HTML Website .mp3.json
+666,1161.76,1163.76," Now see, apple.com is a website.",2 _Your First HTML Website .mp3.json
+667,1163.76,1166.76," Okay, data must have come from their server.",2 _Your First HTML Website .mp3.json
+668,1166.76,1168.76," Okay, whatever these HTML files are,",2 _Your First HTML Website .mp3.json
+669,1168.76,1171.76, I will click on pre-order here.,2 _Your First HTML Website .mp3.json
+670,1171.76,1173.76," And after this, I am simply",2 _Your First HTML Website .mp3.json
+671,1173.76,1175.76," when I am recording, it has not even come.",2 _Your First HTML Website .mp3.json
+672,1175.76,1176.76," By the way, he is saying that",2 _Your First HTML Website .mp3.json
+673,1176.76,1177.76," it will come now, brother, in September.",2 _Your First HTML Website .mp3.json
+674,1177.76,1179.76, I will select 15 Pro Max.,2 _Your First HTML Website .mp3.json
+675,1179.76,1181.76," Let's take any color, let's take black titanium.",2 _Your First HTML Website .mp3.json
+676,1181.76,1182.76, What is going on?,2 _Your First HTML Website .mp3.json
+677,1182.76,1185.76," Let's take 250 GB, let's take no trade-in,",2 _Your First HTML Website .mp3.json
+678,1185.76,1186.76, no apple coverage.,2 _Your First HTML Website .mp3.json
+679,1186.76,1188.76," After this, you see what they did here.",2 _Your First HTML Website .mp3.json
+680,1188.76,1191.76, Communication is going on from their server.,2 _Your First HTML Website .mp3.json
+681,1191.76,1195.76," So in total, this is the HTML CSS JavaScript.",2 _Your First HTML Website .mp3.json
+682,1195.76,1197.76," You can see, I have sourced its view page here.",2 _Your First HTML Website .mp3.json
+683,1197.76,1199.76, So I can see it here like this.,2 _Your First HTML Website .mp3.json
+684,1199.76,1201.76," And this is our original website,",2 _Your First HTML Website .mp3.json
+685,1201.76,1202.76," that is, on which we were working.",2 _Your First HTML Website .mp3.json
+686,1202.76,1204.76, Now I check out here quickly.,2 _Your First HTML Website .mp3.json
+687,1204.76,1206.76, I do continuous guest.,2 _Your First HTML Website .mp3.json
+688,1206.76,1207.76, I will show you a fun thing.,2 _Your First HTML Website .mp3.json
+689,1207.76,1208.76," As soon as I click on inspect,",2 _Your First HTML Website .mp3.json
+690,1208.76,1209.76, I will click on the network.,2 _Your First HTML Website .mp3.json
+691,1209.76,1211.76," Now see, 2 and 4 communication is going on",2 _Your First HTML Website .mp3.json
+692,1211.76,1213.76, with apple servers.,2 _Your First HTML Website .mp3.json
+693,1213.76,1215.76," Which means that here,",2 _Your First HTML Website .mp3.json
+694,1215.76,1217.76," as I am doing action here,",2 _Your First HTML Website .mp3.json
+695,1217.76,1220.76, JavaScript is communicating to the server.,2 _Your First HTML Website .mp3.json
+696,1220.76,1223.76," And there, appropriate action server is taking.",2 _Your First HTML Website .mp3.json
+697,1223.76,1224.76, And is sending me data.,2 _Your First HTML Website .mp3.json
+698,1224.76,1226.76," I will say here, I would like to be delivered.",2 _Your First HTML Website .mp3.json
+699,1226.76,1229.76," I will put the shipping address, name, etc.",2 _Your First HTML Website .mp3.json
+700,1229.76,1231.76, Will deliver on 19th October.,2 _Your First HTML Website .mp3.json
+701,1231.76,1233.76," If the shipping date comes, I will tell you.",2 _Your First HTML Website .mp3.json
+702,1233.76,1234.76," I will keep you updated, okay?",2 _Your First HTML Website .mp3.json
+703,1234.76,1235.76," Yes, everything is fine.",2 _Your First HTML Website .mp3.json
+704,1235.76,1237.76," Terms and conditions, I read it.",2 _Your First HTML Website .mp3.json
+705,1237.76,1238.76, I totally agree.,2 _Your First HTML Website .mp3.json
+706,1238.76,1239.76, Place your order.,2 _Your First HTML Website .mp3.json
+707,1239.76,1241.76," I agreed, I placed your order.",2 _Your First HTML Website .mp3.json
+708,1241.76,1242.76," Like the video,",2 _Your First HTML Website .mp3.json
+709,1242.76,1245.76, because I also order iPhones to explain web development to you.,2 _Your First HTML Website .mp3.json
+710,1245.76,1247.76," Here it is, we have OTP.",2 _Your First HTML Website .mp3.json
+711,1247.76,1248.76, I will confirm OTP.,2 _Your First HTML Website .mp3.json
+712,1248.76,1251.76, And my purchase has been made here.,2 _Your First HTML Website .mp3.json
+713,1251.76,1253.76," In total, this happened that",2 _Your First HTML Website .mp3.json
+714,1253.76,1257.76, I requested something from the apple.com server.,2 _Your First HTML Website .mp3.json
+715,1257.76,1259.76," I said, give me an iPhone 15 Pro Max.",2 _Your First HTML Website .mp3.json
+716,1259.76,1261.76," Apple.com said, take it.",2 _Your First HTML Website .mp3.json
+717,1261.76,1265.76," So this kind of communication between the server and the client,",2 _Your First HTML Website .mp3.json
+718,1265.76,1267.76, This is done through JavaScript.,2 _Your First HTML Website .mp3.json
+719,1267.76,1268.76, Without loading the page.,2 _Your First HTML Website .mp3.json
+720,1268.76,1270.76," Like you saw, I selected the iPhone here.",2 _Your First HTML Website .mp3.json
+721,1270.76,1273.76," After that, I clicked different things.",2 _Your First HTML Website .mp3.json
+722,1273.76,1275.76, So how do all those things happen?,2 _Your First HTML Website .mp3.json
+723,1275.76,1277.76, That happens with the help of JavaScript.,2 _Your First HTML Website .mp3.json
+724,1277.76,1278.76, How is the styling?,2 _Your First HTML Website .mp3.json
+725,1278.76,1279.76, With the help of CSS.,2 _Your First HTML Website .mp3.json
+726,1279.76,1282.76, And all that is written is HTML.,2 _Your First HTML Website .mp3.json
+727,1282.76,1284.76, I hope you remember this example.,2 _Your First HTML Website .mp3.json
+728,1284.76,1286.76," And if the phone comes, I will definitely show you.",2 _Your First HTML Website .mp3.json
+729,1286.76,1288.76," Otherwise, many people will say that this is fake.",2 _Your First HTML Website .mp3.json
+730,1288.76,1290.76, I will show you when this phone comes.,2 _Your First HTML Website .mp3.json
+731,1290.76,1292.76, Then I will unbox it in front of you.,2 _Your First HTML Website .mp3.json
+732,1292.76,1294.76, So this is how your websites work.,2 _Your First HTML Website .mp3.json
+733,1294.76,1296.76, How to communicate with a client server.,2 _Your First HTML Website .mp3.json
+734,1296.76,1298.76, I hope you understood from this example.,2 _Your First HTML Website .mp3.json
+735,1298.76,1301.76," Tell me in the comment section, if I want to give away this iPhone.",2 _Your First HTML Website .mp3.json
+736,1301.76,1303.76, What will be the best thing?,2 _Your First HTML Website .mp3.json
+737,1303.76,1306.76, So that you also know that I have done a genuine giveaway.,2 _Your First HTML Website .mp3.json
+738,1306.76,1307.76, And I can also do a giveaway.,2 _Your First HTML Website .mp3.json
+739,1307.76,1308.76, You tell me in the comment section.,2 _Your First HTML Website .mp3.json
+740,1308.76,1310.76, I don't know about all this.,2 _Your First HTML Website .mp3.json
+741,1310.76,1312.76," If you have knowledge about this, then tell me.",2 _Your First HTML Website .mp3.json
+742,1312.76,1313.76, Now I want to tell you.,2 _Your First HTML Website .mp3.json
+743,1313.76,1315.76, Where will you get notes and cheat sheets?,2 _Your First HTML Website .mp3.json
+744,1315.76,1317.76, If you go to codewithali.com.,2 _Your First HTML Website .mp3.json
+745,1317.76,1320.76, You will get to see notes.,2 _Your First HTML Website .mp3.json
+746,1320.76,1323.76, And you can download notes here.,2 _Your First HTML Website .mp3.json
+747,1323.76,1325.76," Along with that, you will get to see cheat sheets below.",2 _Your First HTML Website .mp3.json
+748,1325.76,1328.76," For example, if I want to access the HTML cheat sheet.",2 _Your First HTML Website .mp3.json
+749,1328.76,1330.76, So I can access the cheat sheet here.,2 _Your First HTML Website .mp3.json
+750,1330.76,1332.76, There are all the elements here.,2 _Your First HTML Website .mp3.json
+751,1332.76,1334.76, But now you stay in this course.,2 _Your First HTML Website .mp3.json
+752,1334.76,1336.76, I will tell you about all the elements.,2 _Your First HTML Website .mp3.json
+753,1336.76,1339.76," Along with that, if you want to download my handwritten notes.",2 _Your First HTML Website .mp3.json
+754,1339.76,1342.76, So from here you can download PDF notes.,2 _Your First HTML Website .mp3.json
+755,1342.76,1344.76, I have written this handwritten.,2 _Your First HTML Website .mp3.json
+756,1344.76,1345.76, You will enjoy reading.,2 _Your First HTML Website .mp3.json
+757,1345.76,1347.76, I will tell you everything in this course.,2 _Your First HTML Website .mp3.json
+758,1347.76,1350.76," But if you download these notes, you will enjoy even more.",2 _Your First HTML Website .mp3.json
+759,1350.76,1352.76, I will make your learning experience so buttery.,2 _Your First HTML Website .mp3.json
+760,1352.76,1354.76, That you will also say that it was fun.,2 _Your First HTML Website .mp3.json
+761,1354.76,1357.76, Now I want all of you to do one thing.,2 _Your First HTML Website .mp3.json
+762,1357.76,1360.76, Put the initial review of this course in this first video.,2 _Your First HTML Website .mp3.json
+763,1360.76,1362.76, I want all of you to go to this video.,2 _Your First HTML Website .mp3.json
+764,1362.76,1365.76," And in this video, go to the comment section.",2 _Your First HTML Website .mp3.json
+765,1365.76,1366.76, Post the initial review.,2 _Your First HTML Website .mp3.json
+766,1366.76,1369.76, I want you to write in the comment section below.,2 _Your First HTML Website .mp3.json
+767,1369.76,1371.76, Write about this first video.,2 _Your First HTML Website .mp3.json
+768,1371.76,1373.76, How did you like this course?,2 _Your First HTML Website .mp3.json
+769,1373.76,1374.76, And give me stars out of 5.,2 _Your First HTML Website .mp3.json
+770,1374.76,1376.76, Tell me by rating it star.,2 _Your First HTML Website .mp3.json
+771,1376.76,1378.76, We are talking about the initial review.,2 _Your First HTML Website .mp3.json
+772,1378.76,1379.76, I know that the course has not gone too far.,2 _Your First HTML Website .mp3.json
+773,1379.76,1381.76, But what quality and all these things.,2 _Your First HTML Website .mp3.json
+774,1381.76,1383.76," Seeing everything, I am commenting below.",2 _Your First HTML Website .mp3.json
+775,1383.76,1384.76, In the first video.,2 _Your First HTML Website .mp3.json
+776,1384.76,1386.76," So if you do this work, I will like it from the heart.",2 _Your First HTML Website .mp3.json
+777,1386.76,1388.76, Go to the first video and rate this course.,2 _Your First HTML Website .mp3.json
+778,1388.76,1393.76, Now we will talk about how you can earn money after doing this course.,2 _Your First HTML Website .mp3.json
+779,1393.76,1396.76, The first way to earn money from web development is very simple.,2 _Your First HTML Website .mp3.json
+780,1396.76,1397.76, You do freelance.,2 _Your First HTML Website .mp3.json
+781,1397.76,1398.76, Freelance as a web developer.,2 _Your First HTML Website .mp3.json
+782,1398.76,1399.76, You make websites.,2 _Your First HTML Website .mp3.json
+783,1399.76,1400.76, There are many websites.,2 _Your First HTML Website .mp3.json
+784,1400.76,1402.76, Which you can make.,2 _Your First HTML Website .mp3.json
+785,1402.76,1404.76," And by making them, you will get a lot of money.",2 _Your First HTML Website .mp3.json
+786,1404.76,1407.76, Many people integrate APIs.,2 _Your First HTML Website .mp3.json
+787,1407.76,1410.76," And by integrating APIs, many people earn a lot of money.",2 _Your First HTML Website .mp3.json
+788,1410.76,1412.76, Many people say that chat gpt has come.,2 _Your First HTML Website .mp3.json
+789,1412.76,1413.76, Now chat gpt has come.,2 _Your First HTML Website .mp3.json
+790,1413.76,1414.76, Then nothing will happen.,2 _Your First HTML Website .mp3.json
+791,1414.76,1415.76, Everything is chat gpt.,2 _Your First HTML Website .mp3.json
+792,1415.76,1416.76, But this is not true.,2 _Your First HTML Website .mp3.json
+793,1416.76,1420.76, Making a website for you is easier for me.,2 _Your First HTML Website .mp3.json
+794,1420.76,1422.76, And when you use chat gpt.,2 _Your First HTML Website .mp3.json
+795,1422.76,1424.76, Then you become a giga chat developer.,2 _Your First HTML Website .mp3.json
+796,1428.76,1430.76, So use chat gpt as much as possible.,2 _Your First HTML Website .mp3.json
+797,1430.76,1432.76, And you can save your time.,2 _Your First HTML Website .mp3.json
+798,1432.76,1437.76," In fact, I am able to deliver more to my freelancing clients since chat gpt came.",2 _Your First HTML Website .mp3.json
+799,1437.76,1440.76, All the websites that I had to make from the beginning.,2 _Your First HTML Website .mp3.json
+800,1440.76,1442.76, I do more than half of the work with chat gpt.,2 _Your First HTML Website .mp3.json
+801,1442.76,1444.76, And the work that chat gpt can't do.,2 _Your First HTML Website .mp3.json
+802,1444.76,1445.76, I do that.,2 _Your First HTML Website .mp3.json
+803,1445.76,1446.76, Finally I package it.,2 _Your First HTML Website .mp3.json
+804,1446.76,1448.76, And I don't have to answer anyone.,2 _Your First HTML Website .mp3.json
+805,1448.76,1449.76, What did I use chat gpt?,2 _Your First HTML Website .mp3.json
+806,1449.76,1451.76, What did I do without chat gpt?,2 _Your First HTML Website .mp3.json
+807,1451.76,1454.76, You can easily deliver everything.,2 _Your First HTML Website .mp3.json
+808,1454.76,1456.76, Use chat gpt.,2 _Your First HTML Website .mp3.json
+809,1456.76,1457.76, Chat gpt can't do everything.,2 _Your First HTML Website .mp3.json
+810,1457.76,1460.76, You have to use chat gpt.,2 _Your First HTML Website .mp3.json
+811,1460.76,1463.76," And after that, you have to make a website and deliver it to the freelance client.",2 _Your First HTML Website .mp3.json
+812,1463.76,1465.76, Where will you get freelancing clients?,2 _Your First HTML Website .mp3.json
+813,1465.76,1467.76, You can go to a website like fiverr.,2 _Your First HTML Website .mp3.json
+814,1467.76,1469.76," Yes, I know that it is a little difficult to get work on fiverr.",2 _Your First HTML Website .mp3.json
+815,1469.76,1471.76, But you can go to the buyer request here.,2 _Your First HTML Website .mp3.json
+816,1471.76,1473.76, Fiverr has the option of a buyer request.,2 _Your First HTML Website .mp3.json
+817,1473.76,1474.76, Search it.,2 _Your First HTML Website .mp3.json
+818,1474.76,1477.76," Now if you go here, you can match it with the buyer.",2 _Your First HTML Website .mp3.json
+819,1477.76,1479.76," If I show you images, then here.",2 _Your First HTML Website .mp3.json
+820,1479.76,1482.76, You can give your pitch to these people.,2 _Your First HTML Website .mp3.json
+821,1482.76,1483.76, I have done this thing.,2 _Your First HTML Website .mp3.json
+822,1483.76,1485.76, And I have to do this work.,2 _Your First HTML Website .mp3.json
+823,1485.76,1486.76, You will get work.,2 _Your First HTML Website .mp3.json
+824,1486.76,1487.76, It will start from here.,2 _Your First HTML Website .mp3.json
+825,1487.76,1490.76, As soon as you get good reviews on your gig.,2 _Your First HTML Website .mp3.json
+826,1490.76,1492.76, You will earn more money.,2 _Your First HTML Website .mp3.json
+827,1492.76,1493.76, Suppose you have a gig on fiverr.,2 _Your First HTML Website .mp3.json
+828,1493.76,1495.76, No one has ever ordered on it.,2 _Your First HTML Website .mp3.json
+829,1495.76,1497.76, Then you will never get work easily.,2 _Your First HTML Website .mp3.json
+830,1497.76,1500.76, But if you have a gig.,2 _Your First HTML Website .mp3.json
+831,1500.76,1501.76, Suppose 5-6 people ordered.,2 _Your First HTML Website .mp3.json
+832,1501.76,1502.76, And everyone gave you 5 stars.,2 _Your First HTML Website .mp3.json
+833,1502.76,1504.76, Then things become easy for you from there.,2 _Your First HTML Website .mp3.json
+834,1504.76,1506.76, Because the buyers want.,2 _Your First HTML Website .mp3.json
+835,1506.76,1509.76, They want the credibility of the people they are getting work from.,2 _Your First HTML Website .mp3.json
+836,1509.76,1511.76, So that they also need work.,2 _Your First HTML Website .mp3.json
+837,1511.76,1512.76, And they are also giving money.,2 _Your First HTML Website .mp3.json
+838,1512.76,1514.76, So they also want that if they are giving money.,2 _Your First HTML Website .mp3.json
+839,1514.76,1515.76, So that their money is not wasted.,2 _Your First HTML Website .mp3.json
+840,1515.76,1517.76," So here fiverr, upwork.",2 _Your First HTML Website .mp3.json
+841,1517.76,1518.76, There are many other freelancing websites.,2 _Your First HTML Website .mp3.json
+842,1518.76,1519.76, On which you can try.,2 _Your First HTML Website .mp3.json
+843,1519.76,1520.76, But before trying.,2 _Your First HTML Website .mp3.json
+844,1520.76,1522.76, You should know how to make good websites.,2 _Your First HTML Website .mp3.json
+845,1522.76,1523.76, And in today's date.,2 _Your First HTML Website .mp3.json
+846,1523.76,1524.76, Responsive.,2 _Your First HTML Website .mp3.json
+847,1524.76,1526.76, Using cutting edge technologies.,2 _Your First HTML Website .mp3.json
+848,1526.76,1529.76, Suppose you want to integrate chat gpt api.,2 _Your First HTML Website .mp3.json
+849,1529.76,1530.76, You will get such work.,2 _Your First HTML Website .mp3.json
+850,1530.76,1532.76, No one will tell you to make a design.,2 _Your First HTML Website .mp3.json
+851,1532.76,1535.76, Make such a simple navbar for you.,2 _Your First HTML Website .mp3.json
+852,1535.76,1537.76, I am saying most of the clients do not do this.,2 _Your First HTML Website .mp3.json
+853,1537.76,1539.76, Nowadays everyone does chat gpt.,2 _Your First HTML Website .mp3.json
+854,1539.76,1541.76, You can make complex websites.,2 _Your First HTML Website .mp3.json
+855,1541.76,1543.76, You can earn more money.,2 _Your First HTML Website .mp3.json
+856,1543.76,1544.76, Then the second thing is.,2 _Your First HTML Website .mp3.json
+857,1544.76,1545.76, Get a job as a web developer.,2 _Your First HTML Website .mp3.json
+858,1545.76,1547.76, If you get a job as a web developer.,2 _Your First HTML Website .mp3.json
+859,1547.76,1549.76, If you become a good web developer.,2 _Your First HTML Website .mp3.json
+860,1549.76,1550.76, Then you will get a job.,2 _Your First HTML Website .mp3.json
+861,1550.76,1552.76, And it's not that the jobs have become less.,2 _Your First HTML Website .mp3.json
+862,1552.76,1554.76," In fact, the demand for senior developers is increasing.",2 _Your First HTML Website .mp3.json
+863,1554.76,1556.76, And their package is also increasing.,2 _Your First HTML Website .mp3.json
+864,1556.76,1558.76, People are earning more money in coding.,2 _Your First HTML Website .mp3.json
+865,1558.76,1560.76, Than they were earning before.,2 _Your First HTML Website .mp3.json
+866,1560.76,1561.76, If you are a very basic developer.,2 _Your First HTML Website .mp3.json
+867,1561.76,1563.76," Then yes, chat gpt will replace you.",2 _Your First HTML Website .mp3.json
+868,1563.76,1565.76," After this, you can sell your services.",2 _Your First HTML Website .mp3.json
+869,1565.76,1567.76, By making an Instagram account.,2 _Your First HTML Website .mp3.json
+870,1567.76,1570.76, If you upload any kind of images in your Instagram account.,2 _Your First HTML Website .mp3.json
+871,1570.76,1573.76, And if you take a little bit of traction.,2 _Your First HTML Website .mp3.json
+872,1573.76,1575.76, Where you talk about websites.,2 _Your First HTML Website .mp3.json
+873,1575.76,1576.76, About all these things.,2 _Your First HTML Website .mp3.json
+874,1576.76,1578.76, Then clients start approaching you.,2 _Your First HTML Website .mp3.json
+875,1578.76,1579.76, Many clients approach me.,2 _Your First HTML Website .mp3.json
+876,1579.76,1581.76, Because they tell me that I have to make a website.,2 _Your First HTML Website .mp3.json
+877,1581.76,1583.76, I am not saying that you should have a lot of followers.,2 _Your First HTML Website .mp3.json
+878,1583.76,1585.76, You can start with a very low following.,2 _Your First HTML Website .mp3.json
+879,1585.76,1588.76," After this, you can give people one to one help.",2 _Your First HTML Website .mp3.json
+880,1588.76,1591.76," You will also get this from clients, Instagram and other social media.",2 _Your First HTML Website .mp3.json
+881,1591.76,1593.76, You can say at the end of your reel.,2 _Your First HTML Website .mp3.json
+882,1593.76,1595.76, If you want to learn anything.,2 _Your First HTML Website .mp3.json
+883,1595.76,1596.76, Then you come to my DM.,2 _Your First HTML Website .mp3.json
+884,1596.76,1597.76, I will tell you.,2 _Your First HTML Website .mp3.json
+885,1597.76,1600.76, And you get clients very easily.,2 _Your First HTML Website .mp3.json
+886,1600.76,1602.76, Trust me if it helps you.,2 _Your First HTML Website .mp3.json
+887,1602.76,1604.76," After this, you can sell the course.",2 _Your First HTML Website .mp3.json
+888,1604.76,1606.76, I was going to sell this course.,2 _Your First HTML Website .mp3.json
+889,1606.76,1608.76, I have uploaded it for free.,2 _Your First HTML Website .mp3.json
+890,1608.76,1610.76, But this course was going to be paid for you.,2 _Your First HTML Website .mp3.json
+891,1610.76,1612.76, This is the truth.,2 _Your First HTML Website .mp3.json
+892,1612.76,1614.76, And when you get this course paid.,2 _Your First HTML Website .mp3.json
+893,1614.76,1616.76, Then definitely everyone would have given money for this course.,2 _Your First HTML Website .mp3.json
+894,1616.76,1619.76, Now it is not necessary that you have to make a course of web development.,2 _Your First HTML Website .mp3.json
+895,1619.76,1621.76, There are many things in web development.,2 _Your First HTML Website .mp3.json
+896,1621.76,1623.76, Like how to use chatgbd.,2 _Your First HTML Website .mp3.json
+897,1623.76,1625.76, Make a course of that.,2 _Your First HTML Website .mp3.json
+898,1625.76,1627.76, If you want to make a website.,2 _Your First HTML Website .mp3.json
+899,1627.76,1629.76, Then it will be easy for you to sell the course.,2 _Your First HTML Website .mp3.json
+900,1629.76,1631.76, The course economy is very huge.,2 _Your First HTML Website .mp3.json
+901,1631.76,1633.76, Many people contacted me to buy this course.,2 _Your First HTML Website .mp3.json
+902,1633.76,1635.76, That I should launch this course on their platform.,2 _Your First HTML Website .mp3.json
+903,1635.76,1637.76, As a paid course.,2 _Your First HTML Website .mp3.json
+904,1637.76,1639.76, But I didn't do it.,2 _Your First HTML Website .mp3.json
+905,1639.76,1641.76, Because I wanted to give this course for free.,2 _Your First HTML Website .mp3.json
+906,1641.76,1643.76, I had decided.,2 _Your First HTML Website .mp3.json
+907,1643.76,1645.76, I had also posted.,2 _Your First HTML Website .mp3.json
+908,1645.76,1647.76," Till the last moment, people contacted me.",2 _Your First HTML Website .mp3.json
+909,1647.76,1649.76, So you have to write sigma batch op.,2 _Your First HTML Website .mp3.json
+910,1649.76,1651.76, And you have to like it.,2 _Your First HTML Website .mp3.json
+911,1651.76,1653.76, Now by uploading this course for free.,2 _Your First HTML Website .mp3.json
+912,1653.76,1655.76, Many course sellers have suffered.,2 _Your First HTML Website .mp3.json
+913,1655.76,1657.76," Because when you get iphone 15, 16, 19 pro max for free.",2 _Your First HTML Website .mp3.json
+914,1657.76,1659.76, Then who will ask blackberry.,2 _Your First HTML Website .mp3.json
+915,1659.76,1661.76, That too paid blackberry.,2 _Your First HTML Website .mp3.json
+916,1661.76,1663.76, And I am saying this because.,2 _Your First HTML Website .mp3.json
+917,1663.76,1665.76, The amount of hard work I have put in this.,2 _Your First HTML Website .mp3.json
+918,1665.76,1667.76, And the amount of experience I have put.,2 _Your First HTML Website .mp3.json
+919,1667.76,1669.76, Only I know that.,2 _Your First HTML Website .mp3.json
+920,1669.76,1671.76," In the coming videos, you will also know.",2 _Your First HTML Website .mp3.json
+921,1671.76,1673.76, So stay tuned.,2 _Your First HTML Website .mp3.json
+922,1673.76,1675.76, You will get a lot of things in the coming videos.,2 _Your First HTML Website .mp3.json
+923,1675.76,1677.76, I know we are taking a slow start.,2 _Your First HTML Website .mp3.json
+924,1677.76,1679.76, But remember my words.,2 _Your First HTML Website .mp3.json
+925,1679.76,1681.76, So access the playlist.,2 _Your First HTML Website .mp3.json
+926,1681.76,1683.76, Like the video.,2 _Your First HTML Website .mp3.json
+927,1683.76,1685.76, Thank you so much guys for watching this video.,2 _Your First HTML Website .mp3.json
+928,1685.76,1687.76, And I will see you next time.,2 _Your First HTML Website .mp3.json
+929,1705.76,1707.76, Thank you so much.,2 _Your First HTML Website .mp3.json
+0,0.0,5.0," In today's video, we will learn about Core Web Vitals and why they are important.",3 _core web vitals in html .mp3.json
+1,5.0,8.0, Like this video and keep your energy high.,3 _core web vitals in html .mp3.json
+2,8.0,16.0," The thing is that your website should run on all devices in iPad, iPhone, Android, Surface Pro 4.",3 _core web vitals in html .mp3.json
+3,16.0,20.0, Because we have to give a good experience to all users through our website.,3 _core web vitals in html .mp3.json
+4,20.0,24.0," In this video, we will also learn that there is a hidden tool in Chrome called Lighthouse.",3 _core web vitals in html .mp3.json
+5,24.0,28.0, And how you can use it to enhance your website.,3 _core web vitals in html .mp3.json
+6,28.0,31.0," So write in the comment section below, Sigma Batch OP.",3 _core web vitals in html .mp3.json
+7,31.0,34.0, Let's go to the computer screen. Let's roll the intro.,3 _core web vitals in html .mp3.json
+8,43.0,45.0," So guys, I have come here to my computer screen.",3 _core web vitals in html .mp3.json
+9,45.0,48.0, And now I will make a new folder whose name is Video 6.,3 _core web vitals in html .mp3.json
+10,48.0,54.0," Video 6 and here in Video 6, I will open VS Code as always.",3 _core web vitals in html .mp3.json
+11,54.0,58.0, And the thing I am going to tell you today is very important from the aspect of SEO.,3 _core web vitals in html .mp3.json
+12,58.0,60.0," First of all, I want to tell you what is SEO?",3 _core web vitals in html .mp3.json
+13,60.0,63.0, SEO stands for Search Engine Optimization.,3 _core web vitals in html .mp3.json
+14,63.0,66.0," If you see any website, then SEO is there in it.",3 _core web vitals in html .mp3.json
+15,66.0,68.0, Let's take the example of Amazon.in.,3 _core web vitals in html .mp3.json
+16,68.0,73.0," I opened Amazon.in, so Amazon.in wants this website to be loaded as soon as possible.",3 _core web vitals in html .mp3.json
+17,73.0,76.0, So that their products can come in search.,3 _core web vitals in html .mp3.json
+18,76.0,77.0, Google is a search engine.,3 _core web vitals in html .mp3.json
+19,77.0,81.0, Google's responsibility is to show the best pages to the users.,3 _core web vitals in html .mp3.json
+20,81.0,84.0," So Google wants to show only those pages that are fast,",3 _core web vitals in html .mp3.json
+21,84.0,86.0," Present information very well,",3 _core web vitals in html .mp3.json
+22,86.0,91.0," And along with that, there are some things in them that the user has a good experience.",3 _core web vitals in html .mp3.json
+23,91.0,93.0," For example, let's say there are two pages.",3 _core web vitals in html .mp3.json
+24,93.0,95.0, One page has told about dog food.,3 _core web vitals in html .mp3.json
+25,95.0,98.0, The other page has also told about dog food exactly the same time.,3 _core web vitals in html .mp3.json
+26,98.0,100.0, But the page 2 of these two is loaded very fast.,3 _core web vitals in html .mp3.json
+27,100.0,103.0," It loads well, so Google will give it more preference.",3 _core web vitals in html .mp3.json
+28,103.0,108.0," Along with that, there are core web vitals that Google considers to rank two pages.",3 _core web vitals in html .mp3.json
+29,108.0,110.0," First of all, content is important.",3 _core web vitals in html .mp3.json
+30,110.0,111.0, What is on your page?,3 _core web vitals in html .mp3.json
+31,111.0,115.0," If your content is good, then your website can rank without core web vitals.",3 _core web vitals in html .mp3.json
+32,115.0,121.0," But if you are competing with a page that has presented almost similar quality content,",3 _core web vitals in html .mp3.json
+33,121.0,124.0, Then your core web vitals will be seen.,3 _core web vitals in html .mp3.json
+34,124.0,128.0," And if your core web vitals are good, then you will be given preference.",3 _core web vitals in html .mp3.json
+35,128.0,131.0, So the first thing that comes in the core web vitals is your CLS.,3 _core web vitals in html .mp3.json
+36,131.0,134.0," You see this video here, which I have run from the web.dev website.",3 _core web vitals in html .mp3.json
+37,134.0,138.0, You will see that someone comes to your website and he is trying to cancel the order here.,3 _core web vitals in html .mp3.json
+38,138.0,142.0," And by mistake, the time he canceled, this thing above became visible.",3 _core web vitals in html .mp3.json
+39,142.0,145.0, And he shifted the layout and the order was completed.,3 _core web vitals in html .mp3.json
+40,145.0,148.0," But the user wanted the order to be incomplete, he wanted to click on no.",3 _core web vitals in html .mp3.json
+41,148.0,150.0," In this case, the user experience is very bad.",3 _core web vitals in html .mp3.json
+42,150.0,152.0," And as you saw in this video, it should not be like this.",3 _core web vitals in html .mp3.json
+43,152.0,154.0, That's why our CLS should be as low as possible.,3 _core web vitals in html .mp3.json
+44,154.0,156.0, Now what is the definition of CLS?,3 _core web vitals in html .mp3.json
+45,156.0,160.0, Cumulative layout shift means how much is shifting while the page is loading.,3 _core web vitals in html .mp3.json
+46,160.0,163.0, Suppose you have loaded the page and first of all you get to see this.,3 _core web vitals in html .mp3.json
+47,163.0,168.0," This was above and then when this key term part was loaded, then everything was shifted below.",3 _core web vitals in html .mp3.json
+48,168.0,169.0, The layout should not be shifted.,3 _core web vitals in html .mp3.json
+49,169.0,172.0," If you put width and height in images, then the layout will not shift.",3 _core web vitals in html .mp3.json
+50,172.0,175.0, The next metric we are going to talk about is LCP.,3 _core web vitals in html .mp3.json
+51,175.0,177.0, And LCP stands for Largest Contextual Paint.,3 _core web vitals in html .mp3.json
+52,177.0,181.0," This means that if the user is viewing a page, then the biggest element on it.",3 _core web vitals in html .mp3.json
+53,181.0,184.0," For example, the biggest part in this is this image.",3 _core web vitals in html .mp3.json
+54,184.0,185.0, How long is it loading?,3 _core web vitals in html .mp3.json
+55,185.0,190.0," Means the whole page will be loaded, but the biggest element which is the most important,",3 _core web vitals in html .mp3.json
+56,190.0,191.0, How long is it loading?,3 _core web vitals in html .mp3.json
+57,191.0,195.0," According to web.dev and google, a good LCP score should be 2.5 seconds.",3 _core web vitals in html .mp3.json
+58,195.0,198.0," That is, the biggest element of the page should be loaded in 2.5 seconds.",3 _core web vitals in html .mp3.json
+59,198.0,201.0, After this comes the third metric which is FID.,3 _core web vitals in html .mp3.json
+60,201.0,203.0, Which stands for First Input Delay.,3 _core web vitals in html .mp3.json
+61,203.0,207.0," First Input Delay means that if any user has clicked on any input element,",3 _core web vitals in html .mp3.json
+62,207.0,210.0," Like on a button or any type of input on a page,",3 _core web vitals in html .mp3.json
+63,210.0,212.0, So how long does that input process?,3 _core web vitals in html .mp3.json
+64,212.0,216.0," For example, if you click on a button, then how long does that button click browser process?",3 _core web vitals in html .mp3.json
+65,216.0,222.0," And according to google and web.dev, your input should start processing in less than 100 milliseconds.",3 _core web vitals in html .mp3.json
+66,222.0,224.0, So these were the three core web vitals which are very important.,3 _core web vitals in html .mp3.json
+67,224.0,228.0," For your information, these core web vitals are also updated.",3 _core web vitals in html .mp3.json
+68,228.0,230.0, But these three are very important and you should know.,3 _core web vitals in html .mp3.json
+69,230.0,234.0, Now I will show you what is the lighthouse report and why do they generate?,3 _core web vitals in html .mp3.json
+70,234.0,237.0, And how will these three core web vitals get value from there?,3 _core web vitals in html .mp3.json
+71,237.0,241.0," So I tell you here, if you inspect by right-clicking,",3 _core web vitals in html .mp3.json
+72,241.0,244.0," And you may be coming to the right side,",3 _core web vitals in html .mp3.json
+73,244.0,246.0, You can bring it down by right-clicking.,3 _core web vitals in html .mp3.json
+74,246.0,250.0," If you want, you can bring it here again and bring it down by right-clicking.",3 _core web vitals in html .mp3.json
+75,250.0,253.0, I prefer it down because I am used to looking down from the starting.,3 _core web vitals in html .mp3.json
+76,253.0,256.0, Now you are getting the option of lighthouse here.,3 _core web vitals in html .mp3.json
+77,256.0,262.0, Lighthouse basically generates a report for you and tells you what can be improved in your HTML page.,3 _core web vitals in html .mp3.json
+78,262.0,268.0," For example, if I want to see how mobile users see my website,",3 _core web vitals in html .mp3.json
+79,268.0,272.0," Then I will click on mobile or I will click on desktop, I will close this tab.",3 _core web vitals in html .mp3.json
+80,272.0,275.0, I will click on mobile and click on analyze page load.,3 _core web vitals in html .mp3.json
+81,275.0,277.0, So this will generate a report for me.,3 _core web vitals in html .mp3.json
+82,277.0,279.0, You can see that a report has been generated here.,3 _core web vitals in html .mp3.json
+83,279.0,284.0," Performance, accessibility, best practices, SE and PWA are being shown.",3 _core web vitals in html .mp3.json
+84,284.0,287.0, Now you can see that some things are shown in red here.,3 _core web vitals in html .mp3.json
+85,287.0,289.0," That is, there is a scope of improvement in the page.",3 _core web vitals in html .mp3.json
+86,289.0,292.0, Now you are telling that size your images properly.,3 _core web vitals in html .mp3.json
+87,292.0,295.0, Your website can be loaded fast 2.7 seconds.,3 _core web vitals in html .mp3.json
+88,295.0,299.0, So all these suggestions are given to you by lighthouse.,3 _core web vitals in html .mp3.json
+89,299.0,304.0," And if you incorporate these suggestions, then your website will be loaded very well.",3 _core web vitals in html .mp3.json
+90,304.0,306.0, And will give a good experience to the user.,3 _core web vitals in html .mp3.json
+91,306.0,309.0, Now you can see that it is written here that image elements do not have explicit width and height.,3 _core web vitals in html .mp3.json
+92,309.0,311.0, So you should give width and height.,3 _core web vitals in html .mp3.json
+93,311.0,315.0, The width and height attribute of the image that we read in the last video should be used.,3 _core web vitals in html .mp3.json
+94,315.0,318.0, So that it is reserved in your browser.,3 _core web vitals in html .mp3.json
+95,318.0,322.0," When we set width and height in HTML, then it is reserved in the space browser.",3 _core web vitals in html .mp3.json
+96,322.0,325.0," Otherwise, if we do not set height and width, then what will happen is that",3 _core web vitals in html .mp3.json
+97,325.0,328.0, Our browser will not know how much space to reserve.,3 _core web vitals in html .mp3.json
+98,328.0,332.0," And as long as the CSS is loaded, the whole page will shift from the bottom.",3 _core web vitals in html .mp3.json
+99,332.0,335.0, So we do not want our page to shift during loading time.,3 _core web vitals in html .mp3.json
+100,335.0,338.0," If our page starts shifting, then if we are going to click here.",3 _core web vitals in html .mp3.json
+101,338.0,342.0," So when it is accidentally shifted, it may happen that we click here.",3 _core web vitals in html .mp3.json
+102,342.0,345.0," Suppose there was an image coming here, I am going to click here.",3 _core web vitals in html .mp3.json
+103,345.0,348.0," And as long as I clicked, this image was loaded during that time.",3 _core web vitals in html .mp3.json
+104,348.0,350.0, And all this content shifted down.,3 _core web vitals in html .mp3.json
+105,350.0,353.0," And instead of clicking here by mistake, I will click on the image.",3 _core web vitals in html .mp3.json
+106,353.0,355.0, This is called cumulative layout shift.,3 _core web vitals in html .mp3.json
+107,355.0,358.0, So this kind of shift is not preferred at all.,3 _core web vitals in html .mp3.json
+108,358.0,360.0, Google does not prefer it at all.,3 _core web vitals in html .mp3.json
+109,360.0,361.0, And this should be as low as possible.,3 _core web vitals in html .mp3.json
+110,361.0,363.0, You can see that the space is very low.,3 _core web vitals in html .mp3.json
+111,363.0,365.0, So we have to keep the cumulative layout shift as low as possible.,3 _core web vitals in html .mp3.json
+112,365.0,368.0, So that our user can get a very good experience.,3 _core web vitals in html .mp3.json
+113,368.0,370.0, So here are many more suggestions.,3 _core web vitals in html .mp3.json
+114,370.0,372.0, And this is for our mobile.,3 _core web vitals in html .mp3.json
+115,372.0,373.0, Now we can generate a desktop report.,3 _core web vitals in html .mp3.json
+116,373.0,375.0, So the desktop report will be generated.,3 _core web vitals in html .mp3.json
+117,375.0,378.0, So as you can see that it has generated a report.,3 _core web vitals in html .mp3.json
+118,378.0,379.0, 92 marks in performance.,3 _core web vitals in html .mp3.json
+119,379.0,381.0, 100 out of 82 in accessibility.,3 _core web vitals in html .mp3.json
+120,381.0,383.0, 75 in best practices and 75 in SEO.,3 _core web vitals in html .mp3.json
+121,383.0,386.0, Now you see here that the things that are good are told here.,3 _core web vitals in html .mp3.json
+122,386.0,389.0," And the scope of improvement that is there, it is told to you.",3 _core web vitals in html .mp3.json
+123,389.0,392.0, So this is a hidden tool that we should all use.,3 _core web vitals in html .mp3.json
+124,392.0,395.0, Now I want to tell you about meta tags and meta description.,3 _core web vitals in html .mp3.json
+125,395.0,397.0, So what I will do here is that I will make a new file.,3 _core web vitals in html .mp3.json
+126,397.0,399.0, I will name it index.html.,3 _core web vitals in html .mp3.json
+127,399.0,404.0," And after making an HTML file, the first SEO element I want to tell you is title.",3 _core web vitals in html .mp3.json
+128,404.0,409.0," If your title is reflecting the content of your page, then this is a very good SEO practice.",3 _core web vitals in html .mp3.json
+129,409.0,413.0," Whenever your page is changing, you make the title in such a way that it reflects the content of your page.",3 _core web vitals in html .mp3.json
+130,413.0,417.0," Because if you want your website on Google, then it will come according to the title.",3 _core web vitals in html .mp3.json
+131,417.0,420.0, Google's index is like you guys write code with Harry here.,3 _core web vitals in html .mp3.json
+132,420.0,424.0," Okay, and if you write like this, then this thing is the title of the page.",3 _core web vitals in html .mp3.json
+133,424.0,426.0, And this is the title of the page that YouTube has put.,3 _core web vitals in html .mp3.json
+134,426.0,428.0, This title is of the page that Instagram has put.,3 _core web vitals in html .mp3.json
+135,428.0,431.0, This title is of the page that GitHub has put.,3 _core web vitals in html .mp3.json
+136,431.0,437.0, So if the title is on the page and the title actually reflects the content of your page.,3 _core web vitals in html .mp3.json
+137,437.0,440.0, Then your website will rank very well.,3 _core web vitals in html .mp3.json
+138,440.0,445.0, Now let's say I put content here and I put an h1 and write Harry here.,3 _core web vitals in html .mp3.json
+139,445.0,450.0," And after that, let's say I write a paragraph here and write lorem 45 here.",3 _core web vitals in html .mp3.json
+140,450.0,452.0, Now why did I write lorem 45?,3 _core web vitals in html .mp3.json
+141,452.0,453.0, I will do view word wrap.,3 _core web vitals in html .mp3.json
+142,453.0,455.0, Why did I write 45?,3 _core web vitals in html .mp3.json
+143,455.0,456.0, This is a very good question.,3 _core web vitals in html .mp3.json
+144,456.0,459.0, I wrote 45 because I am lazy and 4 and 5 are around.,3 _core web vitals in html .mp3.json
+145,459.0,460.0, So I reduced 4 and 5.,3 _core web vitals in html .mp3.json
+146,460.0,462.0, I also write 23 because they are also around.,3 _core web vitals in html .mp3.json
+147,462.0,463.0," Okay, so there is no other reason.",3 _core web vitals in html .mp3.json
+148,463.0,465.0, Now I will preview it quickly here.,3 _core web vitals in html .mp3.json
+149,465.0,466.0, I will open in browser here.,3 _core web vitals in html .mp3.json
+150,466.0,467.0, So see it looks like this.,3 _core web vitals in html .mp3.json
+151,467.0,469.0, Now this document is written.,3 _core web vitals in html .mp3.json
+152,469.0,471.0," If I leave it like this, then it will not be a good SEO practice.",3 _core web vitals in html .mp3.json
+153,471.0,475.0, I will write about Harry here and I will write code with Harry here.,3 _core web vitals in html .mp3.json
+154,475.0,476.0, Which is also my website.,3 _core web vitals in html .mp3.json
+155,476.0,478.0," Okay, and what will happen by doing this?",3 _core web vitals in html .mp3.json
+156,478.0,480.0, That my title will reflect here.,3 _core web vitals in html .mp3.json
+157,480.0,481.0, As you can see.,3 _core web vitals in html .mp3.json
+158,481.0,483.0, So what will happen by doing this kind of work?,3 _core web vitals in html .mp3.json
+159,483.0,487.0, That my website will have more chances of being seen in Google.,3 _core web vitals in html .mp3.json
+160,487.0,489.0, I will inspect and also take out its lighthouse report.,3 _core web vitals in html .mp3.json
+161,489.0,491.0, And I will see what are the scope of improvements.,3 _core web vitals in html .mp3.json
+162,491.0,493.0, Now its lighthouse report will be very big.,3 _core web vitals in html .mp3.json
+163,493.0,496.0, Because there is nothing in it that I should improve.,3 _core web vitals in html .mp3.json
+164,496.0,498.0," But when I will put images, then I will get suggestions.",3 _core web vitals in html .mp3.json
+165,498.0,500.0," Like put width, put height.",3 _core web vitals in html .mp3.json
+166,500.0,503.0," Along with that, I will tell you one more trick.",3 _core web vitals in html .mp3.json
+167,503.0,506.0, So that you can see your website in any mobile.,3 _core web vitals in html .mp3.json
+168,506.0,507.0, You will find out.,3 _core web vitals in html .mp3.json
+169,507.0,509.0, So you guys click here.,3 _core web vitals in html .mp3.json
+170,509.0,510.0, Can you see the computer here?,3 _core web vitals in html .mp3.json
+171,510.0,511.0, Click on it.,3 _core web vitals in html .mp3.json
+172,511.0,513.0, And after that if you choose responsive in it.,3 _core web vitals in html .mp3.json
+173,513.0,517.0, So you can see that how your website will be seen in any kind of device.,3 _core web vitals in html .mp3.json
+174,517.0,520.0, So you can see if your website is responsive or not.,3 _core web vitals in html .mp3.json
+175,521.0,523.0, If you go to see in a specific device.,3 _core web vitals in html .mp3.json
+176,523.0,524.0, Like in iPhone 12 Pro.,3 _core web vitals in html .mp3.json
+177,524.0,528.0, Your website will look like this in iPhone 12 Pro resolution.,3 _core web vitals in html .mp3.json
+178,528.0,531.0, Now don't say why there is no 15 or 16 in it.,3 _core web vitals in html .mp3.json
+179,531.0,533.0, 12 Pro means a big iPhone device.,3 _core web vitals in html .mp3.json
+180,533.0,534.0, Understand.,3 _core web vitals in html .mp3.json
+181,534.0,536.0, In such a big device.,3 _core web vitals in html .mp3.json
+182,536.0,538.0, How will your website look in such a big device?,3 _core web vitals in html .mp3.json
+183,538.0,540.0, This is simply being told to you.,3 _core web vitals in html .mp3.json
+184,540.0,542.0, So now you can see here.,3 _core web vitals in html .mp3.json
+185,542.0,544.0, How will it look in Surface Pro 7?,3 _core web vitals in html .mp3.json
+186,544.0,546.0, By clicking here.,3 _core web vitals in html .mp3.json
+187,546.0,547.0, How will it look in Google phones?,3 _core web vitals in html .mp3.json
+188,547.0,549.0, You can also find out.,3 _core web vitals in html .mp3.json
+189,549.0,552.0, And if you want to take a general view.,3 _core web vitals in html .mp3.json
+190,552.0,554.0, That my website is in a responsive device.,3 _core web vitals in html .mp3.json
+191,554.0,555.0, In any kind of device.,3 _core web vitals in html .mp3.json
+192,555.0,557.0, Suppose how will it look in iPad?,3 _core web vitals in html .mp3.json
+193,557.0,559.0, Now if you don't have a device here.,3 _core web vitals in html .mp3.json
+194,559.0,560.0, Then you choose responsive.,3 _core web vitals in html .mp3.json
+195,560.0,562.0, And find out the approximate width of your device.,3 _core web vitals in html .mp3.json
+196,562.0,565.0," In total, your website should look good in all the width devices.",3 _core web vitals in html .mp3.json
+197,565.0,566.0, How does this happen?,3 _core web vitals in html .mp3.json
+198,566.0,567.0, I will tell you later in this course.,3 _core web vitals in html .mp3.json
+199,567.0,569.0, Now if you click here again.,3 _core web vitals in html .mp3.json
+200,569.0,570.0, Then it stops.,3 _core web vitals in html .mp3.json
+201,570.0,571.0, This responsive view stops.,3 _core web vitals in html .mp3.json
+202,571.0,572.0, And as soon as it stops.,3 _core web vitals in html .mp3.json
+203,572.0,574.0, Your website looks like this.,3 _core web vitals in html .mp3.json
+204,574.0,575.0, I will close it.,3 _core web vitals in html .mp3.json
+205,575.0,576.0, I will come back here.,3 _core web vitals in html .mp3.json
+206,576.0,578.0, Now I will tell you about Meta Text.,3 _core web vitals in html .mp3.json
+207,578.0,580.0, Here I will write like Meta.,3 _core web vitals in html .mp3.json
+208,580.0,582.0, Then you will see Meta DESC is coming here.,3 _core web vitals in html .mp3.json
+209,582.0,583.0, I will click on Meta DESC.,3 _core web vitals in html .mp3.json
+210,583.0,585.0, And here I can give the description of my page.,3 _core web vitals in html .mp3.json
+211,585.0,586.0, Suppose I give.,3 _core web vitals in html .mp3.json
+212,586.0,588.0, This is the page.,3 _core web vitals in html .mp3.json
+213,588.0,589.0, This is a page about.,3 _core web vitals in html .mp3.json
+214,589.0,595.0, This is a page which contains description about Harry.,3 _core web vitals in html .mp3.json
+215,597.0,599.0, And here you can write whatever page content you have.,3 _core web vitals in html .mp3.json
+216,599.0,600.0, Whatever you want.,3 _core web vitals in html .mp3.json
+217,600.0,601.0, Like I show you.,3 _core web vitals in html .mp3.json
+218,601.0,603.0, Suppose you write what is SEO.,3 _core web vitals in html .mp3.json
+219,604.0,605.0, You have written what is SEO.,3 _core web vitals in html .mp3.json
+220,605.0,606.0, See here.,3 _core web vitals in html .mp3.json
+221,606.0,608.0, This page has put this Meta Description.,3 _core web vitals in html .mp3.json
+222,608.0,610.0, SEO stands for this in simple terms.,3 _core web vitals in html .mp3.json
+223,610.0,613.0, Now it is not necessary that a search engine will parse your Meta DESC.,3 _core web vitals in html .mp3.json
+224,613.0,614.0, It will not do this.,3 _core web vitals in html .mp3.json
+225,614.0,615.0, If it liked it.,3 _core web vitals in html .mp3.json
+226,615.0,617.0, Then it will parse and keep your Meta DESC here.,3 _core web vitals in html .mp3.json
+227,617.0,618.0, If you have not put Meta DESC.,3 _core web vitals in html .mp3.json
+228,618.0,621.0, Then Meta DESC can be generated from your content.,3 _core web vitals in html .mp3.json
+229,621.0,623.0, So this is the responsibility of the search engine.,3 _core web vitals in html .mp3.json
+230,623.0,624.0, What will Bing do?,3 _core web vitals in html .mp3.json
+231,624.0,625.0, What will Google do?,3 _core web vitals in html .mp3.json
+232,625.0,626.0, We do not know this.,3 _core web vitals in html .mp3.json
+233,626.0,627.0, But from our side.,3 _core web vitals in html .mp3.json
+234,627.0,628.0, Our page should be absolutely to the point.,3 _core web vitals in html .mp3.json
+235,628.0,629.0, Especially if we are writing a blog.,3 _core web vitals in html .mp3.json
+236,629.0,632.0, And we want our page to rank organically.,3 _core web vitals in html .mp3.json
+237,632.0,633.0, So here you can see.,3 _core web vitals in html .mp3.json
+238,633.0,635.0, I have put Meta DESC.,3 _core web vitals in html .mp3.json
+239,635.0,637.0, Now a Meta Keyword used to work a lot earlier.,3 _core web vitals in html .mp3.json
+240,637.0,639.0, But now the Meta Keyword.,3 _core web vitals in html .mp3.json
+241,639.0,641.0, That has been deprecated.,3 _core web vitals in html .mp3.json
+242,641.0,643.0, Meta Keyword is not used at all now.,3 _core web vitals in html .mp3.json
+243,643.0,645.0, The code of Meta Keywords looks like this.,3 _core web vitals in html .mp3.json
+244,645.0,646.0, But it is believed that.,3 _core web vitals in html .mp3.json
+245,646.0,647.0, Meta Keywords.,3 _core web vitals in html .mp3.json
+246,647.0,649.0, They do not rank at all in SEO.,3 _core web vitals in html .mp3.json
+247,649.0,651.0, Because people abuse it more.,3 _core web vitals in html .mp3.json
+248,651.0,652.0, Suppose you have written a page.,3 _core web vitals in html .mp3.json
+249,652.0,653.0, About pets.,3 _core web vitals in html .mp3.json
+250,653.0,655.0, And you have written what is SEO in Meta Keyword.,3 _core web vitals in html .mp3.json
+251,655.0,657.0, So it is not that your page will be ranked.,3 _core web vitals in html .mp3.json
+252,657.0,659.0, I will correct these double quotes here.,3 _core web vitals in html .mp3.json
+253,659.0,661.0, So if I put Meta Keyword here.,3 _core web vitals in html .mp3.json
+254,661.0,663.0, It is not necessary that the search engine will consider it.,3 _core web vitals in html .mp3.json
+255,663.0,665.0, Some search engines do this.,3 _core web vitals in html .mp3.json
+256,665.0,666.0, They do not believe in Meta Keywords.,3 _core web vitals in html .mp3.json
+257,666.0,668.0, They say that we do not want to see your Meta Keywords.,3 _core web vitals in html .mp3.json
+258,668.0,669.0, You do not put it.,3 _core web vitals in html .mp3.json
+259,669.0,670.0, So Meta Keywords used to work a lot earlier.,3 _core web vitals in html .mp3.json
+260,670.0,671.0, But now it does not work.,3 _core web vitals in html .mp3.json
+261,671.0,673.0, Now the content of your page is being parsed.,3 _core web vitals in html .mp3.json
+262,673.0,674.0, And now the time of AI is coming.,3 _core web vitals in html .mp3.json
+263,674.0,675.0, So especially more.,3 _core web vitals in html .mp3.json
+264,675.0,677.0, Your content will be understood.,3 _core web vitals in html .mp3.json
+265,677.0,678.0, What value is your content giving.,3 _core web vitals in html .mp3.json
+266,678.0,679.0, It will be understood.,3 _core web vitals in html .mp3.json
+267,679.0,680.0, Accordingly it will be ranked.,3 _core web vitals in html .mp3.json
+268,680.0,682.0, Now if you want to know exactly.,3 _core web vitals in html .mp3.json
+269,682.0,683.0, About these Core Web Vitals.,3 _core web vitals in html .mp3.json
+270,683.0,684.0, For example.,3 _core web vitals in html .mp3.json
+271,684.0,685.0, If I right click and inspect.,3 _core web vitals in html .mp3.json
+272,685.0,687.0, And go to Lighthouse.,3 _core web vitals in html .mp3.json
+273,687.0,688.0, And for the desktop.,3 _core web vitals in html .mp3.json
+274,688.0,689.0, I take out the Lighthouse report.,3 _core web vitals in html .mp3.json
+275,689.0,690.0, So some Core Web Vitals come.,3 _core web vitals in html .mp3.json
+276,690.0,691.0, Like LCP comes.,3 _core web vitals in html .mp3.json
+277,691.0,692.0, Then after that.,3 _core web vitals in html .mp3.json
+278,692.0,693.0, FCP comes.,3 _core web vitals in html .mp3.json
+279,693.0,694.0, First Contextual Paint.,3 _core web vitals in html .mp3.json
+280,694.0,695.0, Now you can see here.,3 _core web vitals in html .mp3.json
+281,695.0,697.0, Everything is 100.,3 _core web vitals in html .mp3.json
+282,697.0,698.0, Look here.,3 _core web vitals in html .mp3.json
+283,698.0,699.0, There was not much in this content.,3 _core web vitals in html .mp3.json
+284,699.0,700.0, But here you can see.,3 _core web vitals in html .mp3.json
+285,700.0,701.0, What is he doing.,3 _core web vitals in html .mp3.json
+286,701.0,703.0, Pages with Websocket.,3 _core web vitals in html .mp3.json
+287,703.0,705.0, Cannot enter back forward cache.,3 _core web vitals in html .mp3.json
+288,705.0,706.0, It has Websocket.,3 _core web vitals in html .mp3.json
+289,706.0,708.0, Because we are using this extension.,3 _core web vitals in html .mp3.json
+290,708.0,709.0, Live Preview.,3 _core web vitals in html .mp3.json
+291,709.0,710.0, Otherwise this is absolutely right.,3 _core web vitals in html .mp3.json
+292,710.0,711.0, Accessibility is also 100.,3 _core web vitals in html .mp3.json
+293,711.0,712.0, Everything is 100.,3 _core web vitals in html .mp3.json
+294,712.0,713.0, This is a very good page.,3 _core web vitals in html .mp3.json
+295,713.0,715.0, PWA is Progressive Web Apps.,3 _core web vitals in html .mp3.json
+296,715.0,716.0, Which we will not make now.,3 _core web vitals in html .mp3.json
+297,716.0,717.0, But you see here.,3 _core web vitals in html .mp3.json
+298,717.0,718.0, First Contextual Paint.,3 _core web vitals in html .mp3.json
+299,718.0,719.0, Largest Contextual Paint.,3 _core web vitals in html .mp3.json
+300,719.0,720.0, Total Blocking Time.,3 _core web vitals in html .mp3.json
+301,720.0,721.0, Cumulative Layout Shift.,3 _core web vitals in html .mp3.json
+302,721.0,722.0, Speed Index.,3 _core web vitals in html .mp3.json
+303,722.0,723.0, If you want to know about all this.,3 _core web vitals in html .mp3.json
+304,723.0,724.0, Like what is First Contextual Paint.,3 _core web vitals in html .mp3.json
+305,724.0,725.0, What is the user going to see.,3 _core web vitals in html .mp3.json
+306,725.0,726.0, How long has it been painted on the browser.,3 _core web vitals in html .mp3.json
+307,726.0,727.0, So if you want to see this.,3 _core web vitals in html .mp3.json
+308,727.0,728.0, Then you have to go to web.dev.,3 _core web vitals in html .mp3.json
+309,728.0,729.0, Web.dev is a very good website.,3 _core web vitals in html .mp3.json
+310,729.0,730.0, Which talks about all these things.,3 _core web vitals in html .mp3.json
+311,730.0,731.0, And you can see here.,3 _core web vitals in html .mp3.json
+312,731.0,732.0, That he keeps talking about it.,3 _core web vitals in html .mp3.json
+313,732.0,733.0, You can learn here.,3 _core web vitals in html .mp3.json
+314,733.0,734.0, About all these things.,3 _core web vitals in html .mp3.json
+315,734.0,735.0, What is it?,3 _core web vitals in html .mp3.json
+316,735.0,736.0, If you want to learn PWA.,3 _core web vitals in html .mp3.json
+317,736.0,737.0, Then you can learn PWA.,3 _core web vitals in html .mp3.json
+318,737.0,738.0, About all these things.,3 _core web vitals in html .mp3.json
+319,738.0,739.0, Here.,3 _core web vitals in html .mp3.json
+320,739.0,740.0, A lot of good content.,3 _core web vitals in html .mp3.json
+321,740.0,741.0, And you can see here.,3 _core web vitals in html .mp3.json
+322,741.0,742.0, This is the first page.,3 _core web vitals in html .mp3.json
+323,742.0,743.0, And this is the second page.,3 _core web vitals in html .mp3.json
+324,743.0,744.0, And this is the third page.,3 _core web vitals in html .mp3.json
+325,744.0,745.0, And if you want to learn PWA.,3 _core web vitals in html .mp3.json
+326,745.0,746.0, Then you can learn PWA.,3 _core web vitals in html .mp3.json
+327,746.0,747.0, About all these things.,3 _core web vitals in html .mp3.json
+328,747.0,748.0, Here.,3 _core web vitals in html .mp3.json
+329,748.0,749.0, A lot of good content.,3 _core web vitals in html .mp3.json
+330,749.0,750.0, But in this course.,3 _core web vitals in html .mp3.json
+331,750.0,751.0," We will focus on HTML, CSS, JavaScript.",3 _core web vitals in html .mp3.json
+332,751.0,752.0, And making websites.,3 _core web vitals in html .mp3.json
+333,752.0,753.0, This thing.,3 _core web vitals in html .mp3.json
+334,753.0,754.0, According to me.,3 _core web vitals in html .mp3.json
+335,754.0,755.0, You should have come.,3 _core web vitals in html .mp3.json
+336,755.0,756.0, Because of which.,3 _core web vitals in html .mp3.json
+337,756.0,757.0, I told you about it.,3 _core web vitals in html .mp3.json
+338,757.0,758.0, If you have not yet.,3 _core web vitals in html .mp3.json
+339,758.0,759.0, Sigma web development series.,3 _core web vitals in html .mp3.json
+340,759.0,760.0, Have not accessed.,3 _core web vitals in html .mp3.json
+341,760.0,761.0, So definitely access it.,3 _core web vitals in html .mp3.json
+342,761.0,762.0, Access the playlist.,3 _core web vitals in html .mp3.json
+343,762.0,763.0, And bookmark it.,3 _core web vitals in html .mp3.json
+344,763.0,764.0, Or click on star.,3 _core web vitals in html .mp3.json
+345,764.0,765.0, And click here.,3 _core web vitals in html .mp3.json
+346,765.0,766.0, And save it.,3 _core web vitals in html .mp3.json
+347,766.0,767.0, That's all for now guys.,3 _core web vitals in html .mp3.json
+348,767.0,768.0, Thank you so much guys.,3 _core web vitals in html .mp3.json
+349,768.0,769.0, For watching this video.,3 _core web vitals in html .mp3.json
+350,769.0,770.0, And I will see you.,3 _core web vitals in html .mp3.json
+351,770.0,771.0, Next time.,3 _core web vitals in html .mp3.json

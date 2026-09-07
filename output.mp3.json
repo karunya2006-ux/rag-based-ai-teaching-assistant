@@ -1,0 +1,132 @@
+{
+    "text": " In the last video, you guys gave a lot of love. It's my pleasure to keep this course free. A like is required for this free course. You know when I started web development, I didn't have a comprehensive course of this quality.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.6,
+            "text": " In the last video, you guys gave a lot of love.",
+            "tokens": [
+                50364,
+                682,
+                264,
+                1036,
+                960,
+                11,
+                291,
+                1074,
+                2729,
+                257,
+                688,
+                295,
+                959,
+                13,
+                50494
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5645219741329071,
+            "compression_ratio": 1.4125,
+            "no_speech_prob": 0.0017791198333725333
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.6,
+            "end": 5.0,
+            "text": " It's my pleasure to keep this course free.",
+            "tokens": [
+                50494,
+                467,
+                311,
+                452,
+                6834,
+                281,
+                1066,
+                341,
+                1164,
+                1737,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5645219741329071,
+            "compression_ratio": 1.4125,
+            "no_speech_prob": 0.0017791198333725333
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 5.0,
+            "end": 6.640000000000001,
+            "text": " A like is required for this free course.",
+            "tokens": [
+                50614,
+                316,
+                411,
+                307,
+                4739,
+                337,
+                341,
+                1737,
+                1164,
+                13,
+                50696
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5645219741329071,
+            "compression_ratio": 1.4125,
+            "no_speech_prob": 0.0017791198333725333
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 6.640000000000001,
+            "end": 8.36,
+            "text": " You know when I started web development,",
+            "tokens": [
+                50696,
+                509,
+                458,
+                562,
+                286,
+                1409,
+                3670,
+                3250,
+                11,
+                50782
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5645219741329071,
+            "compression_ratio": 1.4125,
+            "no_speech_prob": 0.0017791198333725333
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 8.36,
+            "end": 10.6,
+            "text": " I didn't have a comprehensive course of this quality.",
+            "tokens": [
+                50782,
+                286,
+                994,
+                380,
+                362,
+                257,
+                13914,
+                1164,
+                295,
+                341,
+                3125,
+                13,
+                50894
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5645219741329071,
+            "compression_ratio": 1.4125,
+            "no_speech_prob": 0.0017791198333725333
+        }
+    ],
+    "language": "hi"
+}
