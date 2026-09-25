@@ -1,0 +1,45 @@
+# Environment and Secrets
+.env
+.env.*
+!.env.example
+
+# Python cache & artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.coverage
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# Large Media Files (Raw Video & Extracted Audio)
+videos/
+audios/
+
+# Large Generated Data & Model Dumps
+*.joblib
+my_data.csv
+prompt.txt
+
+# External / Cloned Repositories
+whisper_repo/
+
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
